@@ -11,7 +11,7 @@ class Convo_grabber():
         self.bearer_key =bearer_key
         self.ultimate_start_date = self.get_strptime(start_date)
         self.ultimate_end_date = self.get_strptime(end_date)
-        self.keyword = f'lang:nl {query}'
+        self.keyword = f'lang:nl {query} -is:retweet -is:reply'
         self.lag = lag
 
         self.query_params = {
@@ -51,6 +51,7 @@ class Convo_grabber():
         time.sleep(3)
         response = requests.get(self.url,  headers={"Authorization": f"Bearer {self.bearer_key}", "User-Agent" : "v2FullArchiveSearchPython"}, params = self.query_params)
         print(f"response status: {response.status_code}")
+        #print(response.json())
         return response.json()
 
     def get_conv_within_timeframe(self):
@@ -58,21 +59,24 @@ class Convo_grabber():
         print(f"start time: {self.query_params['start_time']}")
         print(f"end time: {self.query_params['end_time']}")
         data = self.make_request()
+        f_tweet = []
 
         try: 
             conv_ids = [e['conversation_id'] for e in data['data']]
-        
+            f_tweet.append(data)
             while "next_token" in data['meta']:
                 self.query_params['next_token'] = data['meta']['next_token']
                 data = self.make_request()
                 print("making a new request...\n")
+                f_tweet.append(data)
+            
                 conv_ids.extend([e['conversation_id'] for e in data['data']])
 
         except:
-            print(f"the keys 'data' and 'meta' are not present:********\n\n{data}\n\n\**********")
+            print(f"the keys 'data' and 'meta' are not present:******************")
             conv_ids = []
 
-        return conv_ids
+        return conv_ids, f_tweet
 
     def get_conversation_ids(self):
         results = []
@@ -85,6 +89,7 @@ class Convo_grabber():
     
             results.append({"start_time": s,
                           "end_time" : e , 
-                          "conversation_ids": self.get_conv_within_timeframe() })
-
+                          "conversation_ids": self.get_conv_within_timeframe()[0], 
+                           "f_tweet" : self.get_conv_within_timeframe()[1]})
+                           
         return results
