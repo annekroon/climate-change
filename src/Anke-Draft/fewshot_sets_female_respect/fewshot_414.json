@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja dat leek me ook, dan wordt die 2% echt ruimschoots gehaald. Is dat opkoopbeleid verder niet ook gewoon inflatie in een andere vorm? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je de eerste categorie( ernst , omvang en snelheid klimaatverandering afwijst ) dan word het al heel lastig. En daar heeft de beste man de afgelopen jaren heel erg zijn best voor gedaan. Ook geen specialist overigens ( En M Dekker al helemaal niet) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "dat smelten is al meer dan 100 jaar een conditio sine qua non voor (een groot deel van) onze drinkwatervoorziening... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We zitten in een wereldeconomie, ook betreffende producten. CO2 prijs is in EU al een factor 10 hoger als in sommige andere landen. Dus kunst is evenwicht te vinden. Tenslotte is hele EU bijdrage maar 11% van wereldwijde uitstoot. Krimpende bevolking en minder vraag helpt meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "klimaatverandering? Volgens experts is het te vroeg om dat te zeggen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "WETENSCHAP EVOLUEERT WEL NATUURLIJK, MAAR BETROUWBARE BRONNEN (BV. REUTERS, APNEWS, NATURE, NASA, KNMI, EDA E.D.) GEVEN JE NIET DE ANGSTVERHALEN MAAR GEWOON FEITELIJKE RAPPORTAGE, MEESTE IS SAAI EN ZITTEN GEEN KWADE BEDOELINGEN ACHTER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatcrisis is onzin, de stikstof is onzin, het gebrek aan water is onzin, er is een gebrek aan eerlijke bestuurders, dat is de enige crisis die er is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zat twee jaar geleden met een Australische middelbare scholier in het vliegtuig. Toen hadden we het over taal. Waar wij Duits, Frans en Engels krijgen, krijgen zij Indonesisch, Indiaas en Chinees. \n\nLogisch, maar je staat er nooit bij stil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik frame niets. Ik stel alleen twee duidelijke vragen: tot welke financiële prijs wilt u gaan (om de gletsjers te herstellen) en kan reizen naar het buitenland ter ontspanning dan nog wel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "David R Olson\n\ncognitive developmental psychologist + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Welja. Welnee. Welja. \n\nAlle teksten op de website van het IPCC en summaries die zij geven zijn alarmerend. Het gaat om de prognoses, de toekomst, de kantelpunten. 19 cm is nu. Het gaat over 2100, dan ziet de wereld er serieus anders uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

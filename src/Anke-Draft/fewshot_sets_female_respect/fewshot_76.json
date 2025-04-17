@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Mijn punt is dat het een te geïsoleerd onderwerp is, teveel een wetenschapskatern. Daarbovenop komt het probleem van de valse balans waarin ontkenners veel te veel ruimte krijgen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De fatale zomerstorm van 1 augustus 1674 was en is ook nog steeds niet verklaarbaar op grond van het toenmalig heersende klimaat. Toch was die er en verwoestte half Utrecht en Holland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken ook niet dat het #klimaat verandert; dat veranderde al vele malen (bijv. fossielresten van tropische begroeiing onder het ijs op Antarctica)\nOok #klimaatverandering sinds 1880\nDe vraag is wel of \"opwarming\" door de méns wordt veroorzaakt\n#CO2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij Op1 heeft BB zeker drie keer gezegd dat een CO2-rantsoen of -belasting niet enkel voor burgers moet gelden maar ook voor bedrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer en zwaardere stormen door klimaatverandering? 'Dat weten we op z'n vroegst pas over 30 jaar' + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat laat zich niet sturen door de krankzinnige “oplossingen” van groenlinks , D66 Samsom en Timmermans. Het is een grof schandaal dat jullie deze gekte in stand houden. Bedenk echte oplossingen zoals kernenergie . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klopt ook.\n\nMaar de politiek wordt weldegelijk in belangrijke mate gedreven en gestuurd door wat er in de pers verschijnt.\n\n(het geeft maar weer eens aan hoe belangrijk de pers is) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar wat Peter zegt is misschien duidelijker: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat dus dat men het niet goed weet. Zou ook met wind en waterstromen te maken hebben. Zoals men zoveel niet goed weet. Maar men doet altijd alsof men het precies weet. \n\nDe 3 Klovendam heeft de tilt van de aarde bv. meetbaar veranderd. Komt door het stuwmeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en…\n\nMoeder aarde doet 1 uitbarsting en 1000 miljard gaat in rook op.\n\nJe kunt haar niet stoppen… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt inderdaad, soms vond ik dat best lastig, wanneer je oprecht en betrokken bent kan je hier zo boos om worden. Wanneer het allemaal niet werkt is ridiculiseren het beste antwoord. Gelukkig zit het verstand en de humor iig aan onze kant 😉😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En je leest erg slecht, het gaat helemaal niet om Shell, het gaat om banken die palmolie plantages aan laten leggen. Veevoeder bedrijven die er verantwoordelijk voor zijn dat Braziliaans oerwoud wordt gekapt voor  soja + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent zelf slecht geïnformeerd. Ze willen nederland volzetten met asieleisers. Internationale experts zeggen zelf dat Nederland onverantwoord bezig is. Nederland is een belangrijke speler in de internationale voedselmarkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

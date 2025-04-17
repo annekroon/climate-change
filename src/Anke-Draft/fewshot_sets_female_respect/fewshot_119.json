@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Die 350 meter hoor ik vaak deze week. Dat lijkt me voor een nieuw project inderdaad te kort bij. Waaruit blijkt dat er plannen zijn voor windturbines op 350 meter van een woonwijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies.\n\nDe suggestie van de tweets van Hiemstra en Simons is dat Yesilgoz iets verkeerd doet, of verkeerd ziet, maar ik vraag me af wat dat dan zou zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke « Klimaatverandering » ? We kregen er hoop en al 1 graad bij in de afgelopen 142 jaar…en NIET gecorrigeerd voor het UHI Er is ook NUL correlatie tussen CO2 niveaus en zeespiegel stijging, ik herhaal NUL. Komt niet in de subsidie kranten. Ja, die kregen 867 miljoen € in 22 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Addie! Je bent mijn boek vergeten: Het Klimaatdebat als Lachspiegel:  Bevat precies de nuance en diepgang die jij niet vindt bij Mounir. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Methodocial weakness and very narrow scope. \n\nThe number is all damages through strong weather, regardingless if such events happened before. \nIt assumes all those damages would not happen through the Klima crisis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hier net zo deze vraag!! Een hele goede vraag waar wij het antwoord ook nog niet gevonden hebben. Denk dat de machthebbers hun eigen belang belangrijker vinden....misschien heeft  hier een antwoord op voor onze kinderen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Ron, uit onderzoek dat uitgevoerd is door NASA blijkt de zon géén factor van invloed te zijn geweest op de huidige klimaatverandering. Het klopt dat de bekende milankovitch cycli vroeger bepalend waren voor het veroorzaken van ijstijden: \n[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja eens, maar dat moeten ze dan ook opschrijven. Dit geeft ruis en dat is helemaal niet nodig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een lange rok aan, mag dat ook. Staat wel heel charmant met die geitenwollen sokken 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Overigens ga ik niet de hele discussie weer opnieuw doen hoor. Een antwoord op deze vragen volstaat. Vermoedelijk krijg ik toch geen antwoord want veel te simpel gesteld, is veel complexer, systeemniveaus, wetenschap, ingewikkelde IPCC LULUCF sommen enz enz + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maarreh ... Je hebt toch ook wel enige ondeugden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Okey I tried, maar zwaai het niet altijd af. GN verder 👍🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

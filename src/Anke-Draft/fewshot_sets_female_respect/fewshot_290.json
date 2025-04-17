@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "2/2 Ook zijn er door klimaatverandering verschuivingen waardoor koudere polaire lucht op andere plaatsen dan normaal komt, (dit geldt ook voor de warmere luchtstromen) waardoor het hele weersysteem instabiel raakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Fossiele brandstoffen verbranden is per definitie niet goed voor het milieu en het klimaat. Wat is er zo erg aan om hier mee te stoppen? Juist de petrochemische industrie is kostbaar voor mensen, terwijl energie letterlijk op te vangen is, iedere dag weer. Wat is hier op tegen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ir. Dick Buteijn heeft alles van de overleden ing. Rob van den Haak onder zijn hoede. Het voorstel gaat nu richting  ! Of de politiek het snapt is de grote vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe niemand wat aan, als andere mij dan ook met rust laten dan is die 'vrede' geregeld ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dacht net, ivm de opwarming, ik ga in m'n bikini, nu moet ik de moonboots aan. Hier sneeuwt het ook. Te erg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welnee, er komen geen concessies. Er is nog 25 miljard die verdeeld moet worden. De balans tussen verhuizen, innoveren, schaalverkleining en uitkopen geeft voldoende mogelijkheid voor \"concessies\" voor boeren die nu lijken te denken dat hun leven op het spel staat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee nog niet! Maar ik zal haar gaan volgen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou zeker. Steeds meer en meer zichtbaar. Ben je zelf kerkelijk? Ik wel en zie steeds meer wat God's goedkeuring niet zou kunnen hebben, volgens de maatstaven van Zijn Woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dag Frank,\nKernenergie lijkt aantrekkelijk, maar is geen geschikte oplossing voor dit probleem. Een kerncentrale bouwen kost minstens tien jaar en wordt alleen gebouwd als er veel subsidie aan wordt gegeven. Dit zou de overheid zoveel geld kosten dat we dan geen geld meer 1/3 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je zou Lucas maar als leraar hebben..,\n\nMijn mening is dit en dat slikt jij maar… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gee diesel, maar wel eentje die voor 3 huishoudens verbruikt.. \nMaar ik doe het raam een beetje open, zodat ik met mijn koele lucht het een beetje minder warm maak voor iedereen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet wel beter… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Maar dat is voor jou heel moeilijk voor te stellen als je alleen geïntereseerd bent in Nederland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, want het is enkel in België dat de problemen zijn 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

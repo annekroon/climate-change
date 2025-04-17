@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Rivieren maken grondwater/drinkwater in de eigen omgeving. Het regent, sneeuwd minder, nomadenleven werkt niet, teveel volk op 1 plek. Wij hebben degelijk schuld aan versnelde klimaat verandering, bos kappen betekend hitte op de grond uitdroging en geen regen circulatie t plaatse + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dodelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ken hem op voorspraak van genoemde professor. Het gaat om de attitude, de bronnen en de kwaliteit van de interpretatie. Daar kan ik me grotendeels in vinden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ben wel benieuwd hoe je de maatschappelijke vraagstukken dan aan wilt gaan. Als we bouwen met CO2 intensieve materialen is de schade in de wereld mijn inziens nog veel groter. Denk alleen al aan uitdroging en bosbranden. Kappen voor bouw is relatief hoogwaardig gebruik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft niet, ook boeren meer aan waterberging doen. Ook op de kavel kan het nodige. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschap dient ook kritisch bekeken te worden. Er is zeer veel manipulatie. Gaat het ook over weer manipulatie door de Navo (chemtrails, haarp) en wat de gevolgen hiervan zijn voor de planeet. Alles bekeken en berekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zie geen bronnen? Als je iets zodanig belangrijk vind, dan kun je dat toch wel onderbouwen Wouter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is naast de kwestie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Raisa geeft ons geen uitleg waarom ze dat ene land en gebied erbij moet halen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dat snap ik ook, zeker als het Shell betreft. Succes met je bedrijf, en als ik vanuit mijn rol (bestuurder gemeente, verantwoordelijk voor oa energietransitie, jullie kan overhalen voor een laadstation in Purmerend, hoor ik het graag 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De poolkap smelt helemaal niet schat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je begint steeds meer een verstokte betweter te worden 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk nu praat je over jezelf en als de de andere tweets na lees hoor ik een ambtenaar zonder emotie, dat jij het goed heb geregeld is super,  en help andere in je omgeving het zelfde te doe als dat mogelijk is, maar in heelveel huishoudens hebben ze al geld te kort, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Anonimiteit is wel een legitiem argument in deze in uw realiteit? 🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

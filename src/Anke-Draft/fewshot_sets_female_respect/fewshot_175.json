@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Isabel en Katrina in resp 2003 en 2005 waren cat. 5. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke omstandigheden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En wellicht ongewild geef je een mooi voorbeeld van wat ik wil zeggen. 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja daarom is het ook niet nodig om dan op een warme dag die temperatuur als bewijs aan te voeren. Ik zag hem dat deze week zeker iets te stellig doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met een omweggetje toch kunnen openen en gelezen. Het stuk bevat vlgs mij geen grote fouten maar is wel erg verouderd. Er wordt gesproken over een huidig CO2 gehalte van 390 ppm. Dat was ong. 2005 schat ik. Onderzoek heeft niet stilgestaan ondertussen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook erg leuk dat onze voorraad drinkwater smelt en het natuurlijk irrigatiesysteem van ons voedsel verdwijnt. NOT + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lees de conclusie! Er kan geen direct verband gelegd worden! Verder is het een verhaal van believers en non-believers. Het klimaat verandert, ja, maar de mens heeft daar een nauwelijks invloed op, tenzij door zijn massale aanwezigheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ben wel blij dat je mijn drankgebruik nog niet kan monitoren, kan ik tenminste met een gerust hart in de auto stappen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik frame niets. Ik stel alleen twee duidelijke vragen: tot welke financiële prijs wilt u gaan (om de gletsjers te herstellen) en kan reizen naar het buitenland ter ontspanning dan nog wel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daarmee hebt u nog geen antwoord gegeven op mijn vraag wie uw persoonlijke god is. Hebt u die geschapen naar het model van de god van de bijbel? En hebt u in dat geval zijn kennelijke aanvaarding van wie alles eet én wie niet alles eet gehandhaafd of geschrapt in uw schepping? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Laat eens even zien wat ik als \"bewijs\" beweerde. Dat maak jij er weer steeds van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gevolgen...\n\nHorende doof, ziende blind. Het klimaatdogma is in steen gebeiteld door (ver) blinde apostelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Schrijven zonder te roken is in mijn geval ondenkbaar ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nogmaals....... kan je grafieken lezen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat er nieuwe banen zullen ontstaan ongetwijfeld, er wordt zoveel geld rondgestrooid dat moet haast wel, die banen zullen echter grotendeels buiten Nederland zijn en de banen hier zullen niet zijn voor de mensen die hun baan kwijtraken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je mag het misschien niet hard opzeggen maar er zijn gewoon te veel mensen op deze planeet\nDus is het erg dat mensen veel al oudere en zwakkere sterven. Tis vreselijk dat het gebeurd, maar voor de overbevolking is het misschien wel goed. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig hebben we Staatsbosbeheer voor houttoevoer richting de hongerige ovens. (die willen opeens dat half Nederland weer verandert in een zandverstuiving) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ook. Tegenwoordig vind ik het klein 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En, ging het goed? Zat je er snel weer in?\n\nJammer toch, dat er vaak voor zo'n standaard opstelling wordt gekozen.\nMocht je nog eens iemand weten, die zich wil verdiepen: \n\nIn de maak: workshop 'participatie of polarisatie'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben van mening dat de Politici en journalisten over het algemeen weinig kritisch zijn over de CAGW-hypothese en die ten onrechte als bewezen aanvaarden. Daarbij vergeleken is dat kleine beetje tegengas van bijna 20 jaar geleden peanuts. \nOok nog niet met waarnemingen ontkracht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is attent van je. Wat ben je toch een lieve man.🤗🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh lekker. Buienradar geeft hier 18 graden...en zo voelt het ook #getsie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat toch echt dat ze vluchten vanwege extreem weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als er een regionale klimaatramp plaats vindt, is het toch heel normaal dat men van de staatsecretaris klimaat wil horen? \n\nEn wat? Duiding, risico's, perspectief, onderzoek, extra maatregelen?\n\nDat is aan de staatssecretaris.\n\nDit heeft niets met goed of fout te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ohjee...als de capslock's van stal worden worden gehaald, dan weten we dat het menens is... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daarmee hebt u nog geen antwoord gegeven op mijn vraag wie uw persoonlijke god is. Hebt u die geschapen naar het model van de god van de bijbel? En hebt u in dat geval zijn kennelijke aanvaarding van wie alles eet én wie niet alles eet gehandhaafd of geschrapt in uw schepping? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bewijzen? Wie begint daar nu over? Ik geef mijn mening over Meeus op basis van zijn tweets. Op basis van gezond verstand en logisch redeneren.\nEn daar komt u binnen in dit draadje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Bedankt voor de snelle reactie. Geven we meteen door (meldingsnummer = MOR2343192) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat je onderschat hoeveel,wie &amp; waarom tegengas gaven &amp; geven aangaande verklaringen voor antropocene era.Als je de aflevering zou kijken zie je in die Zembla-aflevering datgene ook de revue passeren waarbij uit interne stukken blijkt dat oliemaatschappijen gewoon liegen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dag Frank,\nKernenergie lijkt aantrekkelijk, maar is geen geschikte oplossing voor dit probleem. Een kerncentrale bouwen kost minstens tien jaar en wordt alleen gebouwd als er veel subsidie aan wordt gegeven. Dit zou de overheid zoveel geld kosten dat we dan geen geld meer 1/3 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus nog meer reden om te investeren in weerbestendige structuren en ruimtelijke plannen ipv al de gekkigheid ovér de rug van de gewone burgers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bedoel je met dit? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Terugkomend op onze discussie. Accijns verlaging? Dat bedoel ik. De keuze wordt gemaakt voor de mens uiteindelijk en niet voor het klimaat. Tussen oplossing per direct biodiesel mandaten terugschroeven. Bereik je hetzelfde mee. Voedsel wat we nu hard nodig hebben + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De opwarming van de aarde is al zo'n duizenden jaren aan de gang sinds de ijstijd. Jouw Co2 veranderd hier niks aan, De natuur stoot nog altijd zelf het meeste Co2 uit. En al ZOU de mens nr 1 oorzaak zijn, debiele rigoureuze maatregelen worden alleen in het westen geïmplementeerd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prachtig.\nVorige editie met gezin in stromende regen...\nEn toch met zovelen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het akkoord van Parijs schrijft dat bijvoorbeeld China niet nu maar over een aantal jaar uit mijn hoofd 2030 of 40... China bouwt nu mega kolencentrales, goedkope energie om zich te laten groeien, terwijl jij je broekriem 5 tandjes strakker mag trekken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben er ook, met m’n hele gezin. Inclusief schoondochter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo was het vroeger, ten tijde dat mijn vader er een bedrijf had. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Geen modder schat, door de door de opwarming van de aarde veroorzaakte droogte is er alleen nog maar zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

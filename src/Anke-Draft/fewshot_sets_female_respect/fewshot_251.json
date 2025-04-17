@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Crises hebben ook invloed op bijv. het MKB,vestigingsklimaat of op migratie.Dan moet je of je belastingen weer verhogen om dat te repareren of je zit met problemen.Tegengehouden transitie door oliemaatschappijen zorgt er voor dat gewone hardwerkende burgers het gelag betalen.2/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt je kinderen daarnaast ook adviseren een toekomst te zoeken in het oosten des lands + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja vee is gedomesticeerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De oplossing is: Grenzen helemaal dicht voor immigranten. Per direct 0 immigranten meer binnen laten. De puinhopen van afgelopen deccenia immigratiebeleid opruimen. En dan een nieuw immigratiebeleid starten waar uiteraard plaats is voor hulpbehoevenden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doe ik ook zeker niet. Waar ik het over heb is een leraar in een breed spectrum van beta vakken die een reeks van 24 of zo lectures hierover geeft. Hij beschouwd inkomende en weglekkende energie.van de zon in en uit onze atmosfeer en zijn samenstelling. Hij is geen ontkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vrijwel helemaal eens.\n\nDe politiek blijft op zijn handen zitten. Rampzalig.\n\nDat IPCC rapport alarmeert waarschijnlijk terecht.\n\nHoe meer journalistieke aandacht hoe beter. Anders gebeurt er niks. \n\nNogmaals; journalistiek juist  hoog in het vaandel.\n \n#klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou, in die context, dit wel eens willen lezen.\n \n(Al heb ik begrepen dat de oplossingen daar een soort communisme light is. Dus dat gaat het voor mij ook niet worden :)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als het niet zo'n financiële consequenties had, zou ik er ook om lachen. Dat mensen erin trappen is inderdaad lachwekkend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ach ja, dat gaat wel komen (schat ik zo in) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren staan al droog in verschillende landen, onze rivieren binnen 2/3jaar ook, moordend want drinkwater is 1e levensnoodzaak. Gletsjers zijn bijna weg, vervoer over water dus ook. Blijft regen over om ons te redden, dat tekort is er nu ook al hier, gigatempo is noodzaakelijk! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Precies. In het Licht van de #eindtijd kunnen we ook maar beter geen illusies meer hebben hè. De Geestelijke blindheid is shocking.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat snap je nu niet aan dat vleesproductie overal een groot probleem is ? Fors verminderen zou een hoop problemen oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Milancovitsch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aanvulling op wat? Eens aangaande de biomassahype overigens.\n\nMaar je keuzestelling is wat al te gortig, waarom geen derde wat uitgeklede optie waar ik met een grust hart op kan stemmen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jeuk ze met je klimaatvluchtelingen! En met mijn bijna 61 stop ik niet met de feiten aan te dragen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

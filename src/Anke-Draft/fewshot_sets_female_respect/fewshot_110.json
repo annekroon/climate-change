@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Hoi Ron, uit onderzoek dat uitgevoerd is door NASA blijkt de zon géén factor van invloed te zijn geweest op de huidige klimaatverandering. Het klopt dat de bekende milankovitch cycli vroeger bepalend waren voor het veroorzaken van ijstijden: \n[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Toch is dat niet hetzelfde. Neem Al Gore: hij predikt het ene, maar brengt dat zelf niet in praktijk. Hij gebruikt 20x meer energie dan een gemiddeld gezin in de VS. \n\nMensen hebben van het klimaat een verdienmodel gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is zo'n typische economische zin die niet klopt, fundamenteel. Waarom?\n\nkosten = inkomsten! (per defnitie!)\n\nDus hogere kosten = hogere inkomsten.\n\nDus er staat: 'lopen bedrijven tegen steeds hogere directe en indirecte inkomsten aan ...'. \n\nEn gaan dan failliet??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het stadium smeken is allang voorbij. Bedrijven moeten vergroenen, belasting moet een fair deel worden. \nEen CO2-rantsoen voor bedrijven, misschien. Voor particulieren lastig uitvoerbaar. \nMaar verhandelbaar (lees: afkoopbaar) maken moet je niet willen. Afkopen is te makkelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een kleine speler? Meer dan 1/3e van atmosferisch CO2 is afkomstig van menselijk handelen.\n\nJe kan niet verwachten dat CO2 stijging evenredig is met tempstijging, er zijn immers andere processen als ENSO die een cyclische verandering in verdeling van energie op Aarde veroorzaken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom zou er geen draagvlak zijn om bv collectief huizen energiezuinig en klimaatproof te maken (wijk per wijk met subsidies) of geen draagvlak voor massale investering in hernieuwbare energie of openbaar vervoer of grondstofrecyclage 1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja klopt.\n\nMaar #Biden zal iets moeten doen wat politiek nog ondenkbaar is.\n\nAfscheid nemen van een economie gebouwd op #fossiel.\nKrijgt hij genoeg speelruimte om dat snel en effectief te doen?\n\nEr zijn nog veel te veel Trumpies die het probleem niet eens onderkennen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mmh, onze carport met dak van 28m² vult lekker 2 vaten van 1000 liter in 3 dagen tijd :) Oei, ...het dak van skipiste Landgraaf met 38000 m² heeft blijkbaar geen opvangvaten...Dus...loopt daar lekker een 2-3 miljoen liter water de omgeving in vandaag... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dan gaan we ineens weer massaal #houtbouwen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Neemt niet weg dat merendeel van ons schoon water wordt gebruikt om gewassen/granen/whatever woord dat je wil gebruiken, te kweken die wij niet eens opeten. En de #1 reden voor ontbossing vlees en zuivel-consumptie is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "... maar roepen om een verhoging van het minimumloon met 40 procent klinkt alsof ze totaal geen benul hebben van waar het (soc.econ) om gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 Ik ben geen VB’er maar begin er steeds meer sympathie voor te krijgen, maar deze hittegolven geen gevolg van klimaatverandering, maar gewoon van weerfenomenen 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bullshit + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent zelf slecht geïnformeerd. Ze willen nederland volzetten met asieleisers. Internationale experts zeggen zelf dat Nederland onverantwoord bezig is. Nederland is een belangrijke speler in de internationale voedselmarkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

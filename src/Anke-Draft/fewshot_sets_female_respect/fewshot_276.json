@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Begin op \nMeer weten? Lees dan een boek zoals bv \"Wat iedereen zou moeten weten over klimaatverandering\" van Bart Verbergen. Maar er zijn veel meer goede boeken\nNog meer weten? Lees dan de rapporten op + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb net dik twee miljoen opgehaald voor burgerwindmolenpark in m'n eigen stad samen met burgercooperatie . Bijna 600 mensen doen mee.\n\nDe vraag was zeer suggestief: wilt u ze in uw achtertuin. Nee tuurlijk niet. Maar we hebben in NL genoeg verrommelde gebieden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er staat niet dat het verkocht word als gevolg van klimaat verandering. Er staat dat er 26 mensen zijn gearresteerd en dat het niet tof is dat de temperatuur naar 42 graden stijgt en de luchtvochtigheid daalt. Maar als het vaker +40 word zal dat niet helpen inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat een onzin, er zijn genoeg initiatieven die aantonen dat steeds meer zaken in het leven klimaatneutraal uitgevoerd kunnen worden. Er wordt echter te weinig vaart achter gezet. De vraag is niet of we onze invloed op de klimaatopwarming kunnen minimaliseren, maar hoe snel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou niet weten hoe op een voor het risicomanagement van een bank relevante horizon. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Van het betreffende filmpje? Dat lees ik daar zo snel niets van in het artikel. Maar dan zijn het dus criminelen een geen \"wef complot\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "heb t toch verklapt, hopelijk niet erg 🤣🙃 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad... Maar op den duur zijn sommige boeken in het lijstje toch al verouderd of vallen ze niet meer in mijn huidige interessegebied, waardoor ik het zo nu en dan kan inkorten. Het is wel een LIFO-lijstje 😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien hebben ze het opgegeven? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Al om 5u..\nHad de verwarming gisteren aangezet en ben om 11 uur in slaap gevallen op de bank. Zwaar kudt is dat😫 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey Lode, de podcast duurt 18 minuten en brengt de nodige nuance. Is handiger dan de de 280 tekens van Twitter. Neem je eventjes wat tijd om te luisteren naar iemand die er duidelijk wel iets van kent? Groetjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jammer genoeg vind ik klimaatverandering niet 'hilarisch'\nMaar pleit verder voor gascentrales en maak van België de idioot van de wereld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En op welke planeet woon jij? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dream on + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]
