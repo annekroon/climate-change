@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "🙈pfff het is ook niet te doen hoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kende de man en zijn reputatie niet. Heb alleen dit interview gezien. Ik denk dat je zelf moet kijken om een oordeel te vellen. Vooral wat hij zei over de maatregelen leek mij plausibel. Dat hij een klimaatontkenner is, kwam in het interview niet zo naar boven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo 'dynamisch' zoals het nu is is het nog nooit geweest. En dat dit eraan zat te komen is al sinds vorige eeuw zichtbaar. De techniek was echter nog niet zo ver als nu dat we er ook daadwerkelijk iets aan kunnen doen. Irrigatie zal Afrika niet helpen. Zeewater is niet oneindig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand ontkent klimaat !! Wij ontkennen het voorspellend vermogen van IPCC klimaatmodellen en wij zeggen dat het weer, en dus op lange termijn het klimaat, wordt bepaald door een resem van parameters en niet door de CO2 concentratie in onze atmosfeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschap dient ook kritisch bekeken te worden. Er is zeer veel manipulatie. Gaat het ook over weer manipulatie door de Navo (chemtrails, haarp) en wat de gevolgen hiervan zijn voor de planeet. Alles bekeken en berekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als planten en bomen de drivers zijn vraag ik me af wat de afkoeling na het Holoceen maximum heeft veroorzaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn mening is dus dat de NOS juist tracht alles zo objectief mogelijk te brengen zonder zaken waar vooroordelen over bestaan te benoemen! Ook subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja dat zijn alle logische doemscenario’s. Moeten we goed zijn voor het milieu? Ja lijkt mij een strak plan. Maar daarvoor hoef je niet te minderen in CO2 an sich. De focus daarop is niet te verklaren met klimaat of milieu. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo verontrustend.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan heb je vast erg lang gedaan over het vak wetenschapsfilosofie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij bent een ongeletterde klimaatkenner, lieg niet je brengt #misinformatie! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Het is ongelooflijk duidelijk door naar de grafiek te kijken\"\nEn vervolgens met een alarmistisch, misleidend krantenartikel op de proppen komen dat kant nog wal raakt.\nHet is 3 dagen zeer warm geweest in het VK, ja. Is dat te wijten aan CO2? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De Belgische uitgerangeerde natuurkundige die altijd detailplaatjes upload? Die de grote lijnen maar niet kan zien??🧐\n\nNee joh die had ik in één gesprekje op twitter onder de tafel gel*ld. Kon niet op tegen mijn kennis van #klimaat, #evolutie, #duurzaamheid en #milieu 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waaruit blijkt dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

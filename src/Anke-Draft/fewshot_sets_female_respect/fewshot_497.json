@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "De buren in Punda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bijv. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus jij gelooft in de opwarming van de aarde door de mensheid? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "yeah, zulke heb ik ook. Zodra het maar iets over politiek gaat kap ik het af. Geen zin in onzin discussies. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die is vrij beschikbaar, hoor. Eigenlijk alles behalve Ongehoord Nederland, Telegraaf, Dagelijkse Standaard, FVD en dergelijke nieuwsbronnen. 😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uiteraard, je weet mij te vinden. Fijn weekend alvast. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee. Dat zijn kanttekeningen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt je kinderen daarnaast ook adviseren een toekomst te zoeken in het oosten des lands + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De echte reden van klimaatverandering is nog niet gekend... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja, dat is dan vooral semantiek ja. Ik zou ook graag willen dat we het nog konden stoppen, maar daar zijn we waarschijnlijk te laat en te weinig resoluut voor om dat te doen. Maar we moeten natuurlijk wel doen wat we kunnen om effecten te minimaliseren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waaruit blijkt dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DE MAN IS EEN ORKAANFLUITING! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Deze, lieverd, waar je je eigen domme tweet aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "die Leonardo ook met z'n fratsen ;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

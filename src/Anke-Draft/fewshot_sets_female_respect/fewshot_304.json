@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Al om 5u..\nHad de verwarming gisteren aangezet en ben om 11 uur in slaap gevallen op de bank. Zwaar kudt is dat😫 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zou je nog een in een boekje over biologische samenwerking lezen,  maar heft niets met gender te doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik snap em. Jij denkt dat zo 'weinig' CO2 die uitgestoten is door de mensheid geen invloed kan hebben op het klimaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bezoeken Hans. Daar komen de berichten in naar voor van klimaatsceptici die je niet in de MSM tegenkomt. Voor de duidelijkheid. Ik ben ervoor dat we het klimaat beschermen, eerder nog het milieu. Maar de gekte waarmee het verkocht wordt, vind ik abject. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Het aantal foute voorspellingen over klimaat is schier onuitputtelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als planten en bomen de drivers zijn vraag ik me af wat de afkoeling na het Holoceen maximum heeft veroorzaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha junior strous gang co2=ok + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We hebben afgesproken in 2050 energie- en klimaatneutraal te zijn. \n\nShell wil dit doel bereiken in 2070.\n\nMeer dan 95% van de investeringen van Shell zijn in fossiele brandstoffen. Hoe valt dat in 's hemelsnaam te rijmen met een fossielvrije toekomst? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het zeer waardevolle CO2 heeft al jaren een negatieve prijs.\nSommigen zouden het dan afval noemen. 😉.\nEn ja, ik ben bekend met fotosynthese.\nMaar ook met infrarood absorptie en dat CO2 ook een zuur (koolzuur) is. Die laatste twee zijn minder bekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "dus, Jos, iedereen die klimaatverandering een slechte zaak vindt, en pleit voor maatregelen, is links? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Even naar beneden scrollen. En je dan beseffen dat die laatste zwenk naar rechts nog scherper gaat worden. Met je \"dit is volstrekt normaal\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maarreh ... Je hebt toch ook wel enige ondeugden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als je mijn uitleg al niet snapt....snap ik wel dat jij meegaat in die Woke nonsense die jullie linkse droeftoeters verkondigen:) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappelijke nonsens + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Juist. U hoeft mij niet te overtuigen hoor w.b. klimaatverandering en ernst ervan 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jaa ik heb nodig das op punten met de kat en de krultang? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Het is ongelooflijk duidelijk door naar de grafiek te kijken\"\nEn vervolgens met een alarmistisch, misleidend krantenartikel op de proppen komen dat kant nog wal raakt.\nHet is 3 dagen zeer warm geweest in het VK, ja. Is dat te wijten aan CO2? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij staat er in dat artikel van jou letterlijk: “ Heftige extremen volgen elkaar sneller op”. Ik zeg niet dat die ellende vorige week door klimaatverandering is veroorzaakt, ik gebruik het woord hoogstwaarschijnlijk. Jullie willen daar niet eens over na denken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

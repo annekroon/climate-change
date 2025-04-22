@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dan gaan we in hibernation + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wees er op tijd bij. Tegen die tijd kun je helemaal geen huis meer betalen daar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor het meer minder… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Van de 0.5°C afkoeling is geen sprake meer : (NH = Northern Hemisphere) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je gewoon een simpel antwoord wilt, dan volstaat één woord: \nfotosynthese. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij zei ook dat onze response niet te moeilijk of te duur mocht zijn. En zijn VVD Stas die erover gaat zei dat we vooral andere landen gaan aanspreken over hún verantwoordelijkheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uitdagingen is het goede woord, dus ook oplossingen, maar dan moet je wel verder willen kijken dan je neus lang is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "VVD be like! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, je hebt zeker uitdagingen en ik denk dat het daarom belangrijk is mee lokaal te produceren en minder massaproductie uit te voeren. De \"grote oplossingen\" die door klimaat fanatici zijn bedacht blijken steeds niet te werken: een gat dichtgooien door een nieuw gat te graven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] En voor als U denkt: \"mwoah, dat valt toch wel mee?!\" Ja, louter op basis van dit getal lijkt het mee te vallen. Terwijl het on werkelijkheid niet zo is. Ik kan U van alles vertellen, maar ik raad U aan dit artikel te lezen: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En op welke planeet woon jij? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nop. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nogmaals....... kan je grafieken lezen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

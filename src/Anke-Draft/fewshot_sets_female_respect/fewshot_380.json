@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Uw tekeningen zijn meesterlijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig hebben we Staatsbosbeheer voor houttoevoer richting de hongerige ovens. (die willen opeens dat half Nederland weer verandert in een zandverstuiving) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft ook niet, maar dit is de lange termijn grafiek van de temperatuur, trek zelf je conclusies.\nEr zijn grafieken over nog langere perioden, die nog extremere temperaturen laten zien. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maak niet de denkfout in 'links rechts' te denken. Dingen zijn waar of onwaar. Economisch beleid kan links of rechts zijn, maar een feit niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tuurlijk, maar de zon brengt nu meer kracht op de  Aarde door ozonlaag die vrot is. En die is sneller stuk gegaan door \"ons\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Koelt het straks niet verder af dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hi Paul, dat is nou precies het ding. Het is een benzinestation. Net als dat een kolencentrale niet meer rechten heeft op het realiseren van windmolens zou een benzinestation ook niet meer rechten hebben op het realiseren van laadpalen. Iedereen = gelijk in verdelingsprocedure. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Net nog een facist, nu een linkse mafkees 😂😂\n\nMake up your mind + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "“Guerrillamarketing is een marketingtechniek die poogt om met beperkte middelen een groot resultaat te bereiken. Guerrillamarketing is erop gericht om in een zeer korte tijd veel media-aandacht of aandacht van publiek te behalen zonder een enorm budget! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat verandert altijd, maar niet zo snel als het nu doet. Stel dat het allemaal natuurlijk was, dan zou het alsnog slecht nieuws zijn dat ecosystemen zo snel veranderen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja ja, vervelend he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat u kunt aangeven wat u bent, siert u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik bespeur nog steeds geen (begin van een) oplossing. Gewoon maar niks doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt wel een stoïcijn ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

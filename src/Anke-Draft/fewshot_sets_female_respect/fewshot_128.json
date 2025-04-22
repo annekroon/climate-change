@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Goed nieuws voor de biomassa centrales... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat noem jij regelmatig? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker wel, ongeveer 300 meter van de bootjesbrug. De ene kant vd bootjesbrug is otrabanda, de andere kant is punda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Net één graad verwijderd van de perfecte 19 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Van de 0.5°C afkoeling is geen sprake meer : (NH = Northern Hemisphere) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zullen we elkaar niet gaan vertellen wat we allemaal moeten. Laten we het erover hebben hoe we het willen. We weten helemaal niks. We moeten het gezellig houden. Dat wel.🗽🚀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je alles volplempt met tegels, ontvolg ik je. Pas dus maar op. 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In mijn boek  ‘Dando, de klimaatvluchteling’ (kniphorst) kun je lezen wat volgens mij de enige manier is om de mensheid voor groter onheil te behoeden. Helaas een utopie. Dat gaat nooit gebeuren. Mensen/landen vinden altijd dat anderen eerst moeten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bijna elke vrand is aangestoken door pyromanen/criminelen. Alleen het wordt verkocht als gevolg van klimaatverandering, en dat is gewoon onjuist. Dat is het punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb hem echt wel gezien hoor. Maar ik vond het vrij eenzijdig en gedateerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd. Maar niet het overheersende volk. Dat zijn de moslims.\nKleinkinderen = hoofddoek verplicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als hier de boel weer 'natuurlijk' moet, dan wordt het hier een groot onleefbaar zompig moeras. En zeebodem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is goed nieuws!\nGefeliciteerd!\nEn tegelijk verdrietig - dat deze weg nodig was + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat een onzin, er zijn genoeg initiatieven die aantonen dat steeds meer zaken in het leven klimaatneutraal uitgevoerd kunnen worden. Er wordt echter te weinig vaart achter gezet. De vraag is niet of we onze invloed op de klimaatopwarming kunnen minimaliseren, maar hoe snel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat ze dat toen zeiden zegt natuurlijk helemaal niks. Feitje is wel dat het totale volume aan ijs op de Noordpool al jaren afneemt. Dat maakt het geheel erg kwetsbaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snelle klimaatverandering kan natuurlijk wel een probleem zijn omdat het een ecosystemen veranderd. Door de snelheid kunnen ze zich niet aanpassen. Soorten in koudere gebieden hebben beperkte uitwijkmogelijkheden. Ben met je eens dat hoeveelheid habitat ernstig tekort schiet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En verder wordt er gezegd dat vervuiling een broeikas effect zou hebben. Dat bevreemd mij enigszins. Aerosolen houden zonnewarmte tegen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lief ❤️🐾 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De fatale zomerstorm van 1 augustus 1674 was en is ook nog steeds niet verklaarbaar op grond van het toenmalig heersende klimaat. Toch was die er en verwoestte half Utrecht en Holland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yup 😊 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan welke voorbeelden denk je daarbij dan 'steeds'? M.i. zijn we nog nauwelijks begonnen.\nHet eerste beetje zon en wind zijn toch beide veel beter over hun respectievelijke levenscycli. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waar heeft u het in hemelsnaam over? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is je punt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn idd nog nooit overstromingen geweest of natuurrampen...  iemand die dit recupereert vanwege klimaat moest zich schamen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei ik al. Veel erger dan miljoenen doden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

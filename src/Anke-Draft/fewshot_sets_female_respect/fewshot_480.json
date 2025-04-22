@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Was je daar ook betrokken bij de meteo? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zag laatst weer ergens een bericht dat kleine boerderijen worden gesloten met belastinggeld en dat de stikstofnorm voor de intensieve veehouder weer wordt verruimd. Als dat zo is, dan word je gek. Dan wordt het stikstofdossier nooit opgelost + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets doen kost op termijn veel meer. Als we de zeespiegelstijging binnen de perken kunnen houden met maatregelen nu, voorkomen we in de toekomst Amersfoort aan Zee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pfff….zoveel. Boeken, televisie, publicaties van instanties, podcasts, informatie via de werkgever. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vakantie en wereldwijde crisis zijn twee onderwerpen die ineens best dicht bij elkaar liggen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik denk het niet. Maar het is een achterhoedegevecht van de wegkijkers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappelijk onderzoek doen en daar over regelmatig publiceren in bladen als nature en science. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je precies een scheiding kan trekken zoals \"in de afgelopen 5 jaar\" dan is er iets dat zorgt dat dit opvalt. Als dat niet een media hype is dan is er een invloedrijk proces. Vaak door mensen uitgevoerd. Dat is ook belangrijk te ontdekken.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar ja als je drugs neemt en je gaat dood betekend dat niet dat de drugs de oorzaak is maar het helpt wel... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als hier de boel weer 'natuurlijk' moet, dan wordt het hier een groot onleefbaar zompig moeras. En zeebodem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je zou Lucas maar als leraar hebben..,\n\nMijn mening is dit en dat slikt jij maar… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U poneert een stelling waarin U de Gold Rush in verband breng met klimaatverandering. Dit is holle retoriek en mist onderbouwing. U kunt niets bewijzen en uw reacties demonstreren Uw onkunde in deze materie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De suggestie is toch echt dat de Sec te weinig doet, de verkeerde dingen doet, of het verkeerd ziet.\n\nInteressanter lijkt mij dan om  te vragen naar zijn mening.\n\nIs hij nog steeds voorstander van kolencentrales, met de kennis van nu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 Ik ben geen VB’er maar begin er steeds meer sympathie voor te krijgen, maar deze hittegolven geen gevolg van klimaatverandering, maar gewoon van weerfenomenen 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat ik een egoïst ben omdat ik daarvoor mijn leven, mijn inkomen, het leven van mijn kinderen niet langer wil on hold zetten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als het nodig is, bent u de eerste die het hoort :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "volledig mee eens hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Opwarming komt door uitstoot van CO2 (voor de rest onschuldig gas) door de mens. Nt door slecht milieu ergens.\nWetenschappers kunnen d evolutie van klimaat goed documenteren op basis van allerlei gegevens. Niet alleen obv de meetgegevens van de laatste 200j. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies dat .... zinloos en kansloos.\nMaar gelukkig heeft de NL regering bewezen dat ze een pandemietje wel uitstekend kunnen managen .... 😂\nNa ‘Dansen met Janssen’ de effectieve actie ‘Een graad voor het klimaat’ !? 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt mij een vriendelijke strijder. Net als ik ben. We verschillen van, tja ik noem het toch nog maar even mening maar op deze manier kunnen we er komen. Ik ken de boeken nog niet maar ik sta altijd open voor nieuwe inzichten. Bedankt voor de kennis. Succes met je strijd🥦🥊 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gemeten sinds?\nIs dat voor of nadat het KNMI hittegolven geschrapt heeft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jonge, helemaal voor het klimaat bevlogen mensen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er is inderdaad zoveel nep en vals in deze wereld dat je een enorme idioot moet zijn om het niet te zien + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nu een vraag. Er is een bijmeng verplichting in brandstof. Resultaat plantaardige olie en granen verwerken tot brandstof. Stel we stoppen hiermee, dan dalen de kosten prijzen en de armsten hebben weer voedsel of gaan we als westen voor het klimaat? Welke kies je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat een domme tweet.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En de meter slaat een stuk sneller uit dan de natuur in de 22.000 jaar hiervoor voor elkaar heeft gekregen. Dan nog steeds negeren dat er meer aan de hand is is nogal naïef. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey Lode, de podcast duurt 18 minuten en brengt de nodige nuance. Is handiger dan de de 280 tekens van Twitter. Neem je eventjes wat tijd om te luisteren naar iemand die er duidelijk wel iets van kent? Groetjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Van alle tijden. Zelfs(!) het IPCC geeft aan dat er geen enkele reden is om extremer weer te verwachten. Verschil met 'vroeger' is dat er op elke vierkante meter wel iemand staat re filmen en de MSM het gretig optekenen. Hapklare brokken voor alarmisten als jij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kun je ook uitleggen wat er totalitair is aan duurzame energie, of roep je maar wat?\nEn verwar jij wetenschap niet met geloof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja als je genoegen neemt met basisschool redenatie. Helaas zo zit de wereld niet in elkaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

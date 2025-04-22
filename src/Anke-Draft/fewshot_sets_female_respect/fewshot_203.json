@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Hoi Ron, uit onderzoek dat uitgevoerd is door NASA blijkt de zon géén factor van invloed te zijn geweest op de huidige klimaatverandering. Het klopt dat de bekende milankovitch cycli vroeger bepalend waren voor het veroorzaken van ijstijden: \n[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah, dus met de aandelen van vaseline en zonnebrandcrème zit het wel goed. 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vee is alleen maar vee in de veehouderij? Kijk even hoe het ging in de Oostvaardersplassen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het weer wordt niet extremer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bezoeken Hans. Daar komen de berichten in naar voor van klimaatsceptici die je niet in de MSM tegenkomt. Voor de duidelijkheid. Ik ben ervoor dat we het klimaat beschermen, eerder nog het milieu. Maar de gekte waarmee het verkocht wordt, vind ik abject. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand hoeft van mij naar een kz, dat is niets. Maar waar ik mij het meest aan erger is de onbarmhartige solidariteit van wappies met bijvoorbeeld arme mensen. Die worden al jaar in jaar uit buitengesloten. Toen hoorde je ze niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is de grap. Het heeft wel degelijk alles met elkaar te maken .. in die zin dat alles door elkaar heen gebruikt wordt .. en wel onder de noemer ‘klimaat’ .. en alles wordt vervuiling genoemd .. CO2, stikstof (verbindingen daarvan dan) .. puinhoop.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering? Wat dacht je van weermanipulatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "WETENSCHAP EVOLUEERT WEL NATUURLIJK, MAAR BETROUWBARE BRONNEN (BV. REUTERS, APNEWS, NATURE, NASA, KNMI, EDA E.D.) GEVEN JE NIET DE ANGSTVERHALEN MAAR GEWOON FEITELIJKE RAPPORTAGE, MEESTE IS SAAI EN ZITTEN GEEN KWADE BEDOELINGEN ACHTER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wrijf maar weer in die wonde van me 😩 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "DE MAN IS EEN ORKAANFLUITING! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, U maakt zich schuldig aan de confirmation bias. De klimaatwetenschap is ondertussen zeer duidelijk en dat laat de natuurkunde ons ook zien. Het feit dat U niet inhoudelijk kan reageren op mijn natuurkundige beschrijving van klimaatverandering zegt genoeg over uw inzicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Laat eens even zien wat ik als \"bewijs\" beweerde. Dat maak jij er weer steeds van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

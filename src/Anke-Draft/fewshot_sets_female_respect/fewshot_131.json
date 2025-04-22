@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat maak je al wel mee maar je ziet het niet... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets doen kost op termijn veel meer. Als we de zeespiegelstijging binnen de perken kunnen houden met maatregelen nu, voorkomen we in de toekomst Amersfoort aan Zee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat komen zij precies doen dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vrees dat dat niet vanzelf gaat omdat er ook nog steeds mensen zijn die het saboteren omdat ze andere belangen dienen: zichzelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het KNMI ging over naar nieuwe preciezere meetapparatuur waarbij de stralingswarmte vd grond niet meer werd meegenomen. Ze hebben eerst beide meetmethodes gebruikt en bekeken wat het verschil is. Toen gecorrigeerd obv die gegevens.\n\nZonder die correctie stijgt de temperatuur ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vroeger in mijn jeugd elk jaar als de geul en maas overliepen en dorpen langs de Maas (bv Margraten) tot 1,5 meter onder stonden. En dan op vakantie naar zuid Zwitserland op de camping die elk jaar na een week regen onderliep omdat het meer overstroomde. Inmiddels stukken beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op de retweet van Hiemstra. Het gebrek van urgentie ontbreekt en als er dan oplossingen voorgedragen worden zijn die op basis van gepolder ipv keuzes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Slechte zaak, is echt iets anders + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We kunnen én met hout bouwen én bossen verbeteren. Met hout bouwen betekent niet vernieling van bossen. Dat groeit snel genoeg weer aan. Alle bomen die we voor andere onnodige zaken kappen daarentegen.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar wat Peter zegt is misschien duidelijker: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maarreh ... Je hebt toch ook wel enige ondeugden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De suggestie is toch echt dat de Sec te weinig doet, de verkeerde dingen doet, of het verkeerd ziet.\n\nInteressanter lijkt mij dan om  te vragen naar zijn mening.\n\nIs hij nog steeds voorstander van kolencentrales, met de kennis van nu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bagger onzin, weet je waar een tekort aan is: mensen die nadenken, het is gewoon een mooie zomer! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat snap je nu niet aan dat vleesproductie overal een groot probleem is ? Fors verminderen zou een hoop problemen oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Is wat gemakkelijker om een link door te sturen\". Inderdaad dat kan de eerste de beste kleuter tegenwoordig.\n\nBegrijpen wat er staat, dat is duidelijk andere koek !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

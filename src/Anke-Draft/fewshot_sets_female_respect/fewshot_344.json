@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "2x jaar ga ik vliegen om toch de uitstoot te compenseren!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren maken grondwater/drinkwater in de eigen omgeving. Het regent, sneeuwd minder, nomadenleven werkt niet, teveel volk op 1 plek. Wij hebben degelijk schuld aan versnelde klimaat verandering, bos kappen betekend hitte op de grond uitdroging en geen regen circulatie t plaatse + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En, ging het goed? Zat je er snel weer in?\n\nJammer toch, dat er vaak voor zo'n standaard opstelling wordt gekozen.\nMocht je nog eens iemand weten, die zich wil verdiepen: \n\nIn de maak: workshop 'participatie of polarisatie'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eksuuses foor dat hoor, hep mun sgool niet af ge maakt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Toevallig kwam dit filmpje voorbij hier, is uit 2009. Nederlands. Echt heel verhelderend. 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee ik snap IPCC WG1 best. Maar een causaal verband tussen opwarming en de recente lokale regenval moet nader onderzocht. De afgelopen jaren werd juist het gebrek aan neerslag aan opwarming geweten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, mijn ouders ook hoor. Maar toen wisten ze niet beter en waren tijden totaal anders. Toen gingen mensen niet (allemaal)studeren bv. Anno 2021 je leeft op het minimum en dan 6 kinderen. Er heerst een taboe op, maar een kerk synagoge of moskee zou kunnen zeggen: niet ‘handig’ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bewustmaking ivm de gevolgen van klimaatverandering is minder belangrijk dan de strijd tegen een pepmiddel dat mensen af en toe snuiven voor het amusement? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah. Ik heb het nog niet gelezen. Maar ik weet wel dat het klimaat niet ophoudt aan de grens. Het is onzinnig hier iets minimaals te doen terwijl in Azië het duizendvoudige extra uitgestoten wordt. Daar gaan we op leeglopen. Minimaal 5 wijze mannen zijn het met me eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je dwaalt af, dit heeft niets met klimaat van doen.\n\nJe redenatie over klimaat lijkt op:\n\n\"Vroeger waren er ook bosbranden, dus bosbranden van nu kunnen niet door mensen zijn aangestoken\" 🤷🏼‍♀️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alle opofferingen? Waar heb je het in godsnaam over? Ik heb het niet eens over één opoffering gehad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hun weer programma gaat met horten en stoten zullen we maar zeggen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Niet zo generaliseren. Is echt niet ok. Bovendien komt dit niet van hen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gee diesel, maar wel eentje die voor 3 huishoudens verbruikt.. \nMaar ik doe het raam een beetje open, zodat ik met mijn koele lucht het een beetje minder warm maak voor iedereen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

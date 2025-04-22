@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Een soort Covid19 scenario, maar dan anders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja dat is waar, maar het begint bij wilde vogels toch? Hoe dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, Apart he- nu kunnen mensen zonder specialismen ook echt wel de juiste vragen stellen, maar Marlies Dekker heb ik daar heel weinig op kunnen betrappen;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ja en de pauw is blauw + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zal best iets aan de hand zijn. Maar de rest is allemaal morele chantage en hysterie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zag laatst weer ergens een bericht dat kleine boerderijen worden gesloten met belastinggeld en dat de stikstofnorm voor de intensieve veehouder weer wordt verruimd. Als dat zo is, dan word je gek. Dan wordt het stikstofdossier nooit opgelost + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat betekent een hoge opbrengst dan volgens jou? Kun je grond vergelijken met een topatleet? Dus een goede conditie is vereist voor een goede prestatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja vee is gedomesticeerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah, dus met de aandelen van vaseline en zonnebrandcrème zit het wel goed. 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, dat zei ik ook in iets andere bewoordingen: \n-BV + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke maar mag ik je pensioen hebben dan? Aangezien het eng links geld is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga dat vragen aan De Bilt. Het zijn HUN gegevens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat u kunt aangeven wat u bent, siert u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

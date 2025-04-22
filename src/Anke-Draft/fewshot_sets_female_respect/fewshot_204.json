@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het gaat om de snelheid waarmee het nu overal gebeurt.  Maar laat maar. Hierover worden wij het echt nooit eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een van de projecten waar ik het meest trots op ben. Ik hoop volgend jaar te beginnen met het samenstellen van een vervolg - want het onderwerp blijft helaas voorlopig actueel ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zin om er nog eentje te maken, ditmaal met ketjap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je geen ongelijk in. Dan maar even naar hun standpunten kijken: \nKomt wel linkserig over allemaal, vind ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat de Chinezen daar van onder de indruk zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er ligt een gedegen wetenschappelijke basis onder de inschatting dat de gevolgen catastrofaal zullen zijn (en die zien we ook al). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dan gaan we ineens weer massaal #houtbouwen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Terugkomend op onze discussie. Accijns verlaging? Dat bedoel ik. De keuze wordt gemaakt voor de mens uiteindelijk en niet voor het klimaat. Tussen oplossing per direct biodiesel mandaten terugschroeven. Bereik je hetzelfde mee. Voedsel wat we nu hard nodig hebben + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die was niet gericht naar u, hoor! Maar op de reacties op de tweet. Anders had ik u wel weer gequote tweet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even naar beneden scrollen. En je dan beseffen dat die laatste zwenk naar rechts nog scherper gaat worden. Met je \"dit is volstrekt normaal\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik wil een palmboom.  😔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is voor jou kennelijk moeilijk voor te stellen dat branden aangestoken kunnen zijn door mensen.\nWeet je nog dat verhaal over dat Gender Reveal feestje in Californië dat een heel groot deel van die staat in brand zette? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Er is geen zinvol gesprek mee te beginnen, slepen er allemaal #Onzin bij en staan absoluut niet open voor wetenschap, hoe je het ook brengt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welke zijn dat? En dan niet lokaal invullen. Maar kijk globaal. Complete cijfers die echt stijgen. Dus niet de 'mogelijke', of 'misschien' modelcijfers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kun je ook uitleggen wat er totalitair is aan duurzame energie, of roep je maar wat?\nEn verwar jij wetenschap niet met geloof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

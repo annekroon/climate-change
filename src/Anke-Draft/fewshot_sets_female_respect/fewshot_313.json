@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "kwam dat niet vorig jaar al uit? dan is het een beetje vreemd om het nu nog in een krant te bespreken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar ja als je drugs neemt en je gaat dood betekend dat niet dat de drugs de oorzaak is maar het helpt wel... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😂 jij mag dat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en die terugkoppelingen zijn juist het probleem. Het zijn meekoppelingen. De onzekerheid daarover is niet onze vriend. Het onomkeerbaar warmte en bepaalde moleculen in de atmosfeer en de oceanen brengen kan en mag niet. Dat is al in 1990 vastgesteld. IPPC FAR. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en…\n\nMoeder aarde doet 1 uitbarsting en 1000 miljard gaat in rook op.\n\nJe kunt haar niet stoppen… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, wij weten allemaal wat er gebeurt, maar we kunnen het niet tegenhouden!? Ik hoop zo dat het tij zal keren. 🙏 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben van mening dat de Politici en journalisten over het algemeen weinig kritisch zijn over de CAGW-hypothese en die ten onrechte als bewezen aanvaarden. Daarbij vergeleken is dat kleine beetje tegengas van bijna 20 jaar geleden peanuts. \nOok nog niet met waarnemingen ontkracht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Draadje even lezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jonge, helemaal voor het klimaat bevlogen mensen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wait. Vicieuze cirkel zo. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hun weer programma gaat met horten en stoten zullen we maar zeggen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf lid is van organisaties die als enige doel hebben desinformatie te verspreiden over klimaatverandering, 𝘄𝗲𝘁𝗲𝗻𝗱𝗲 𝗱𝗮𝘁 𝗲𝗿 𝗱𝗮𝗮𝗿𝗱𝗼𝗼𝗿 𝗱𝗼𝗱𝗲𝗻 𝘇𝘂𝗹𝗹𝗲𝗻 𝘃𝗮𝗹𝗹𝗲𝗻, puur  om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahahahaha ... noem anderen niet te snel \"simpel\" vriend dan blijf je heel. Je bent wat je zegt (of schrijft in dit geval). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Schrijven zonder te roken is in mijn geval ondenkbaar ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe helemaal niets, ik geef alleen aan wat de wetenschap zegt, jij bent de ontkenner niet ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

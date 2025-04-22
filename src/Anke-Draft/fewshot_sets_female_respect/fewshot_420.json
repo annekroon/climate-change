@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "En veel van hen gaan zich van een kant laten zien waar we nu liever niet over nadenken, in wat er komen gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat heet loslaten waar je geen invloed op hebt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op 'n planeet waar teveel mensen nog slapen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yes, ik zit nu in je operating system en zie dat je een slimme energiemeter hebt. Lol, ga je energieverbruik deze maand verdubbelen  :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2/2 Ook zijn er door klimaatverandering verschuivingen waardoor koudere polaire lucht op andere plaatsen dan normaal komt, (dit geldt ook voor de warmere luchtstromen) waardoor het hele weersysteem instabiel raakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, het is ook een massaverdelings oorzaak, welke leidt tot uitingen van precessiekrachten en dus slingering van de Aarde over meerdere assen.\nDat veroorzaakt andere atmosfeerstromingen...\nDan is er nog het hoofdstuk Magnetisme... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee nog niet! Maar ik zal haar gaan volgen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Links heeft aan al dat afbraakbeleid een flinke steen bijgedragen hoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je zoekt naar jargon om ontkenners om te turnen… is dit wel een richting( domme gokkers die alles verliezen omdat ze blijven doorspelen #againsttheodds + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het.\nEn dan moet het maar zo.\n\n#regering nalatig\n#rechter corrigeert + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waar heeft u het in hemelsnaam over? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Link staat eronder kiekoofd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan doe je zelf ook maar niets. Wat een levensinstelling. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

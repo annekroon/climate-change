@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik ben met het jaar meer tevreden over het feit dat ik geen kinderen heb om deze aardkloot aan door te geven. \n\nAirco in de slaapkamer, hopelijk tegen het einde van het jaar zonnepanelen zodat ik de airco gerust volgend jaar vaker kan aanzetten😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op 'n planeet waar teveel mensen nog slapen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tjonge, je hebt Nogal een verzameling aangelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": ". Klopt dat zijn ze binnen 5 jaar zo ver voor een commerciële thorium reactor? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🙈pfff het is ook niet te doen hoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2016 was wereldwijd het warmste jaar ooit gemeten, 2020 het op 1 na warmste, hoezo: afkoeling? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nog steeds? Hoeveelste uitgave? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kan geen antwoord geven? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "O ja? 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. Maar er is in ieder geval hoop. Ipv mister hopeloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En je leest erg slecht, het gaat helemaal niet om Shell, het gaat om banken die palmolie plantages aan laten leggen. Veevoeder bedrijven die er verantwoordelijk voor zijn dat Braziliaans oerwoud wordt gekapt voor  soja + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Neen. Het kleinste kind weet dat klimaatmodellen de radiatieve balans voorspellen, enkel en alleen dat. \n\nOok weet het kleinste kind dat het globale klimaat afhangt van die radiatieve balans. Hoeveel energie we ontvangen, hoeveel er naar de ruimte terug gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus?\n\nPersonen zoals jij en degene die het artikel geplaatst heeft zijn oplichters! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

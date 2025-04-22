@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik ben er ook, met m’n hele gezin. Inclusief schoondochter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "geloof niet alles op het internet + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je dacht dat Covid19 een crisis was, moet je de gefabriceerde #climatechange eens zien. De finale oorlog van de politiek tegen de mensheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh, nu snap ik het... ik had alleen die teletekst gezien.\nSterkte, Anton + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Opzoeken snelheid evolutionaire aanpassingen?\nWelke soorten kunnen dat naar verwachting beter...\n\n(Zullen toch allerlei onderzoekers mee bezig... zijn, toch?) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spannend! 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zien we die dan al?\nWist je bv dat je levensverwachting sinds de industriële revolutie verdubbeld is?\nWist je dat er in Europa 40% meer bos is dan 50 jr geleden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, de duurzame energie wordt gebruikt om jouw koelkast te laten werken, het licht te laten branden, etc. De stroom van de windmolens gaat niet een of ander geheim potje in waarmee een of ander agenda wordt gevoed.\nEr is geen \"klimaatlockdown\", en er komt geen \"klimaatlockdown\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee.\n\n-plop- + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ging meer om die paar duizend jaar daarvoor, toen was er ook opwarming met veel minder mensen, minder koeien, minder industrie, minder fossiele brandstoffen, #hoedan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Guy volgens GROENEN zou de verandering v/h klimaat voortkomen uit jarenlange milieuproblematiek❗En'k had wel eens graag meer  geweten over't klimaat de eeuwen vóór 1830❗Blijken geen gegevens over te bestaan❗ Door GROENEN wordt nooit gesproken over massale groei wereldbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb hem echt wel gezien hoor. Maar ik vond het vrij eenzijdig en gedateerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja als je genoegen neemt met basisschool redenatie. Helaas zo zit de wereld niet in elkaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad... Maar op den duur zijn sommige boeken in het lijstje toch al verouderd of vallen ze niet meer in mijn huidige interessegebied, waardoor ik het zo nu en dan kan inkorten. Het is wel een LIFO-lijstje 😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat suggereer ik niet, maar zo lees je het blijkbaar.\n\nSamsom is een ander onderwerp. Ik kan me voorstellen dat je als ecomodernist vraagtekens stelt bij zijn beleid. De functie  die hij nu bekleed vraagt niet om een anti kernenergie lobbyist.\n\nBron: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is inmiddels wettelijk ook al niet meer toegestaan in openbaar groen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet dat het wetenschappelijke debat over de rol van een zwakkere meer meanderende straalstroom nog niet beslist is maar ik geloof er wel in. Zeker in de zomer. Je ziet toch vaak dat het weer tegenwoordig vaak lang in het zelfde patroon blijft hangen en bovendien extremer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lauwe douche nemen, niet afdrogen, en op de 'tocht' gaan staan bij open raam. Dat koelt wel af. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom staan trafohuisjes bv op de grond in de randstad? Die zou je hoger kunnen gaan plaatsen, net als de meterkast. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Men riep hier jaren te schreeuwen over 'global warming' tot de strenge winters kwamen. Toen werd het ineens 'klimaatverandering'. Het mooie van dat laatste is, is het een warme dag, het komt door klimaatverandering. Is het een koude dag, het komt door klimaatverandering. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Probeer de verhouding tussen 'er is iets aan de hand' en 'hysterie' maar te vinden. Moeilijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen weet toch dat stikstof als een deken over het land ligt en dat dat alles verstikt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Sorry Hans maar ik ga geen discussie voeren over klimaatverandering, je mist het punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Milancovitsch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is inherent 😙 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

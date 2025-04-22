@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dank voor je reactie en eens: vanuit functioneel perspectief zou alles onder een dak logisch zijn. Maar in de praktijk is samenwerken onder één dak tussen partijen die willen versnellen en partijen die willen meestribbelen niet erg succesvol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar dit zal geen zinvolle discussie worden over klimaatbeleid. Qed + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker, maar dingen als stoppen met subsidies voor fossiele brandstoffen of de betonstop gaan op korte termijn het leven zeker niet goedkoper maken, integendeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij bent me net voor wat betreft de verwarming 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom. Dit is NPO. Buitenhof. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vermoed zomaar dat Enkhuizen een grote ruk naar (extreem)rechts gaat maken, FvD winnaar gevolgd door de PVV en mogelijk dan zelfs de VVD + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uit je lijst. Richard J Davidson is een psychiater. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Deze types zijn de slapste politiek correcte domme mensen die ik ken. Zij gaan als eerste geofferd worden door het systeem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik neem zeker meer extreem weer waar. Ik werk bij een waterschap, en daar is het dagelijkse kost NL hierop aan te passen met hogere dijken, meer ruimte voor de rivieren, regenwater vasthouden voor droge tijden. Werk daar is anders dan 30jaar geleden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat de temperatuur op aarde schommelt is een natuurlijk gegeven. De mens zorgt er echter voor dat dit uit balans raakt en de opwarming wordt versterkt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Anonimiteit is wel een legitiem argument in deze in uw realiteit? 🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen dit soort lemmingengedrag valt weinig in te brengen. Het is net als het geloof in een almachtige God. Einde discussie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

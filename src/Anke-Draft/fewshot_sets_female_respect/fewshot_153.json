@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappers die windmolens of zonnepanelen propageren voor de elektriciteitsvoorziening mogen hun bul bij mij inleveren. Knoeiers. D66 wordt kleiner dan ik, en dat is volkomen terecht. Komt trouwens deels door het feit dat zij van wetenschap een bijgeloof hebben gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zal die stukjes straks bekijken, maar die meneer doet geen simpele aannames hoor. Het verhaal zit gedegen in elkaar met natuurkindige principes en berekeningen uitgelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat vind ik ook. En dan ben ik ook nog een flexitariër - terwijl ik weinig van klimaatgedram moet hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het.\nEn dan moet het maar zo.\n\n#regering nalatig\n#rechter corrigeert + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dr rechter en de merkt hebben altijd gelijk! Ik heb geen onjuistheden vermeld + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want er mag niet gewezen worden op de gevaren van klimaatverandering die iedereen vroeg of laat treft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Even snel =&gt; het vollopen van de Noordzeevlakte gaf een klimaatschok\n\nToen het nauw van Gibraltar brak en de Middellandse Zee geboren werd = klimaatschok + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn ervaring is anders en zeker niet uniek. Met een besparing door vermindering energieverbruik kun je én aflossen én geld overhouden én ook nog iets doen voor klimaat. En ik  ben net zoals u van deze wereld 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw vorige tweet is een voorbeeld van hoe het makkelijker is om over 'feiten' te discussiëren, dan direct over persoonlijke motivatie voor eigen keuzes te beginnen. Uw tweede zet dat recht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zou uw tweet klinken moest men deze #fitfor55 een jaar vroeger worden gelanceerd?\n\nDemir =&gt; nog geen minister\nregen =&gt; extreme droogte ...\n\n#justwondering\n#tijdsgeest\n\n30 jaar weer is klimaat\nKlimaat verandert al 4 miljard jaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Weet ik, maar alle klimaatwappies gebruiken de term broeikaseffect ook niet meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat een domme tweet.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jeuk ze met je klimaatvluchtelingen! En met mijn bijna 61 stop ik niet met de feiten aan te dragen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent zelf slecht geïnformeerd. Ze willen nederland volzetten met asieleisers. Internationale experts zeggen zelf dat Nederland onverantwoord bezig is. Nederland is een belangrijke speler in de internationale voedselmarkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Goed kijken, deuger + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

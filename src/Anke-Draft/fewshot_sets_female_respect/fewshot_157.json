@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Van de week een stuk gelezen over de mogelijk aanstaande negatieve schrikkelseconde omdat de Aarde wat sneller om haar as draait. Komt door de Maan.\nTegelijk een veelheid aan interne invloeden die mede de klimaatproblematiek veroorzaakt. Veel te simpel om enkel CO2 aan te wijzen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moe de mense in hun kracht zette.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatcrisis is onzin, de stikstof is onzin, het gebrek aan water is onzin, er is een gebrek aan eerlijke bestuurders, dat is de enige crisis die er is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering is van alle tijden. Klopt. Maar de snelheid van nu is ongekend en loopt gelijk op met de hoeveelheid CO2 in de atmosfeer. En die loopt zo hard op sinds de industriële revolutie en de bevolkingsgroei. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Top. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat laat zich niet sturen door de krankzinnige “oplossingen” van groenlinks , D66 Samsom en Timmermans. Het is een grof schandaal dat jullie deze gekte in stand houden. Bedenk echte oplossingen zoals kernenergie . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kan wel. Hij zal dan wel een deel moeten verkopen om de belasting te betalen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dat de EU met één akkoord zowel een recessie kan bewerkstelligen, alsmede een verhoging van CO2-uitstoot en een biodiversiteitskrimp !\nEn tegelijk de luchtvervuiling kan stimuleren en recreatiegebieden kan vernielen ....\nBest wel knap van onze knapste koppen ! 🤮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, het klimaat veranderde ook al in de prehistorie, telkens de samenstelling van de atmosfeer veranderde. Tegenwoordig zorgen menselijke activiteiten voor een andere samenstelling van de atmosfeer (meer CO2) niet vreemd dus dat het klimaat ook deze keer verandert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "❤️❤️❤️❤️❤️❤️❤️❤️❤️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De poolkap smelt helemaal niet schat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga helemaal niet met betere inhoud komen. \n\nOplichter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet u misschien wat beter lezen, ipv op 1 willekeurige tweet te reageren uit een uitgebreide conversatie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij staat er in dat artikel van jou letterlijk: “ Heftige extremen volgen elkaar sneller op”. Ik zeg niet dat die ellende vorige week door klimaatverandering is veroorzaakt, ik gebruik het woord hoogstwaarschijnlijk. Jullie willen daar niet eens over na denken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is je punt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus u spreekt u eigen tegen met te zeggen dat zij weten wat er moet gebeuren en dus gelijk hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

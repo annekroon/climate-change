@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "En, ging het goed? Zat je er snel weer in?\n\nJammer toch, dat er vaak voor zo'n standaard opstelling wordt gekozen.\nMocht je nog eens iemand weten, die zich wil verdiepen: \n\nIn de maak: workshop 'participatie of polarisatie'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "weet je ook de oorzaak daar van heeft nl niets te maken met stijging,wel Harlingen bv met ontwatering en zoutwinning Neem Den Helder het enige zuivere reverentie punt in NL.Overbevolking en bebouwing op niet geschikte plaatsen is vaak 95 % de oorzaak van verzilting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt er net als op de beurs een soort aandeel van maken dat met de vraag stijgt of daalt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onder meteorologen leeft het idee dat er ondanks klimaatverandering nog wel ooit het weer voor een  zal komen.\nMaar dan toch geen tocht, want NL kan de verwachte opkomst niet aan. En ijs te dun ervoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U ontkent feiten. Er zijn geen bewijzen (modellen zijn aannames)  voor signifikante antropogene invloed op wat plaatselijke UHI ontwikkelingen na. Klimaatverandering is van alle tijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat ik een egoïst ben omdat ik daarvoor mijn leven, mijn inkomen, het leven van mijn kinderen niet langer wil on hold zetten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik kan me niet herinneren dat ik ooit in augustus kachel aan had, dan nu + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies, in dat opzicht zijn het wel talentjes. Ooit zal het kwartje misschien vallen. Ik probeer er maar om te lachen totdat het zover is, gelukkig is de tendens hier een stuk fijner 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies dat .... zinloos en kansloos.\nMaar gelukkig heeft de NL regering bewezen dat ze een pandemietje wel uitstekend kunnen managen .... 😂\nNa ‘Dansen met Janssen’ de effectieve actie ‘Een graad voor het klimaat’ !? 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus jij doet ook je auto weg en vliegt niet meer naar vakanties? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt eenvoudig uitrekenen dat het verbranden van biomassa meer dan tweemaal zoveel CO2 oplevert dan het verbranden van aardgas. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja....  indien zelfs Rutte de belasting wil verhogen dan kan t wel eens zo zijn dat zijn linkse vrienden t voor t zeggen hebben 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je het IPCC rapport gelezen hebt weet je dat die wetenschappers helemaal niets zeggen over klimaatalarm. Maar als ideologie en activisme hand in hand gaan wil je dat niet horen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

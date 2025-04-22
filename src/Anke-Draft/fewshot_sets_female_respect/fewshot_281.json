@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "OK. Kunt u dat dan ook onderbouwen? Draai ik het voor het gemak om: \"Het is wetenschappelijk om een ramp niet aan klimaatverandering te koppelen, zuiver ...\". Zonder gekheid, u stelt dus dat rampen niet aan klimaatverandering gekoppeld kunnen worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet dat het wetenschappelijke debat over de rol van een zwakkere meer meanderende straalstroom nog niet beslist is maar ik geloof er wel in. Zeker in de zomer. Je ziet toch vaak dat het weer tegenwoordig vaak lang in het zelfde patroon blijft hangen en bovendien extremer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het relevantst is, uiteraard, alles wat we wél weten en dat is met betrekking tot de CO₂ ↔ klimaat interactie heel veel.\n\nEn, guess what, alle metingen komen prima overeen met alles wat we wél weten.\nEr kan DUS nauwelijks meer invloed zijn van dingen die we niet weten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pfff….zoveel. Boeken, televisie, publicaties van instanties, podcasts, informatie via de werkgever. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een ‘echt’ boek #boekenhebberigheid ;) en digitaal exemplaar via de  online, kan ik altijd waar dan ook lezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, heel veel zelfs. De planeet kan een bepaalde CO2 uitstoot aan. Als westerlingen zitten we met onze footprint ver boven wat iedere wereldbewoner zou mogen veroorzaken. Nog los van dat onze consumptie elders wordt geproduceerd. En lokaal neemt de biodiversiteit sterk af. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik probeer m'n best te doen.\nEn ben vast de enige niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Margraten plakten ze tegels aan de wanden van de huiskamer. Die liep namelijk elk jaar onder. Soms 1 meter, soms 50 cm, soms 1,5 meter afhankelijk van de ligging van je huis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En de kans is blijkbaar elk jaar kleiner en kleiner? Aangezien het nu al wel heel lang geleden is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat vooral relevant is alles wat we niet weten en niet precies kunnen kwantificeren.. aannames, invullen van leegtes met aannames en het stapelen van aannames en theorieën maakt dat de fout marge heel groot wordt .. en dat klimaat debacle is exact dat .. een dwaling + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja....  indien zelfs Rutte de belasting wil verhogen dan kan t wel eens zo zijn dat zijn linkse vrienden t voor t zeggen hebben 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk nu praat je over jezelf en als de de andere tweets na lees hoor ik een ambtenaar zonder emotie, dat jij het goed heb geregeld is super,  en help andere in je omgeving het zelfde te doe als dat mogelijk is, maar in heelveel huishoudens hebben ze al geld te kort, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Boeiender dan uw achterhoede verhaaltje.\n\nDe honden blaffen, de karavaan trekt verder...\n\nNB: prima dat jeugdjournaal. Heel leerzaam. Vermoedelijk juist ook voor u.\n\nSucces.\n\nFijne avond. Daaag 🙋🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De jouwe?\nInderdaad.\nZoals steeds. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

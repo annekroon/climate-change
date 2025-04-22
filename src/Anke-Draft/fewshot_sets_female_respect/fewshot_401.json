@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat heet loslaten waar je geen invloed op hebt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Probeer de verhouding tussen 'er is iets aan de hand' en 'hysterie' maar te vinden. Moeilijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "5 jaar is veel te kort om conclusies uit te trekken. Bovendien heb ik hier een grafiek dat iets anders zegt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klinkt allemaal heel leuk ideaal maar in de werkelijke zijn er vele nuances en andere zaken die meespelen die de uitkomst van meuzes bepalen dan alleen de morele die u hier schetst, dat moet u toch inzien + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat men vaak zegt \"het spul is allang uit m'n lichaam en ik ben er nog\".\nJa, kan (wat t spul ook is), maar dat spul kan veranderingen hebben aangebracht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het boek is overal te bestellen waar boeken te bestellen zijn, o.a. hier:  Ik heb er zelf helaas niet genoeg thuis staan, anders had ik hem graag opgestuurd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is al aan de gang : Polen is het laatste zetje 🥷🧕 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker. En anders exporteren we dat spul naar Afrika. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schiphol kan inderdaad niet zonder kerosine. De gehele luchtvaart niet trouwens. \n\nGoed punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet je een fatsoenlijke lange broek aan trekken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe helemaal niets, ik geef alleen aan wat de wetenschap zegt, jij bent de ontkenner niet ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

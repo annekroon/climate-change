@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja, heel veel zelfs. De planeet kan een bepaalde CO2 uitstoot aan. Als westerlingen zitten we met onze footprint ver boven wat iedere wereldbewoner zou mogen veroorzaken. Nog los van dat onze consumptie elders wordt geproduceerd. En lokaal neemt de biodiversiteit sterk af. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want er mag niet gewezen worden op de gevaren van klimaatverandering die iedereen vroeg of laat treft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik helder! Thanks voor de opheldering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dodelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Helemaal eens. Maar er moet echt een MEGA-ramp in heel kort tijdsbestek zijn wil je die bovengrens bereiken. Iets als: alle dijken in NL breken tegelijk en 5 miljoen mensen overlijden.\n\nKlimaatschade gaat in de regel niet zo. Het kenmerk van klimaat is dat het langzaam gaat 1/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn de afgelopen jaren veel verhalen in de pers verschenen over klimaat, afname biodiversiteit, stikstofproblemen, droogte, bosbranden, en noem maar op. Maar heeft de politiek, hier en in de rest van de wereld iets mee gedaan? Kom op Theo. Het is wegkijken en door met de show + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aub, neem gewoon 18 minuten de tijd om te luisteren. Het gaat helemaal niet over APP, maar over TLTRO’s en waarom groene TLTRO’s prijsstabiliteit (dus inflatie) ten goede kunnen komen en beter zijn op lange termijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het IPCC? 🤣 Die maken rapporten die helemaal aangepast zijn aan de wensen van regeringen om vooral maar zo weinig mogelijk en zo langzaam mogelijk iets te doen. In werkelijkheid is 1,5 graad opwarming al lang niet meer aan de orde. Ben ik een alarmist? Ja, en realist. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt niet in de gaten dat het IPCC juist waarschuwt voor klimaatverandering. Zij geven aan dat er iets moet gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je begint steeds meer een verstokte betweter te worden 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Elders kan niet. Zee is al vol. Dus: ja. Dat ontkennen is jezelf voor de gek houden. Er is geen keuze. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit vind ik een duidelijke en beknopte uitleg: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je zou Lucas maar als leraar hebben..,\n\nMijn mening is dit en dat slikt jij maar… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dream on + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je woont aan zee is niet echt iets wat je expertise biedt op het gebied van geofysica. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik krijg het gevoel dat je me in de maling neemt en mijn tijd zit te voldoen met deze lijst. Ik vind vanalles, economen, health neutrition experts en psychiaters maar wtf hebben die nu met het klimaat te doen??! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

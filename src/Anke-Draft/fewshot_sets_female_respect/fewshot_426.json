@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "In het wild: milder \nIn de industrie: hoog pathogeen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is nu juist het probleem. Wat ook meespeelt is, als bepaalde landen hun uiterste best doen om iets tegen de klimaatsverandering te doen, en andere landen lappen dit aan hun laars blijft het water naar de zee dragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schonere maar veel talrijker dan vroeger. Hoeveel wordt er nu gevlogen ivm pakweg 20 jaar geleden? Hoeveel auto's zijn er nu? Hoeveel industrie? We moeten ons beseffen dat bijna alles wat we doen, slecht is voor milieu en klimaat. En dus voor onszelf! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als er een regionale klimaatramp plaats vindt, is het toch heel normaal dat men van de staatsecretaris klimaat wil horen? \n\nEn wat? Duiding, risico's, perspectief, onderzoek, extra maatregelen?\n\nDat is aan de staatssecretaris.\n\nDit heeft niets met goed of fout te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat kan. heb je een peer review van een deel van het rapport voor mij? Lijkt me overigens best lastig, om voor publicatie een peer review te doen. Dat komt pas na publicatie namelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🙈pfff het is ook niet te doen hoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eigenaardig dat mensen verontrust raken van normale dingen, als je ze maar alarmerend genoeg brengt. We hebben de eerste nachtvorstnachten ook al gehad. Was dat geen record? Of erg? O nee, we mogen van de groene kmerh alleen de opwarming mythe actueel houden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik ook, wie weet al wat eerder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "‘In uw eigen woonomgeving’ scoorde maar bij 21% van de respondenten JA. \n‘In uw achtertuin’ had vast nog een stuk lager gescoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het ging over het bewust brandstichten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hè flikker nou toch op met die hashtags alsjeblieft. Lagere schoolniveau. Laten we van elkaar leren. Je hebt wel een punt wat betreft China’s verwezenlijking van Europa’s groene dromen, maar ik denk dat we veel beter af zijn -zonder afhankelijk te zijn van China- door te + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jaa ik heb nodig das op punten met de kat en de krultang? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat snap je nu niet aan dat vleesproductie overal een groot probleem is ? Fors verminderen zou een hoop problemen oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

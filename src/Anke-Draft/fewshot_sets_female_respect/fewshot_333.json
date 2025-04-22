@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het kappen van die bomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf miljoenen uitgeeft om klimaatmaatregelen tegen te houden, wetende dat er daardoor doden zullen vallen, puur om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In de brand, uit de brand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou, in die context, dit wel eens willen lezen.\n \n(Al heb ik begrepen dat de oplossingen daar een soort communisme light is. Dus dat gaat het voor mij ook niet worden :)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zag laatst weer ergens een bericht dat kleine boerderijen worden gesloten met belastinggeld en dat de stikstofnorm voor de intensieve veehouder weer wordt verruimd. Als dat zo is, dan word je gek. Dan wordt het stikstofdossier nooit opgelost + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh lekker. Buienradar geeft hier 18 graden...en zo voelt het ook #getsie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die heb ik sinds een maand niet meer aan. Je weet, uit solidariteit. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We zijn een klein land met enorm veel vervuilende industrie en idioot veel vee. Onze haven in Rotterdam is 1 v/d grootste ter wereld. Nederland zou koploper moeten zijn. We bulken van het geld. Er gebeurt bijna niets op gebied v klimaat. Rutte ziet enkel economie als belangrijk! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Valt mee de mens moet wat minder ingrijpen minder korte termijn denken minder globalistisch en meer zelfvoorzienend worden . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, u slaat de plank volledig mis.\n\nDe huidige versnelde #klimaatverandering is bepaald geen geloof.\n\nHet aantal meetbare feiten is overweldigend en neemt dagelijks toe.\n\nMocht u werkelijk geïnteresseerd zijn. Onderstaande boekje is zeer toegankelijk en leesbaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik beschouw iedere persoonlijke keuze voor afvalligheid als een overlijdensbericht van de persoonlijke god van de afvallige in kwestie. Ik heb niet al die overlijdensberichten zelf ontvangen en ingezien. Daarvoor zijn er natuurlijk al veel te veel goden ten grave gedragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De Belgische uitgerangeerde natuurkundige die altijd detailplaatjes upload? Die de grote lijnen maar niet kan zien??🧐\n\nNee joh die had ik in één gesprekje op twitter onder de tafel gel*ld. Kon niet op tegen mijn kennis van #klimaat, #evolutie, #duurzaamheid en #milieu 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Guy volgens GROENEN zou de verandering v/h klimaat voortkomen uit jarenlange milieuproblematiek❗En'k had wel eens graag meer  geweten over't klimaat de eeuwen vóór 1830❗Blijken geen gegevens over te bestaan❗ Door GROENEN wordt nooit gesproken over massale groei wereldbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "We wachten het af maar gezien het feit dat vele partijen kernenergie afwijzen denk ik dat de nood nog niet zo hoog is. Anders zouden ze iedere oplossing verwelkomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat dat betekent dat iemand anders voor je gaat bepalen wat je wel of niet mag. Waarom zou iemand voor mij bepalen of ik 1 keer of 5 keer vlieg? De tickets betaal je zelf toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt, kleine kans lijkt mij inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "klimaatverandering lijkt me gewoon een trager einde van de wereld, waarbij het voor minder geprivilegieerde mensen en een pak dieren wel sneller zal zijn :/ maar idd er zijn oplossingen, hopelijk kunnen de multimiljonairs &amp; miljardairs hun hebzucht op tijd ad kant schuiven + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vindt u nog altijd dat ons klimaat droger wordt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yep, ik snap niet dat ze via Polen gaan. Ze weten dat Polen veel weerstand zou gaan bieden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "(en ovrgs zal die aanwas ook geen constante zijn waar de neerslag locaal toe of afneemt oiv klimaatverandering) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, Apart he- nu kunnen mensen zonder specialismen ook echt wel de juiste vragen stellen, maar Marlies Dekker heb ik daar heel weinig op kunnen betrappen;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh lekker. Buienradar geeft hier 18 graden...en zo voelt het ook #getsie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Keuzes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moet leren grafieken te lezen. 🙄Er staat niet gemiddelde. Er staat historisch max. \nIk heb het nog wel speciaal ge-highlight zodat dat duidelijk is. 🙄\nIk snap nu waarom je zulke rare denkbeelden hebt. Je hebt moeite met informatie correct op te nemen en te begrijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als je mijn uitleg al niet snapt....snap ik wel dat jij meegaat in die Woke nonsense die jullie linkse droeftoeters verkondigen:) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe helemaal niets, ik geef alleen aan wat de wetenschap zegt, jij bent de ontkenner niet ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jeuk ze met je klimaatvluchtelingen! En met mijn bijna 61 stop ik niet met de feiten aan te dragen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

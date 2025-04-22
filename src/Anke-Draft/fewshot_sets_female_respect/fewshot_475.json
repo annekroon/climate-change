@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat is nu juist het probleem. Wat ook meespeelt is, als bepaalde landen hun uiterste best doen om iets tegen de klimaatsverandering te doen, en andere landen lappen dit aan hun laars blijft het water naar de zee dragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "durf nog één keer op vakantie te gaan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, dat was een reactie van Anton op deze tweet 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar dit zal geen zinvolle discussie worden over klimaatbeleid. Qed + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dankje. Ik heb er ook over nagedacht. De juridische entiteit doet er wel zeker toe: zoek gerust uit. En afstoten van sites is iets anders dan substitutie. Iets meer respect voor mijn opvatting mag ook wel. Ik maak me hard voor strenge doelen met flexibiliteit in uitvoering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ehh, nee. Ik zou zelf niet in staat zijn een objectief journaal te maken, daar ben ik zeker van. Maar ik kan wel beoordelen of iemand redactionele keuzes maakt. Bijv. weglaten dat George Floyd een crimineel was. Bij etnisch geweld dat etnische element weglaten \"want Wilders\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onderstaande bron is volgens jou dus onzin? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U ontkent feiten. Er zijn geen bewijzen (modellen zijn aannames)  voor signifikante antropogene invloed op wat plaatselijke UHI ontwikkelingen na. Klimaatverandering is van alle tijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Biomassa is geen gepolder- maar een verkeerd besluit wat met de juiste intenties werd genomen en met verkeerde in stand word gehouden + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Helaas behoor ik niet tot die categorie mensen 😂 Zelfs na 2 jaar pfizer vaccins promoten heb ik geen stuiver extra mogen ontvangen 🥴😩 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik beschouw iedere persoonlijke keuze voor afvalligheid als een overlijdensbericht van de persoonlijke god van de afvallige in kwestie. Ik heb niet al die overlijdensberichten zelf ontvangen en ingezien. Daarvoor zijn er natuurlijk al veel te veel goden ten grave gedragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Netjes roch, slim ventje + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij wilt dat ook niet verder onderzoeken. Dàt is het verschil; je staat totaal niet open voor andere interpretaties. Bang dat jouw vastgeroeste wereldje waar nièts mag veranderen in gevaar komt. Je ontkent domweg dat er iets bijzonders gebeurd is en stopt  je kop in het zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en u met uw Geestelijke Gezondheids Zorg. Wat wilt u nu precies bewijzen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

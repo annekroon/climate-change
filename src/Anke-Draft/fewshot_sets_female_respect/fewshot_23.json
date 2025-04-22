@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "2/2 Ook zijn er door klimaatverandering verschuivingen waardoor koudere polaire lucht op andere plaatsen dan normaal komt, (dit geldt ook voor de warmere luchtstromen) waardoor het hele weersysteem instabiel raakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Isolatie om de warmte buiten te houden! 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat is uw argument precies? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, hij ook niet. Het gaat om de optelling van uitschieters. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De fatale zomerstorm van 1 augustus 1674 was en is ook nog steeds niet verklaarbaar op grond van het toenmalig heersende klimaat. Toch was die er en verwoestte half Utrecht en Holland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zullen we elkaar niet gaan vertellen wat we allemaal moeten. Laten we het erover hebben hoe we het willen. We weten helemaal niks. We moeten het gezellig houden. Dat wel.🗽🚀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben met het jaar meer tevreden over het feit dat ik geen kinderen heb om deze aardkloot aan door te geven. \n\nAirco in de slaapkamer, hopelijk tegen het einde van het jaar zonnepanelen zodat ik de airco gerust volgend jaar vaker kan aanzetten😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het wild: milder \nIn de industrie: hoog pathogeen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klimaat wordt nu eenmaal helaas warmer. Wil je dat ontkennen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heel vreemd. Heb je nog een andere browers om het te proberen, want hier echt geen problemen (in chrome, firefox en edge). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nop. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik steek geen tijd in onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik beschouw iedere persoonlijke keuze voor afvalligheid als een overlijdensbericht van de persoonlijke god van de afvallige in kwestie. Ik heb niet al die overlijdensberichten zelf ontvangen en ingezien. Daarvoor zijn er natuurlijk al veel te veel goden ten grave gedragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even voor mijn duidelijkheid. Wat betwist je precies? De menselijke invloed op klimaatverandering of de schadelijke effecten hiervan? Bijvoorbeeld op biodiversiteit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Onzin. Fijnspar is altijd al gevoelig geweest voor letterzetter in Nederland. Dat leerden we al in 1973. Wat we nu zien is werd toen al voorspeld in het vakgebied bosbouw techniek. Het is een vak bos voor hout telen!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ge gaat steun krijgen van  .Deze klimaatverandering is niet wat de #klimatos voorspelden :) Wel een #ommekeer zoals er reeds miljoenen jaren plaatsvinden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yes, ik zit nu in je operating system en zie dat je een slimme energiemeter hebt. Lol, ga je energieverbruik deze maand verdubbelen  :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dank voor uw bijzonder verrijkende reactie. Ik hoop nog veel van u te leren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Cognitieve armoede... Geen tijd om rustig adem te halen. We moeten hollen, want stilstaan durven we niet. \nZo verschrikkelijk treurig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor u een vraag voor mij een weet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snap ik. Was deels staand een optie geweest? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik bedoel dat Biomassa een voorbeeld is van de wet van de onbedoelde gevolgen- uiteindelijk is het contraproductief, dat kan altijd gebeuren tis complex. Probleem is dat ze het dan niet veranderen maar laten bestaan want financiële belangen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je in je eerste reactie zegt dat klimaatveranderingen van alle tijden zijn. Dan lees ik tussen de regels dat je niet erkent dat de recente opwarming door toedoen van de mens komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij denkt aan de rijders. Die meteorologen (waartoe ik me vandaag ook maar even reken) denken aan het publiek. Dat gaat ook het ijs op. Je zou heel Friesland in isolatie moeten doen. En dan nog heb je er een miljoen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is voor jou kennelijk moeilijk voor te stellen dat branden aangestoken kunnen zijn door mensen.\nWeet je nog dat verhaal over dat Gender Reveal feestje in Californië dat een heel groot deel van die staat in brand zette? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#klimaatGEK(TE) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Maar dat is voor jou heel moeilijk voor te stellen als je alleen geïntereseerd bent in Nederland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jeuk ze met je klimaatvluchtelingen! En met mijn bijna 61 stop ik niet met de feiten aan te dragen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

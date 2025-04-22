@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Onomstreden bewijs niet helaas. IPCC is heel eenzijdig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De gletsjers groeien niet meer aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kan je een foto van nu laten zien en één van honderd jaar terug, waarbij het water honderd jaar terug tegen de duin aan staat, en nu 100 meter lopen. Getijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee.\n\n-plop- + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen en het gat in de ozonlaag zijn zoals bekend sterk verminderd door streng milieubeleid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ir. Dick Buteijn heeft alles van de overleden ing. Rob van den Haak onder zijn hoede. Het voorstel gaat nu richting  ! Of de politiek het snapt is de grote vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben benieuwd hoe ongeveer anderhalve eeuw data relevant kan zijn voor grofweg 4,6 miljard jaar ontwikkeling en veranderingen .. zou het zo kunnen zijn dat je uit die data al heel snel een verkeerde conclusie trekt? .. denk het wel namelijk.. de marge voor fouten is enorm + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vind discussies over Media Bias waardevol, maar ik zie toch vaak genoeg media berichten met de urgentie die het onderwerp verdient. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Foto's zijn mooi maar meneer Joost reageert op mij en dat staat hem vrij silv026 maar ik denk dat Joost wel voor zichzelf kan spreken heeft hij u niet voor nodig overigens u heeft ook het recht om door te scrollen ik reageer slechts op uw en joost zijn commentaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee! Van de BBB..😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou even een cursus statistien en een cursus klimaat volgen, Robert. Dan begrijp je het misschien wel! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Elders kan niet. Zee is al vol. Dus: ja. Dat ontkennen is jezelf voor de gek houden. Er is geen keuze. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nop. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beste Hibma\n\nJe gaan nogal blind op wetenschappelijke literatuur is het niet?\n\n\"Wetenschappers GINGEN ER VAN UIT dat de schildpad was verdwenen als gevolg van vulkaanuitbarstingen.\" 🤪\n\n\n\nBenieuwd naar je 'wetenschappelijke' onderbouwing in deze 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

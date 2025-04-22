@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Prima. Heb je een andere oplossing? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daar zijn de verschillende bronnen nog al tegenstrijdig in ..de mate waarin mens verantwoordelijk is voor de huidige productie ..maar hoe je het ook wendt of keert ..de discussie is al heel lang vooral politiek en nog weinig wetenschappelijk.. de bandbreedte is groot in elk geval + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "#feiten #sticktothescience \n1. Klimaatstudies uitgevoerd door NASA: \nDe huidige regenval volgt exact de studies die NASA in 2013 heeft uitgevoerd.\n2. Droogte: \nDoor de opwarming van de Aarde zullen er langere droogteperiodes zijn.[1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jaaa natuurlijk en dan ga je door over het weer ofzo + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is dus significant warmer geworden. In dit grafiekje zie je het beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rondom brand is ook veel bangmakerij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😩🤷‍♀️ nobody told me... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen Willemstad dus 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het wild: milder \nIn de industrie: hoog pathogeen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doet iets aan je lichaam. Onherstelbaar. Alcohol is eruit na een dag maar schade blijft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Anonimiteit is wel een legitiem argument in deze in uw realiteit? 🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De jouwe?\nInderdaad.\nZoals steeds. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beste Hibma\n\nJe gaan nogal blind op wetenschappelijke literatuur is het niet?\n\n\"Wetenschappers GINGEN ER VAN UIT dat de schildpad was verdwenen als gevolg van vulkaanuitbarstingen.\" 🤪\n\n\n\nBenieuwd naar je 'wetenschappelijke' onderbouwing in deze 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De suggestie is toch echt dat de Sec te weinig doet, de verkeerde dingen doet, of het verkeerd ziet.\n\nInteressanter lijkt mij dan om  te vragen naar zijn mening.\n\nIs hij nog steeds voorstander van kolencentrales, met de kennis van nu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

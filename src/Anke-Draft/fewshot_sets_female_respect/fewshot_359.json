@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Is maar net wat je wil lezen, ik lees ook dat op 2 uur afstand van werk, familie en vrienden gaan wonen ook niet echt een optie is. Overheid zou ook regels kunnen maken die verzekeraars en hypotheekverstrekkers verplicht hun diensten aan te bieden bij binnendijkse woningen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb het gelezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat komen zij precies doen dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, de aarde zal het wel overleven. \n\nIk ben vooral bezorgd over wat de honderden miljoenen klimaatvluchtelingen met het politieke klimaat in de EU gaan doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar is uw bewijs van het tegendeel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga ervan uit dat het al te laat is. Geeft een heel geruststellend gevoel. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn punt: waarom zou de EU op basis van huidige emissies minder moeten doen, terwijl wij hoogst waarschijnlijk grotendeels verantwoordelijk zijn voor de huidige problematiek? Wát denkt U hiervan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg jij mij eens in je eigen woorden uit hoe volgens jou dat Greenhouse Effect werkt !!\n\nIk ben benieuwd !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Chinezen lijken me het efficiëntst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of is het juist hoogmoed (en naïef en onlogisch) om te denken dat je met inmiddels zo'n 7.770.000.000 mensen vanalles in enorme hoeveelheden zomaar uit de grond kunt pompen en graven, om het met enorme bakken zuurstof eraan in de lucht te blazen - zónder gevolgen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pas tijdens de 'UN Framework Convention on Climate Change' in 1992 sprak men over antropogene opwarming terwijl daar geen enkel bewijs voor was. Daaag? Ben je weg? Het jeugdjournaal begint? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja ja, vervelend he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja....  indien zelfs Rutte de belasting wil verhogen dan kan t wel eens zo zijn dat zijn linkse vrienden t voor t zeggen hebben 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

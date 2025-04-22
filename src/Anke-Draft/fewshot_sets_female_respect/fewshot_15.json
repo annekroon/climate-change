@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Klimaat is wereldwijd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw tekeningen zijn meesterlijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "30 gigaton = 4,1% van 750 gigaton.\nTotaal CO₂ is 420 ppm of 0,04 % v/d atmosfeer.\nLeg het nog eens uit?\nZeg tegen Elon Musk dat hij CO₂ batterijen moet maken\n1 batterij gaat 100jr mee zonder bijvullen.\nHet natuurkundig wonder is CO₂. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zou je nog een in een boekje over biologische samenwerking lezen,  maar heft niets met gender te doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan begrijp ik niet goed waarom het nou zo'n probleem is dat er nieuwe CO2-moleculen bijkomen die veel sneller door het nieuwe bos opgenomen worden dan het driedubbele aantal dat ooit boom was. We kunnen ook even teamen v die uitleg. Want misschien begrijpen we elkaar echt niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het geld moet uitgegeven worden aan het boven de armoedegrens houden van de bevolking. Want als je dat niet doet zit er straks een regering die 0,0 aan klimaat besteed, en 0,0 aan ontwikkelingshulp. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering? Wat dacht je van weermanipulatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken geen klimaatverandering.  Alleen bestrijd ik dat Nederlanders in staat zijn klimaatverandering tegen te gaan.  Wij zijn juist experts in het beschermen tegen de al miljoenen jaren gaande klimaatveranderingen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ken hem op voorspraak van genoemde professor. Het gaat om de attitude, de bronnen en de kwaliteit van de interpretatie. Daar kan ik me grotendeels in vinden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "4: Dat zelfs binnen  mensen vanuit deelbelangen of eigenbelang hun ogen sluiten voor de opgave waar we voor staan is voor mij de belangrijkste reden geweest dat ik het niet meer kon opbrengen om daar nog energie in te steken. Ik heb wel wat beters te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat u kunt vliegen bent u wetenschapper op dat gebied en hebt u verstand van klimaatontwikkeling?\nKom nou toch... Dit is het niveau van Meeus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "The ghuman condition of denial and stubbornness. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jij onbelast vliegen voor een paar duppies terwijl een grote klimaatcrisis eraan komt niet absurd vindt.... Dat is pas speciaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even naar beneden scrollen. En je dan beseffen dat die laatste zwenk naar rechts nog scherper gaat worden. Met je \"dit is volstrekt normaal\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij staat er in dat artikel van jou letterlijk: “ Heftige extremen volgen elkaar sneller op”. Ik zeg niet dat die ellende vorige week door klimaatverandering is veroorzaakt, ik gebruik het woord hoogstwaarschijnlijk. Jullie willen daar niet eens over na denken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

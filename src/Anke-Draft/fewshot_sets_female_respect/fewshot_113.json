@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik bedoel dat Biomassa een voorbeeld is van de wet van de onbedoelde gevolgen- uiteindelijk is het contraproductief, dat kan altijd gebeuren tis complex. Probleem is dat ze het dan niet veranderen maar laten bestaan want financiële belangen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hier ⛵️⛵️⛵️ met beperkte motoruren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah zelfs de knapste koppen op aarde kunnen dit niet meer fixen. Ze weten al 50 jaar dat er problemen aan komen. Het moet met de hele wereld samen en anders is alles kansloos mijns inziens🙃 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij gaat het om een bepaald percentage en alleen om reststromen. Hoe dan ook zou het bizar zijn om voedsel in de tank te doen. Als Kamerlid heb ik me altijd daartegen verzet. Er zijn andere oplossingen. Ik moet er niet aan denken als we hiermee luchtvaart ‘vergroenen’. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is dit uitgekomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Super interessant en leerzaam. Dank voor het uitgebreide antwoord🙏 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is de grap. Het heeft wel degelijk alles met elkaar te maken .. in die zin dat alles door elkaar heen gebruikt wordt .. en wel onder de noemer ‘klimaat’ .. en alles wordt vervuiling genoemd .. CO2, stikstof (verbindingen daarvan dan) .. puinhoop.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dodelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets doen kost op termijn veel meer. Als we de zeespiegelstijging binnen de perken kunnen houden met maatregelen nu, voorkomen we in de toekomst Amersfoort aan Zee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schiphol kan inderdaad niet zonder kerosine. De gehele luchtvaart niet trouwens. \n\nGoed punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waaruit blijkt dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duh, dat ging over jou... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is voor jou kennelijk moeilijk voor te stellen dat branden aangestoken kunnen zijn door mensen.\nWeet je nog dat verhaal over dat Gender Reveal feestje in Californië dat een heel groot deel van die staat in brand zette? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

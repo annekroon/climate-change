@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ps. Hier heb een mooi artikel gevonden van het Copernicus programma, een monitoringssysteem in opdracht van de EU/ESA: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kan wel. Hij zal dan wel een deel moeten verkopen om de belasting te betalen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een echte aanrader, ik kan het met moeite wegleggen. Een reis door de geschiedenis en natuur. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kende de man en zijn reputatie niet. Heb alleen dit interview gezien. Ik denk dat je zelf moet kijken om een oordeel te vellen. Vooral wat hij zei over de maatregelen leek mij plausibel. Dat hij een klimaatontkenner is, kwam in het interview niet zo naar boven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dichtbij woongebied wel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg jij mij eens in je eigen woorden uit hoe volgens jou dat Greenhouse Effect werkt !!\n\nIk ben benieuwd !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is hoe GroenLinks denkt. Ik vind dat niet constructief en ook bezijden de waarheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In juli soms 35. Zelfs in 1914. En? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zien we die dan al?\nWist je bv dat je levensverwachting sinds de industriële revolutie verdubbeld is?\nWist je dat er in Europa 40% meer bos is dan 50 jr geleden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2026 pas? En ondertussen laat de gemeente Purmerend op grote schaal bossen kappen in Estland voor hun \"biomassa\"? Het is pure greenwashing. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga helemaal niet met betere inhoud komen. \n\nOplichter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nu doe je het al weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

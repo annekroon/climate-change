@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dus mensen zonder kinderen moeten maar alle opofferingen maken zodat de kinderen van een ander het over tig jaar beter hebben? Dank je maar ik wil graag zelf een leuk leven lijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Loze beloften en pluchegeilheid zijn de dood van de democratie.\n\nKijk naar het stemgedrag van partijen. Je weet dan waar ze werkelijk voor stemmen, of tegen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daar zijn de verschillende bronnen nog al tegenstrijdig in ..de mate waarin mens verantwoordelijk is voor de huidige productie ..maar hoe je het ook wendt of keert ..de discussie is al heel lang vooral politiek en nog weinig wetenschappelijk.. de bandbreedte is groot in elk geval + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja klopt.\n\nDeze is in eindversie nog niet af begreep ik. Maar schijnt dus echt zeer alarmerend te zijn.\n\n#IPCC\n\n#broeikasgassen\n#broeikaseffect\n#klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je zelfs de discussie niet hebt onthouden en meent op deze toon een gesprek te moeten voeren, ben je bij mij aan het verkeerde adres. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is zo'n typische economische zin die niet klopt, fundamenteel. Waarom?\n\nkosten = inkomsten! (per defnitie!)\n\nDus hogere kosten = hogere inkomsten.\n\nDus er staat: 'lopen bedrijven tegen steeds hogere directe en indirecte inkomsten aan ...'. \n\nEn gaan dan failliet??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is dan vrij ernstig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En wat zou er behalve dat nog meer kunnen gebeuren? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk dat het vnl te maken heeft met de tijdschaal waarop je kijkt, en wat je wel of niet in beschouwing neemt.\n- nu tot 2030 vs pre-industrieel tot verdere toekomst (net zero)\n- alleen schoorsteenemissies of ook koolstofcyclus (koolstof herkomst, verandering landgebruik)\n-BV + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Net één graad verwijderd van de perfecte 19 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je begint steeds meer een verstokte betweter te worden 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou even een cursus statistien en een cursus klimaat volgen, Robert. Dan begrijp je het misschien wel! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het geld niet uitgeven en wachten tot het te laat is is nog veel erger. Desastreus zelfs. Dan heb je vanzelf niets meer aan welk geld dan ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik doe niemand wat aan, als andere mij dan ook met rust laten dan is die 'vrede' geregeld ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alcohol is de pest in andermans lichaam, laat dat maar aan mij over, goed in. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Stikstof is geen klimaat issue. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yep. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw vorige tweet is een voorbeeld van hoe het makkelijker is om over 'feiten' te discussiëren, dan direct over persoonlijke motivatie voor eigen keuzes te beginnen. Uw tweede zet dat recht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een lange rok aan, mag dat ook. Staat wel heel charmant met die geitenwollen sokken 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja dat zijn alle logische doemscenario’s. Moeten we goed zijn voor het milieu? Ja lijkt mij een strak plan. Maar daarvoor hoef je niet te minderen in CO2 an sich. De focus daarop is niet te verklaren met klimaat of milieu. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een echte aanrader, ik kan het met moeite wegleggen. Een reis door de geschiedenis en natuur. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke omstandigheden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey Lode, de podcast duurt 18 minuten en brengt de nodige nuance. Is handiger dan de de 280 tekens van Twitter. Neem je eventjes wat tijd om te luisteren naar iemand die er duidelijk wel iets van kent? Groetjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

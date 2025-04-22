@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Daarom zeg ik stoppen met die flauwekul! Die klimaatverandering stoppen we echt niet meer. Laten we er maar mee leren omgaan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die heb ik sinds een maand niet meer aan. Je weet, uit solidariteit. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik had natuurlijk tal van nevenfuncties en vond dat ik mijn bedrijf in mondkapjes wel mocht sluiten 😷 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ja, dat zal zo zijn. ik zit ook een beetje te geinen he ;-) goeie buikschuiver maakt 'ie wel daarna! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk Tom, je becommentarieert het nu al als een gekte.\nDe bijdrage van de investeringen,trouwens volstrekt niet de 1.000 miljard van Baudet moet je ook vertalen in een grotere beheersbaarheid van het klimaat en een push voor innovatie en onze economie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een ‘echt’ boek #boekenhebberigheid ;) en digitaal exemplaar via de  online, kan ik altijd waar dan ook lezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou het kunnen zijn dat de meerderheid van Nederland het simpelweg niet eens is met de almaar doorgaande immigratie, het uitdijende EU apparaat en veel te dure klimaatplan? Rechts geeft net zo goed om het milieu, maar niet tegen iedere prijs. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U ontkent feiten. Er zijn geen bewijzen (modellen zijn aannames)  voor signifikante antropogene invloed op wat plaatselijke UHI ontwikkelingen na. Klimaatverandering is van alle tijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk een graad of 13. Liep met mijn winterjas buiten. Veels te warm + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "yeah beste way, zie geen reden om vriendschappen te breken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus?\n\nPersonen zoals jij en degene die het artikel geplaatst heeft zijn oplichters! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee het is dom. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Klimaatverandering raakt nu al 85% van de wereldbevolking\".\nAlbert: wellicht behoor jij tot de laatste 15% 😳 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is interessant dat je het enerzijds afdoet als onzin en anderzijds vind dat vooral jij geen opofferingen hoeft te doen omdat je geen kinderen hebt. \nAls het echt onzin is hoeft niemand dat, natuurlijk. \n\n👋🏼👋🏼👋🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen dit soort lemmingengedrag valt weinig in te brengen. Het is net als het geloof in een almachtige God. Einde discussie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

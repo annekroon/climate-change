@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Wij wonen hier en niet in India! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn institutie laat helaas het lezen van betaalde artikelen in Nature niet toe😪. Maar gezien discussie over NPLG laat het wel zien, integrale aanpak is nodig.  Adaptatie zal niet voor 100% kunnen, andere stressfactoren moeten dus echt naar beneden. 🧵 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat je met mensen verleiden meer bereikt dan met dwang... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vind discussies over Media Bias waardevol, maar ik zie toch vaak genoeg media berichten met de urgentie die het onderwerp verdient. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ging meer om die paar duizend jaar daarvoor, toen was er ook opwarming met veel minder mensen, minder koeien, minder industrie, minder fossiele brandstoffen, #hoedan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is zo'n typische economische zin die niet klopt, fundamenteel. Waarom?\n\nkosten = inkomsten! (per defnitie!)\n\nDus hogere kosten = hogere inkomsten.\n\nDus er staat: 'lopen bedrijven tegen steeds hogere directe en indirecte inkomsten aan ...'. \n\nEn gaan dan failliet??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "David R Olson\n\ncognitive developmental psychologist + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat ik voor Dirk spreek waar hij zou stellen dat we vooral elektrisch moeten fietsen ;-) H2 voor transport is m.i. zinloos, we hebben alle groene H2 nodig voor industrie (vb. staal) en andere processen (nu, in #fitfor55, is er wel een rol voor H2 in transport). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Sorry, geen flauw idee behalve dat ze hier gek zijn?? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja China, Brazilië, India enz moeten hard aan de slag om vervuiling terug te dringen. Daar valt de grootste winst te halen.  En de middelen die wij hier laten verkwisten door de millieumafia kunnen efficiënter worden ingezet met meer winst voor infra, milieu en mensen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Warmt het regenwoud op? \nHier om mijn woorden wat kracht bij te zetten. Hopelijk snap je het plaatje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Guy volgens GROENEN zou de verandering v/h klimaat voortkomen uit jarenlange milieuproblematiek❗En'k had wel eens graag meer  geweten over't klimaat de eeuwen vóór 1830❗Blijken geen gegevens over te bestaan❗ Door GROENEN wordt nooit gesproken over massale groei wereldbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar is Klaas (lobby) Martens weer. Zich kapot starend op kernenergie.\nTerwijl de business case voor kern energie gewoon niet goed is.\nDe prijs is te hoog of wind en zon te goedkoop.\nEn nee ik ben niet tegen maar realist.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is je punt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

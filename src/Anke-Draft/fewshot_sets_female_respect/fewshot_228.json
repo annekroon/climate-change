@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Alweer een wappie leugen. Ach. Domheid zijn we gewend van jullie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering komt in de er plaats door overconsumptie niet door overbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe wordt dat dan vormgegeven. Komt dat ook in de app? Moet iemand nog een goedkeuring geven? Kun je zelf je prijs bepalen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, en t wordt erg druk op straat. Ik hoop t niet meer mee te maken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Verleiden heeft een positieve invalshoek. De energietranisitie levert ook veel angst op voor het onbekende en de kosten. Daar moet je iets positiefs tegenover zetten. Dwang werkt tegen die achtergrond averechts. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee.\n\n-plop- + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die willen biodiversiteit bevorderen. En dan moet je niet alles vol zetten met bos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dat snap ik ook, zeker als het Shell betreft. Succes met je bedrijf, en als ik vanuit mijn rol (bestuurder gemeente, verantwoordelijk voor oa energietransitie, jullie kan overhalen voor een laadstation in Purmerend, hoor ik het graag 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prachtig.\nVorige editie met gezin in stromende regen...\nEn toch met zovelen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oogkleppen op en verder in de eigen deugbubbel? En hard blijven Dunning-Krugeren? Heerlijk. Veel plezier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

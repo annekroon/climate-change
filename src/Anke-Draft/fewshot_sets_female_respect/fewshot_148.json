@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zeker Gerrit, en al koelt de aarde 10 graden af, kunnen er nog steeds hittegolven ontstaan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "klimaatverandering? Volgens experts is het te vroeg om dat te zeggen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ja, helemaal. Ik sta op een camping. Stel tegenover me, nieuwe auto, vouwwagen en het verhaal dat ze iets voor het klimaat willen betekenen. Want er moet wat gebeuren 🙄. Zij werk waarschijnlijk als gemeenteraadslid voor een groene partij. Ze vond het terecht dat de boeren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is helemaal niet wat ik aan 'oplossing' voorstel en wat jij progressieve mensen Timmermans, Samson, en Kaag, simpel als enig zaligmakend, in de schoenen schuift.  Hun voorstellen om de CO2 uitstoot te reduceren omvatten veel meer maatregelen dan jij eventjes hier twittert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, Apart he- nu kunnen mensen zonder specialismen ook echt wel de juiste vragen stellen, maar Marlies Dekker heb ik daar heel weinig op kunnen betrappen;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kom op Ytje laat je niet meeslepen in dit verdienmodel van klimaat fantasten ,natuurlijk moeten we omschakelen van fossiele brandstoffen naar schone maar geef de mens de tijd en pak eerst de basisproblemen aan je begint toch ook niet bij het toetje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zag dit toevallig via Frans Kerver en het was mij niet duidelijk of dit nu toegestaan was om te doen, of niet? Dit omdat het een guerrilla-actie wordt genoemd en guerrilla-acties mogen toch niet? Die zijn illegaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "haha ja lekker random ook haha + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je dwaalt af, dit heeft niets met klimaat van doen.\n\nJe redenatie over klimaat lijkt op:\n\n\"Vroeger waren er ook bosbranden, dus bosbranden van nu kunnen niet door mensen zijn aangestoken\" 🤷🏼‍♀️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De mens is pas  +/- 10.000 jaar vee gaan houden, dus dat lijkt me sterk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onnoze kul argument. Er zijn minder doden gevallen door overstromingen. Wat zegt dat? Hooguit dat er meer aan watermanagement gedaan is, betere dijken etc. Het verklaart totaal niet de oorzaak van het extreme weer van vorige week. Dus beledig me niet meer met kul argumenten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hun weer programma gaat met horten en stoten zullen we maar zeggen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

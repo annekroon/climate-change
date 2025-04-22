@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "We je feiten weten voor je uitspraken doet. 1: Ik heb niet gezegd dat er geen energie bezuinigd moet worden. Dat moet wel, ongeveer 50%. Maar dan nog is de opgave gigantisch en is er op zee geen ruimte voor opwek voor huishoudens, mkb-bedrijven en vervoer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat de Chinezen daar van onder de indruk zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eigenaardig dat mensen verontrust raken van normale dingen, als je ze maar alarmerend genoeg brengt. We hebben de eerste nachtvorstnachten ook al gehad. Was dat geen record? Of erg? O nee, we mogen van de groene kmerh alleen de opwarming mythe actueel houden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In mijn boek  ‘Dando, de klimaatvluchteling’ (kniphorst) kun je lezen wat volgens mij de enige manier is om de mensheid voor groter onheil te behoeden. Helaas een utopie. Dat gaat nooit gebeuren. Mensen/landen vinden altijd dat anderen eerst moeten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben Drs. Communicatiewetenschappen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben het daar ook wel mee eens en heb ook geen twijfels bij klimaatverandering ofzo. Maar het gaat hier wel echt om 1 uitschieter die op zichzelf niets bewijst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spannend! 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer en zwaardere stormen door klimaatverandering? 'Dat weten we op z'n vroegst pas over 30 jaar' + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah, dus met de aandelen van vaseline en zonnebrandcrème zit het wel goed. 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah:\n\n* Sceptisch over klimaatverandering en klimaatbeleid\n* Opmerking over (werk)ambitie vrouwen seksistisch?\n* Geen Poetin-liefde, genuanceerde conflict-benadering\n* Geen massa-immigratie uit met name Afrika\n* WEF-plannen een complot?\n* Linkse partijen niet populistisch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wegkijker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gee diesel, maar wel eentje die voor 3 huishoudens verbruikt.. \nMaar ik doe het raam een beetje open, zodat ik met mijn koele lucht het een beetje minder warm maak voor iedereen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duh, dat ging over jou... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Waar las u die eerste passage/beweringen ooit ergens van mijn hand? Mooi staaltje 'fake news' zo! 🤔 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alle opofferingen? Waar heb je het in godsnaam over? Ik heb het niet eens over één opoffering gehad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waaruit blijkt dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

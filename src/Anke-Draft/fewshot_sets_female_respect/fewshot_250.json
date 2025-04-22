@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "We kunnen beter nog even gas gebruiken. Bossen zijn fijn om in te wandelen en zonde om te verbranden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is nu juist het probleem. Wat ook meespeelt is, als bepaalde landen hun uiterste best doen om iets tegen de klimaatsverandering te doen, en andere landen lappen dit aan hun laars blijft het water naar de zee dragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad, alles moet kritisch bekeken worden en allereerst de bron zelf. Vooral lezen in bronnen die ons op het eerste gezicht niet aanstaan dienen gelezen te worden voor de balans in inzichten. Eigenlijk zou iedereen die iets beweert de bijbehorende bronnen moeten vermelden.🌱 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee! Van de BBB..😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ach .... zie Schiphol. De deugers, de hypocrieten. De biomassacentrales, de houtstokers. Gas is overigens het goud onder de  fossiele brandstoffen, aldus Rutte. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan beveel ik toch LHK aan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Super interessant en leerzaam. Dank voor het uitgebreide antwoord🙏 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want dat is het beeld wat ik mee krijg uit onderzoek, robuuste ecosystemen en misschien ook meer diverse agrosystemen zijn minder kwetsbaar voor extreem weer (droogte, hitte, teveel water). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heij Bas. Niet zo pessimistisch! De mens heeft zich ontwikkeld in het interbellum tussen de laatste en de komende ijstijd. Klimaat is geen lineair proces maar volgt zoals alles in de natuur een S curve. Iets stoppen kan niet, hoogsten manipuleren. Veel succes met Max! ( F1) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik moet nog kiezen uit de 4 partijen die voor stemden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "The ghuman condition of denial and stubbornness. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

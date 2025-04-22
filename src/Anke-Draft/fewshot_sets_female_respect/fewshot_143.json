@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Vergelijk het met een festival, crowdcontrol. Je kunt je steeds moeilijker verzekeren tegen weather-events. \n\nHet festival \"vier\" je onder toenemende stress. Totdat we het \"feest\" afgelasten. \nOp een moment is het feest in Zeeland, Zuid- en Noord-Holland afgelast. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "\"Ik trek alle klimaat wetenschap in twijfel, zonder degelijke expertise, that's all\" 😆\n\nOa. Hier:\n\"While the non-CO2-related effects are both warming and cooling, their net effective radiative forcing—dominated by contrail cirrus—is positive\"\n\n1/n + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "geloof niet alles op het internet + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmmmm….misschien zag ze dingen die jullie niet zagen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Too high, too low? Why? Proof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het.\nEn dan moet het maar zo.\n\n#regering nalatig\n#rechter corrigeert + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En Tata in India is schoner? Laten we daar beginnen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is dus significant warmer geworden. In dit grafiekje zie je het beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een echte aanrader, ik kan het met moeite wegleggen. Een reis door de geschiedenis en natuur. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/3]\n2. Hoe weten wij dat temperaturen van afgelopen zomer indicatief is voor klimaatverandering: \n3. Hoe weten wij dat de huidige klimaatverandering onnatuurlijk is: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet u misschien wat beter lezen, ipv op 1 willekeurige tweet te reageren uit een uitgebreide conversatie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Pfff ga niet nog eens op al mijn oude berichten reageren. \n\nVerder als je alles onzin vind. Ik begrijp het. Jij leeft in Nederland en de rest maakt niets uit. \n\nDat er voedsel tekorten zijn, wat maakt het uit de iemand aan de andere kant van de wereld honger heeft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga helemaal niet met betere inhoud komen. \n\nOplichter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Heb niet de audacity om te doen alsof ik een expert ben en anderen ‘een joke’ te noemen, maar informeer jezelf eventjes 😚 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

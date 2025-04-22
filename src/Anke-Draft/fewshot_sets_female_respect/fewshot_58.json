@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Nee, dat zeg ik niet, maar het blijkt wel dat de PvdD en GL vaak hetzelfde stemmen bijvoorbeeld. In ieder geval links stemgedrag dan van de PvdD. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies de mantra van rechts. Ja, het kost geld, maar je hebt ook de plicht om mensen te helpen en ze niet per definitie weg te zetten als gelukszoekers. Er is geen eenvoudige oplossing voor dit probleem. Het is enorm complex, itt wat Wilders, Baudet, SGP, CDA en VVD beweren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij hebt de hele school weggegeven? 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah Bas. Dank voor uw antwoord. Het zal dan wel gaan over semantiek, daar dhr Bellemakers het heeft over “stoppen” van de klimaatverandering (wat niet kan) en u over “ binnen de perken houden” van de klimaatverandering. Mee eens dat dit een wezenlijk verschil is? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "'Given that many of the risks are unprecedented, historic data is of limited use, and the complex and non-linear effects of risks makes modelling, let alone forecasting, especially challenging.' \n\nLijkt me wel ja... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn ongetwijfeld ook mensen met stadstuinen met drie muren van de buren waar de temperatuur overdag +18 bereikt. Trouwens het feit dat er veel mezen bij jou in de tuin komen zegt genoeg. Zo doen ze ook in de winter: voedsel dichter bij de mens zoeken omdat het warmer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb het gelezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kap geen bossen, maar koop (landbouwgrond)grond aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snap de context prima maar stukjes als \"laat zien dat de aarde opwarmt\" zijn gewoon niet handig. Een incident laat niets zien ook al volgt het een patroon: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "geloof niet alles op het internet + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "... maar roepen om een verhoging van het minimumloon met 40 procent klinkt alsof ze totaal geen benul hebben van waar het (soc.econ) om gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even voor mijn duidelijkheid. Wat betwist je precies? De menselijke invloed op klimaatverandering of de schadelijke effecten hiervan? Bijvoorbeeld op biodiversiteit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

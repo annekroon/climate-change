@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "De vraag is of de geest in de fles te houden is. Als we CO2 reduceren en met dezelfde snelheid komt methaan uit de bodem dan is t dweilen met de kraan open… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eens, ik vind het überhaupt niet handig om nu kinderen op de wereld te zetten. De ellende waar we in zitten. Komen we nooit meer uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben met het jaar meer tevreden over het feit dat ik geen kinderen heb om deze aardkloot aan door te geven. \n\nAirco in de slaapkamer, hopelijk tegen het einde van het jaar zonnepanelen zodat ik de airco gerust volgend jaar vaker kan aanzetten😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat #klimaatverandering zou bijdragen aan menselijk leed (overstromingen, orkanen, klimaatvluchtelingen) wordt NIÉT beweerd door #klimaatsceptici maar juist door #klimaatalarmisten en #klimatologen\n\nOnze kennis over #klimaat zit nog boordevol gaten\n👇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Voor zo ver dat iets bewijs zijn er hier bijna 32.000 die het er niet mee eens zijn.\n\nMaar consensus heeft niets met wetenschap te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja, klimaatwetenschappers en activisten *vragen al jaren continu aandacht voor de crisis, maar *krijgen vaak pas aandacht als er \"iets\" gebeurt. Maar als je serieuze info wil, dan zijn er zat goede bronnen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Raisa geeft ons geen uitleg waarom ze dat ene land en gebied erbij moet halen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vond het IJsselmeer al zo spannend als 'zee'verkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klopt ja. Uiteindelijk gaan we allemaal wel naar de chalemiezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, heb zelfs de brondocumenten gelezen. Maar \"de zwarten\" is generaliseren. En dit wordt voornamelijk door roomblanke \"sociaal liberalen\" gepromoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar is Klaas (lobby) Martens weer. Zich kapot starend op kernenergie.\nTerwijl de business case voor kern energie gewoon niet goed is.\nDe prijs is te hoog of wind en zon te goedkoop.\nEn nee ik ben niet tegen maar realist.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

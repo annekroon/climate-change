@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Uitdagingen is het goede woord, dus ook oplossingen, maar dan moet je wel verder willen kijken dan je neus lang is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben 51 btw + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, de gemiddelde temperatuur neemt toe. De vraag is natuurlijk wel hoe erg dat is op dit moment. En overstromingen zijn er altijd al geweest, ook in de zomer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben het helemaal met je eens. Biomassa is met kleinschalig gebruik duurzaam. Maar als ze 628 BMC,s willen bouwen met dat idiote klimaatakkoord wat al lijd tot wereldwijde ontbossing zeg ik dit is de grootste achteruitgang. In de oertijd deden we dit al😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Frau Antje is het dan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jonge, helemaal voor het klimaat bevlogen mensen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom bedrijven smeken om te vergroenen als je ze ook kunt dwingen? Belasting op uitstoot maakt vervuilende producten duurder, waardoor de vraag zakt. Willen vervuilende bedrijven blijven bestaan dan moeten ze dus wel verduurzamen of ze worden ingehaald door groene concurrenten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom staan trafohuisjes bv op de grond in de randstad? Die zou je hoger kunnen gaan plaatsen, net als de meterkast. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "niemand zegt dat.. iedereen weet dat het klimaat al 4,5 miljard jaar veranderd..wel leuk  om te zien dat plekken die ten tijde van de Romeinen bereikbaar waren dat nu weer zijn + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn die doorrekeningen ergens openbaar? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als u met 2 vingers in de neus redeneert dan klopt het.  Echter de hoeveelheid water en de vertraagde luchtstromen komen overheen met het veranderende klimaat.  De afwijkingen zijn dermate dat het niet zou moeten voorkomen onder normale omstandigheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bullshit + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even voor mijn duidelijkheid. Wat betwist je precies? De menselijke invloed op klimaatverandering of de schadelijke effecten hiervan? Bijvoorbeeld op biodiversiteit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor angst doet dat 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Niet zo generaliseren. Is echt niet ok. Bovendien komt dit niet van hen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee alleen jezelf redden is voldoende. Dus alles overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

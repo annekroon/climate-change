@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dr rechter en de merkt hebben altijd gelijk! Ik heb geen onjuistheden vermeld + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ik wacht liever de peer reviews af die op andere sites gepubliceerd worden. Want je kunt niet in 1 uur en 20 minuten een peer review doen van een dergelijke publicatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken geen klimaatverandering.  Alleen bestrijd ik dat Nederlanders in staat zijn klimaatverandering tegen te gaan.  Wij zijn juist experts in het beschermen tegen de al miljoenen jaren gaande klimaatveranderingen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren maken grondwater/drinkwater in de eigen omgeving. Het regent, sneeuwd minder, nomadenleven werkt niet, teveel volk op 1 plek. Wij hebben degelijk schuld aan versnelde klimaat verandering, bos kappen betekend hitte op de grond uitdroging en geen regen circulatie t plaatse + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wrijf maar weer in die wonde van me 😩 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "NO! 😱🥴 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75% van de haver, volgens dat artikel.\nEn er is nog wel ander waterverbruik dan \"persoonlijk\". En de cijfers zijn vaak nogal \"wild\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Foto's zijn mooi maar meneer Joost reageert op mij en dat staat hem vrij silv026 maar ik denk dat Joost wel voor zichzelf kan spreken heeft hij u niet voor nodig overigens u heeft ook het recht om door te scrollen ik reageer slechts op uw en joost zijn commentaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee nog niet! Maar ik zal haar gaan volgen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het wild: milder \nIn de industrie: hoog pathogeen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "meer een Tena men.. ben er al even en heb met hem zelf te maken gehad.. dus spaar mij je bull trol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gevolgen...\n\nHorende doof, ziende blind. Het klimaatdogma is in steen gebeiteld door (ver) blinde apostelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

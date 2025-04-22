@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Mijn ervaring is anders en zeker niet uniek. Met een besparing door vermindering energieverbruik kun je én aflossen én geld overhouden én ook nog iets doen voor klimaat. En ik  ben net zoals u van deze wereld 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75% van de haver, volgens dat artikel.\nEn er is nog wel ander waterverbruik dan \"persoonlijk\". En de cijfers zijn vaak nogal \"wild\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja over het virus, maar het leven draait niet enkel om virussen bestrijden he. Je hebt ook de economie en de mens hun welzijn + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eigenaardig dat mensen verontrust raken van normale dingen, als je ze maar alarmerend genoeg brengt. We hebben de eerste nachtvorstnachten ook al gehad. Was dat geen record? Of erg? O nee, we mogen van de groene kmerh alleen de opwarming mythe actueel houden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Allereerst, leuk dat je reageert, respect daarvoor. Mijn punt was dat ik de energietransitie graag breed zie, heb zelf een elektrische auto en vind laden eigenlijk onder tanken vallen. Maar een aantal andere reacties hebben me al wat wijzer gemaakt. Ik snap jullie nu beter 😇. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mentaliteit komt vanzelf als structurele veranderingen in gang worden gezet. Niet andersom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe wordt dat dan vormgegeven. Komt dat ook in de app? Moet iemand nog een goedkeuring geven? Kun je zelf je prijs bepalen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Helaas ja, hier ook, overal Moslims. De meesten zijn walgelijk volk. Snap niet wie zoiets toelaat, je land zo naar beneden te halen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Sorry, geen flauw idee behalve dat ze hier gek zijn?? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Toevallig 😅 want ik kan letterlijk elk ander bestand wat ik wil openen wel openen. Behalve nou net dit bestand. Op 2 los van elkaar staande computers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hè flikker nou toch op met die hashtags alsjeblieft. Lagere schoolniveau. Laten we van elkaar leren. Je hebt wel een punt wat betreft China’s verwezenlijking van Europa’s groene dromen, maar ik denk dat we veel beter af zijn -zonder afhankelijk te zijn van China- door te + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Eens, afzetten helpt niet. Maar met plannen komen om windm op 350 meter van woningen zetten helpt de transitie ook niet. Er moet meer nuchterheid komen en minder groene religie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ja, helemaal. Ik sta op een camping. Stel tegenover me, nieuwe auto, vouwwagen en het verhaal dat ze iets voor het klimaat willen betekenen. Want er moet wat gebeuren 🙄. Zij werk waarschijnlijk als gemeenteraadslid voor een groene partij. Ze vond het terecht dat de boeren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke « Klimaatverandering » ? We kregen er hoop en al 1 graad bij in de afgelopen 142 jaar…en NIET gecorrigeerd voor het UHI Er is ook NUL correlatie tussen CO2 niveaus en zeespiegel stijging, ik herhaal NUL. Komt niet in de subsidie kranten. Ja, die kregen 867 miljoen € in 22 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Roken goed en gezond 🤝 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik helder! Thanks voor de opheldering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het publiek dat deels staat bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prachtig.\nVorige editie met gezin in stromende regen...\nEn toch met zovelen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Van mij mag je zoveel meningen hebben als je wilt. Als je  ze maar kunt beargumenteren 🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar welke omstandigheden beïnvloeden ze dan? En wie is 'ze'? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zullen we elkaar niet gaan vertellen wat we allemaal moeten. Laten we het erover hebben hoe we het willen. We weten helemaal niks. We moeten het gezellig houden. Dat wel.🗽🚀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "je bent vergeten te benoemen wat jullie oogsten vandaag; welke bessen sieren de fotoś??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alsjeblieft zeg ga nou niet de wijsneus uithangen en laat dit aan experts over dus rustig kijken van wat is hier nou gebeurt en hoe komt dat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toen dacht je ook al dat CO2 uit hout iets anders is dan CO2 uit steenkool. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

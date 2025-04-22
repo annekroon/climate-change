@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat de Chinezen daar van onder de indruk zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies.\n\nDe suggestie van de tweets van Hiemstra en Simons is dat Yesilgoz iets verkeerd doet, of verkeerd ziet, maar ik vraag me af wat dat dan zou zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ps. Ik zoek graag de problemen op 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moet geen concessies doen aan de boeren, simpelweg omdat het beleid het juiste beleid is.\nMaar het recht te protesteren is en blijft een groot goed.\nEn als de overlast te groot wordt: tractoren confisqueren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik woon in de Mastenbroekerpolder.\nZo’n 600 jaar geleden ingepolderd. Boererijen staan op terpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik begrijp dat... maar ik vind papier altijd heerlijk (ouderwets) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, je hebt zeker uitdagingen en ik denk dat het daarom belangrijk is mee lokaal te produceren en minder massaproductie uit te voeren. De \"grote oplossingen\" die door klimaat fanatici zijn bedacht blijken steeds niet te werken: een gat dichtgooien door een nieuw gat te graven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je vindt het klimaat belangrijk of je vindt het niet belangrijk en gaat akkoord met het met miljarden euro's subsidiëren van hele bossen aan CO2 de atmosfeer injagen.\n\nPluche heiligt niet alle middelen! Dat is niet naïef maar reëel zijn! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zie geen bronnen? Als je iets zodanig belangrijk vind, dan kun je dat toch wel onderbouwen Wouter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pas tijdens de 'UN Framework Convention on Climate Change' in 1992 sprak men over antropogene opwarming terwijl daar geen enkel bewijs voor was. Daaag? Ben je weg? Het jeugdjournaal begint? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De mens is pas  +/- 10.000 jaar vee gaan houden, dus dat lijkt me sterk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DENK JE ECHT??? ER WORDT MET WILLEKEUR GEKNOEID EN DUS VIND JE DE WAARHEID NIET TERUG. IK HEB ER 2 IN MIJN LEVEN MEEGEMAAKT. 1 TOEN IK NOG EEN PUPPIE WAS EN 1 EEN AANTAL JAAR GELEDEN. EN JIJ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat vooral relevant is alles wat we niet weten en niet precies kunnen kwantificeren.. aannames, invullen van leegtes met aannames en het stapelen van aannames en theorieën maakt dat de fout marge heel groot wordt .. en dat klimaat debacle is exact dat .. een dwaling + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee alleen jezelf redden is voldoende. Dus alles overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Warmt het regenwoud op? \nHier om mijn woorden wat kracht bij te zetten. Hopelijk snap je het plaatje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wegkijker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

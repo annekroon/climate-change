@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat verschilt per land natuurlijk, maar als eurozone als geheel ruim boven de 2%. Ik vind het overigens discutabel of je de prijsstijging van koopwoningen volledig zou moeten meewegen, omdat die zo sterk wordt beïnvloed door het gevoerde opkoopbeleid (dat ooit eens moet stoppen). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Margraten plakten ze tegels aan de wanden van de huiskamer. Die liep namelijk elk jaar onder. Soms 1 meter, soms 50 cm, soms 1,5 meter afhankelijk van de ligging van je huis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft ook niet, maar dit is de lange termijn grafiek van de temperatuur, trek zelf je conclusies.\nEr zijn grafieken over nog langere perioden, die nog extremere temperaturen laten zien. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We kunnen beter nog even gas gebruiken. Bossen zijn fijn om in te wandelen en zonde om te verbranden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan heb je jezelf niet in de actie verdiept… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onzin. Fijnspar is altijd al gevoelig geweest voor letterzetter in Nederland. Dat leerden we al in 1973. Wat we nu zien is werd toen al voorspeld in het vakgebied bosbouw techniek. Het is een vak bos voor hout telen!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, dat kan zeker nog verbeteren. Het kan niet opgelegd worden, het is een (hopelijk onomkeerbaar) duurzaam proces en moedige politieke  beslissingen kunnen (moeten) dat  versnellen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een doomgedachte dat de economie kapot zou gaan aan klimaatmaatregelen. Nieuwe banen gaan ontstaan en werkgelegenheid genoeg. Dat het anders gaat zijn klopt maar dat is ook wat moet. Nooit rommel kopen of produceren. Nergens. Koop kringloop/recycle/ruil waar kan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De poolkap smelt helemaal niet schat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan doe je zelf ook maar niets. Wat een levensinstelling. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "*Clue. Ik begrijp je volkomen hoor: jouw mening is dat vliegen goedkoop moet blijven zodat iedereen dat kan blijven doen. Ik ben van mening dat de destructie van onze planeet niet opweegt tegen deze luxe. En een veel te goedkope luxe dat wij bekopen met misgelopen belastingen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

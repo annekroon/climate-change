@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja Gerjan, dat ziet u verkeerd. Door onze activiteit (CO2 en andere uitstoot) warmt de aarde supersnel op (in 150 jaar wat anders 20.000-200k jaar duurt). We kunnen dat nog enigszins binnen de perken houden door snel stoppen met dat soort uitstoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jahoor, duurzaamheidscriteria daarbij wel belangrijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker doen! Du choc des idées jaillit la lumière. \nMijn eigen interpretatie van de gigantische begripsverwarring rond corona en vooral de maatregelen vind je hieronder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik voel me toch wat geruster door je tweet. Onze VvE gaat slaafs mee met de overheid en bekijkt alleen hoe ze voordeel kunnen halen uit de subsidiemogelijkheden en afwijzen van die aanpassingen heb ik nog niet gehoord. Ik begon hem aardig te knijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan beveel ik toch LHK aan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat dacht je dat ik gedaan heb Sven? Ik ben niet voor niets met pensioen! 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja so? Je vraagt het verschil tussen vroeger (mijn jeugd jaren 70-80) en nu. Vroeger overstroomde de boel constant. Tegenwoordig bijna nooit meer. Alleen 2 jaar geleden toen Valkenburg helemaal onderliep. Was ook niet de eerste keer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Weet je wat het is? De enige die écht wat doet aan het klimaat is Elon Musk door in rap tempo de hele auto industrie naar EV's te dwingen.\n\nDie hoor je nooit over klimaatgeleuter. Daar hou ik van. In de media is het élke dag weer 'all talk'. Enorm eenzijding, al tijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Werkt de link niet of staat er nog te veel naar je zin over andere dingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het kappen van die bomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, U maakt zich schuldig aan de confirmation bias. De klimaatwetenschap is ondertussen zeer duidelijk en dat laat de natuurkunde ons ook zien. Het feit dat U niet inhoudelijk kan reageren op mijn natuurkundige beschrijving van klimaatverandering zegt genoeg over uw inzicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Neen. Het kleinste kind weet dat klimaatmodellen de radiatieve balans voorspellen, enkel en alleen dat. \n\nOok weet het kleinste kind dat het globale klimaat afhangt van die radiatieve balans. Hoeveel energie we ontvangen, hoeveel er naar de ruimte terug gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

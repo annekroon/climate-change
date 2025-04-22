@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik zei altijd dat het mijn tijd wel zou duren maar geloof dat wij straks echt oorlog mee gaan maken 😥 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Biomassa is geen gepolder- maar een verkeerd besluit wat met de juiste intenties werd genomen en met verkeerde in stand word gehouden + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dankje. Ik heb er ook over nagedacht. De juridische entiteit doet er wel zeker toe: zoek gerust uit. En afstoten van sites is iets anders dan substitutie. Iets meer respect voor mijn opvatting mag ook wel. Ik maak me hard voor strenge doelen met flexibiliteit in uitvoering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gaat niet over boeren, maar over je claim dat er geen opwarming is maar 'klimaathysterie'. Ook al onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Maar objectiviteit en activisme gaan vaak niet samen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga het zoeken 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doe ik ook zeker niet. Waar ik het over heb is een leraar in een breed spectrum van beta vakken die een reeks van 24 of zo lectures hierover geeft. Hij beschouwd inkomende en weglekkende energie.van de zon in en uit onze atmosfeer en zijn samenstelling. Hij is geen ontkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom heffen die landen zoveel belasting? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "30 gigaton = 4,1% van 750 gigaton.\nTotaal CO₂ is 420 ppm of 0,04 % v/d atmosfeer.\nLeg het nog eens uit?\nZeg tegen Elon Musk dat hij CO₂ batterijen moet maken\n1 batterij gaat 100jr mee zonder bijvullen.\nHet natuurkundig wonder is CO₂. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zulke mensen bestaan er gelukkig ook nog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet u misschien wat beter lezen, ipv op 1 willekeurige tweet te reageren uit een uitgebreide conversatie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daarmee hebt u nog geen antwoord gegeven op mijn vraag wie uw persoonlijke god is. Hebt u die geschapen naar het model van de god van de bijbel? En hebt u in dat geval zijn kennelijke aanvaarding van wie alles eet én wie niet alles eet gehandhaafd of geschrapt in uw schepping? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is precies de denkfout: een 'hogere opbrengst', veelal bulkproductie, betekent niet een betere (bodem)conditie, integendeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Schrijven zonder te roken is in mijn geval ondenkbaar ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat snap je nu niet aan dat vleesproductie overal een groot probleem is ? Fors verminderen zou een hoop problemen oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

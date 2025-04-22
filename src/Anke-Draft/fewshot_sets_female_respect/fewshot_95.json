@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ah, dan juich ik het toe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik neem eenvoudig niet aan dat de toename van CO2 in de atmosfeer de desastreuse gevolgen zal hebben die eraan wordt toegeschreven. Recente metingen en waarnemingen spreken dit tegen. Samen met allerlei samenhangende belangen lijkt mij scepsis wel op z'n plaats. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering? Wat dacht je van weermanipulatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ik heb er een wil je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een doomgedachte dat de economie kapot zou gaan aan klimaatmaatregelen. Nieuwe banen gaan ontstaan en werkgelegenheid genoeg. Dat het anders gaat zijn klopt maar dat is ook wat moet. Nooit rommel kopen of produceren. Nergens. Koop kringloop/recycle/ruil waar kan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik leef mijn leven, niet het leven van mijn nabestaanden. Miljarden uitgeven aan klimaat/milieu terwijl de mensen in de zorg keihard werken en daar een veel te lage beloning voor krijgen stoort mij meer als het klimaat/milieu. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Shit, heb net een duur gasfornuis gekocht, zit er geen gasaansluiting in mijn huis. Doen die dingen het ook op een blikje campinggaz? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb mijn winterjas nog niet eens aan gehad 🙈. Maar 13 graden is gehoorlijk warm voor deze tijd van het jaar. Wel ideaal weer om een lange wandeling te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "mooi om te zien + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Chinezen lijken me het efficiëntst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat u kunt vliegen bent u wetenschapper op dat gebied en hebt u verstand van klimaatontwikkeling?\nKom nou toch... Dit is het niveau van Meeus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "kort door de bocht. Als alleen daden tellen valt er weinig te stemmen. Pvda heeft dr verantwoordelijkheid in t vorig kabinet genomen. verder terug in de tijd, PVV gedoogde alleen, dus irrelevant. Blijft over VVD, D66, CDA, PvdA, CU en de rest zit comfortabel in t oppositiebankje + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en u met uw Geestelijke Gezondheids Zorg. Wat wilt u nu precies bewijzen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat en waar zit het probleem! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

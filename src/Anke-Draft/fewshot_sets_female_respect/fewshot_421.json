@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat kan ik ook bedenken, maar denk je dat zoiets gaat werken op wereldschaal? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en die terugkoppelingen zijn juist het probleem. Het zijn meekoppelingen. De onzekerheid daarover is niet onze vriend. Het onomkeerbaar warmte en bepaalde moleculen in de atmosfeer en de oceanen brengen kan en mag niet. Dat is al in 1990 vastgesteld. IPPC FAR. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is prima om in historische gegevens te geloven, maar wat zegt dat over de toekomst en mens veroorzaakte klimaatverandering? Niets. De factor mens is geheel afwezig in deze data. Logisch wel voor een professor die geoloog is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn mening is dus dat de NOS juist tracht alles zo objectief mogelijk te brengen zonder zaken waar vooroordelen over bestaan te benoemen! Ook subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niet biomassa persé. Uiteindelijk is de beste manier om relatief snel en veel CO2-arm energie op te wekken meerdere kerncentrales. Dat zal een keuze moeten zijn, want draagvlak creeëren met polderen gaat hem niet worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ALLEEN KOMEN ZE NU VAKER VOOR! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, het klimaat veranderde ook al in de prehistorie, telkens de samenstelling van de atmosfeer veranderde. Tegenwoordig zorgen menselijke activiteiten voor een andere samenstelling van de atmosfeer (meer CO2) niet vreemd dus dat het klimaat ook deze keer verandert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat is wereldwijd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wie heeft het over niks? Maar miljarden uitgeven op het moment dat dat geld voor andere doelen hard nodig is, en dat voor 0 netto klimaat effect,  is gewoon dom.\n\nMensen zijn bereid te betalen voor milieu en klimaat ALS ze het zich kunnen veroorloven. \nZodra mensen zich &gt; + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Klimaatverandering raakt nu al 85% van de wereldbevolking\".\nAlbert: wellicht behoor jij tot de laatste 15% 😳 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De planeet don’t care. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

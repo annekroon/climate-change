@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Uw link doet het niet. Over de oorzaken van de huidige plotselinge opwarming bestaat geen twijfel meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatgevoeligheid wordt uitgedrukt ifv CO2. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zulke mensen bestaan er gelukkig ook nog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Olie is een natuurproduct: arsenicum ook. Lood. Kwik. Nauwelijks een argument :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, niks wordt meer opgeruimd want natuur moet zijn gang gaan. Dat levert flink wat brandstof op bij branden. Soms moeten gebieden gewoon afbranden zodat er nieuw leven kan ontstaan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Al om 5u..\nHad de verwarming gisteren aangezet en ben om 11 uur in slaap gevallen op de bank. Zwaar kudt is dat😫 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, maar die koeling duurt geen 4000 jaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nood breekt erfgrens. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op geen enkel moment heb ik iemand get of uitgedaagd voor een twitter fight.\nNiemand is verplicht mijn mening te lezen.\nIk zou dus ook niet weten waar die reactie vandaan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bezoeken Hans. Daar komen de berichten in naar voor van klimaatsceptici die je niet in de MSM tegenkomt. Voor de duidelijkheid. Ik ben ervoor dat we het klimaat beschermen, eerder nog het milieu. Maar de gekte waarmee het verkocht wordt, vind ik abject. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

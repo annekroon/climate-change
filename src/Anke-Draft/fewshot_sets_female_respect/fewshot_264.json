@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Alleen heb ik geen tesla + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Opwarming komt door uitstoot van CO2 (voor de rest onschuldig gas) door de mens. Nt door slecht milieu ergens.\nWetenschappers kunnen d evolutie van klimaat goed documenteren op basis van allerlei gegevens. Niet alleen obv de meetgegevens van de laatste 200j. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En de kans is blijkbaar elk jaar kleiner en kleiner? Aangezien het nu al wel heel lang geleden is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mooi. Ik ga eens kijken of mijn lokale bieb het boek heeft :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik voel me toch wat geruster door je tweet. Onze VvE gaat slaafs mee met de overheid en bekijkt alleen hoe ze voordeel kunnen halen uit de subsidiemogelijkheden en afwijzen van die aanpassingen heb ik nog niet gehoord. Ik begon hem aardig te knijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spannend! 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yep. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja so? Je vraagt het verschil tussen vroeger (mijn jeugd jaren 70-80) en nu. Vroeger overstroomde de boel constant. Tegenwoordig bijna nooit meer. Alleen 2 jaar geleden toen Valkenburg helemaal onderliep. Was ook niet de eerste keer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De buren in Punda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We hebben het over het risicomanagement van een bank...... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij wilt dat ook niet verder onderzoeken. Dàt is het verschil; je staat totaal niet open voor andere interpretaties. Bang dat jouw vastgeroeste wereldje waar nièts mag veranderen in gevaar komt. Je ontkent domweg dat er iets bijzonders gebeurd is en stopt  je kop in het zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik beschouw iedere persoonlijke keuze voor afvalligheid als een overlijdensbericht van de persoonlijke god van de afvallige in kwestie. Ik heb niet al die overlijdensberichten zelf ontvangen en ingezien. Daarvoor zijn er natuurlijk al veel te veel goden ten grave gedragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, heb zelfs de brondocumenten gelezen. Maar \"de zwarten\" is generaliseren. En dit wordt voornamelijk door roomblanke \"sociaal liberalen\" gepromoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, U maakt zich schuldig aan de confirmation bias. De klimaatwetenschap is ondertussen zeer duidelijk en dat laat de natuurkunde ons ook zien. Het feit dat U niet inhoudelijk kan reageren op mijn natuurkundige beschrijving van klimaatverandering zegt genoeg over uw inzicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

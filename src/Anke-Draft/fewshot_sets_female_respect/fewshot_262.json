@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Uh... geen idee waar het over gaat, heb je voor de onwetende een linkje? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Weet ik..😇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat de Chinezen daar van onder de indruk zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vorige winter 0, deze winter 2x  voor mijn hondje ❤️ na narcose.  De eerste keer dat ik mijn verwarming uit liet kreeg ik aan t eind van t jaar ook nog eens een leuk bedrag terug! 😊 Moet wel zeggen dat ik sinds dien soms gek word vd warmte bij andere mensen thuis 🥵😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het IPCC? 🤣 Die maken rapporten die helemaal aangepast zijn aan de wensen van regeringen om vooral maar zo weinig mogelijk en zo langzaam mogelijk iets te doen. In werkelijkheid is 1,5 graad opwarming al lang niet meer aan de orde. Ben ik een alarmist? Ja, en realist. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Windmolens zijn gemaakt van niet-recyclebaar materiaal, productie zonnepanelen is ook niet duurzaam. Bij transitie naar stroom neemt verbruik toe en ons energienet kan het nauwelijks aan. Californië vraagt  te laten staan omdat er niet genoeg energie is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw vorige tweet is een voorbeeld van hoe het makkelijker is om over 'feiten' te discussiëren, dan direct over persoonlijke motivatie voor eigen keuzes te beginnen. Uw tweede zet dat recht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daarover zijn we het eens.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "haha gaat niet gebeuren hoor. Maar ik word wel chagrijnig van dat gezeik van die gasten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wees er op tijd bij. Tegen die tijd kun je helemaal geen huis meer betalen daar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zie ik. Er zijn meerdere aspecten waaraan ik kan zien dat je educatie niet optimaal is. En daarmee gebruik ik een euphamisme. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Pfff ga niet nog eens op al mijn oude berichten reageren. \n\nVerder als je alles onzin vind. Ik begrijp het. Jij leeft in Nederland en de rest maakt niets uit. \n\nDat er voedsel tekorten zijn, wat maakt het uit de iemand aan de andere kant van de wereld honger heeft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

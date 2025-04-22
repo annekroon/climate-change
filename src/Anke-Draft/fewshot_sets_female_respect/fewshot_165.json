@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ging meer om die paar duizend jaar daarvoor, toen was er ook opwarming met veel minder mensen, minder koeien, minder industrie, minder fossiele brandstoffen, #hoedan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als ze dan nog weten hoe. Misschien zitten de Hollanders dan met z'n allen in Oost-Europa. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is niet bewerkt, er niks mis met een schoon milieu maar dat is iets anders dan het klimaat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We hebben afgesproken in 2050 energie- en klimaatneutraal te zijn. \n\nShell wil dit doel bereiken in 2070.\n\nMeer dan 95% van de investeringen van Shell zijn in fossiele brandstoffen. Hoe valt dat in 's hemelsnaam te rijmen met een fossielvrije toekomst? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schiphol kan inderdaad niet zonder kerosine. De gehele luchtvaart niet trouwens. \n\nGoed punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oats, da's nog iets anders dan graan trouwens. En het ging weldegelijk over het water en niet over het graan (dat ook water nodig heeft, dat weet ik). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jawel ben heel goed mee.\nTemperatuur in regenwouden is constant. Geen opwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snap ik, maar zelfs ‘concessies’ ipv concessies en praten met voelt toch echt als belonen van ‘kennelijk wordt met een trekker blokkade wel naar me geluisterd’. De vissers kijken het kunstje nu ook al af, what is next? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Activisme is tóp om misstanden aan te kaarten maar ieder besluit zal uiteindelijk voldoende draagkracht nodig hebben om geïmplementeerd te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je vindt het klimaat belangrijk of je vindt het niet belangrijk en gaat akkoord met het met miljarden euro's subsidiëren van hele bossen aan CO2 de atmosfeer injagen.\n\nPluche heiligt niet alle middelen! Dat is niet naïef maar reëel zijn! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah, in het artikel zie ik het nu. Dat is inderdaad knullig . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd, gewoon saaie ambtenarenpraat. Next. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb hem echt wel gezien hoor. Maar ik vond het vrij eenzijdig en gedateerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

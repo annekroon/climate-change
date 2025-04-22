@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als je alles volplempt met tegels, ontvolg ik je. Pas dus maar op. 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hebben ze zelf gedaan. Ik ben niet tegen hen door de media, maar door hun eigen domme uitspraken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker. En anders exporteren we dat spul naar Afrika. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "GL?? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer mensen consumeren meer of denkt u van niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer en zwaardere stormen door klimaatverandering? 'Dat weten we op z'n vroegst pas over 30 jaar' Fijne avond! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Verleiden heeft een positieve invalshoek. De energietranisitie levert ook veel angst op voor het onbekende en de kosten. Daar moet je iets positiefs tegenover zetten. Dwang werkt tegen die achtergrond averechts. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je mag altijd lid worden + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is dus significant warmer geworden. In dit grafiekje zie je het beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat #klimaatverandering zou bijdragen aan menselijk leed (overstromingen, orkanen, klimaatvluchtelingen) wordt NIÉT beweerd door #klimaatsceptici maar juist door #klimaatalarmisten en #klimatologen\n\nOnze kennis over #klimaat zit nog boordevol gaten\n👇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb niet de audacity om te doen alsof ik een expert ben en anderen ‘een joke’ te noemen, maar informeer jezelf eventjes 😚 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus u spreekt u eigen tegen met te zeggen dat zij weten wat er moet gebeuren en dus gelijk hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo was het vroeger, ten tijde dat mijn vader er een bedrijf had. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is de boodschap, je hebt moeite met slikken? Wat heeft dat nou weer met klimaatverandering te maken? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

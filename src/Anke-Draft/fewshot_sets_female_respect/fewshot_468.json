@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja, klopt, toen al begonnen en nu nog weer heftiger. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is pure wiskunde. Als je op een materie geen specialist ben vertrouw je op de expertise van anderen en die is in dit debat overduidelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die ga ik ff opzoeken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Addie! Je bent mijn boek vergeten: Het Klimaatdebat als Lachspiegel:  Bevat precies de nuance en diepgang die jij niet vindt bij Mounir. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een deel van het Markermeer zijn de Marker Wadden (natuurgebied) geworden. Dat levert voor veel vogels en andere dieren een uitstekende broed- schuilplaats op.\nDat is ook niet in een weekje gerealiseerd. ;-)\nHetzelfde kan je doen met bomen denk ik in het resterende deel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bijv. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En hier is mijn antwoord: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk, nou kom je eindelijk met iets van een oplossing. Maar met alleen het verduurzamen van de grote energieverbruikers zijn we er nog lang niet. Ook de grote uitstoters moeten eraan geloven. Bv landbouw, luchtvaart. Dat zijn ook héél grote jongens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar wat Peter zegt is misschien duidelijker: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering komt in de er plaats door overconsumptie niet door overbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niet zo generaliseren. Is echt niet ok. Bovendien komt dit niet van hen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken geen feiten. U behoort tot de 15%.\nJa, klimaatverandering is van alle tijden.\nMaar de snelheid, oorzaak, gevolgen. Enfin gooi er maar een mooi gifje tegenaan.\nPrettige dag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn idd nog nooit overstromingen geweest of natuurrampen...  iemand die dit recupereert vanwege klimaat moest zich schamen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als u met 2 vingers in de neus redeneert dan klopt het.  Echter de hoeveelheid water en de vertraagde luchtstromen komen overheen met het veranderende klimaat.  De afwijkingen zijn dermate dat het niet zou moeten voorkomen onder normale omstandigheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je begint steeds meer een verstokte betweter te worden 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

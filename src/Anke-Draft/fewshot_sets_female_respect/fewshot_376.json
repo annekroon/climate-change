@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Of is het juist hoogmoed (en naïef en onlogisch) om te denken dat je met inmiddels zo'n 7.770.000.000 mensen vanalles in enorme hoeveelheden zomaar uit de grond kunt pompen en graven, om het met enorme bakken zuurstof eraan in de lucht te blazen - zónder gevolgen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Overigens een leesbaar boek dat mij heeft laten nadenken. En denken, ontdekken en meningsvorming is altijd prettig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ps:  gold rush is bewezen, honderden uren aan beeldmateriaal. dito voor de ijsbrekers en de geschiedenis allemaal aangetoond door wetenschap en argeologen.\n\nNeem jij die mensen niet serieus meer? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik duim voor d'r! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lief ❤️🐾 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeer verontrustend + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou u sieren indien u zich eens in de desastreuze gevolgen van ons #klimaatakkoord zou verdiepen. KINDERARBEID in Congo, wereldwijde ontbossing voor de zwaar gesubsidieerde #biomassa, nog 42 miljard de komende 10 jaar dankzij #groenlinks en #D66 . Natuur- en milieuschade. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die tijdsperiode is relevant omdat in die anderhalve eeuw vooral de CO₂ emissies door de mens zeer sterk zijn toegenomen. Als je een sterke covariantie vindt tussen die emissies (hier uitgedrukt als resulterende concentratie) en de opwarming, en dat bovendien overeenkomt met 1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben van mening dat de Politici en journalisten over het algemeen weinig kritisch zijn over de CAGW-hypothese en die ten onrechte als bewezen aanvaarden. Daarbij vergeleken is dat kleine beetje tegengas van bijna 20 jaar geleden peanuts. \nOok nog niet met waarnemingen ontkracht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken ook niet dat het #klimaat verandert; dat veranderde al vele malen (bijv. fossielresten van tropische begroeiing onder het ijs op Antarctica)\nOok #klimaatverandering sinds 1880\nDe vraag is wel of \"opwarming\" door de méns wordt veroorzaakt\n#CO2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Beide zijn nodig. Een verandering  van mentaliteit en structurele door de overheid gestuurde veranderingen.  Beide gaan hand in hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik krijg het gevoel dat je me in de maling neemt en mijn tijd zit te voldoen met deze lijst. Ik vind vanalles, economen, health neutrition experts en psychiaters maar wtf hebben die nu met het klimaat te doen??! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Heb niet de audacity om te doen alsof ik een expert ben en anderen ‘een joke’ te noemen, maar informeer jezelf eventjes 😚 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is voor jou kennelijk moeilijk voor te stellen dat branden aangestoken kunnen zijn door mensen.\nWeet je nog dat verhaal over dat Gender Reveal feestje in Californië dat een heel groot deel van die staat in brand zette? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

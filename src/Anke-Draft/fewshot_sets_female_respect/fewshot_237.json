@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dank voor je reactie en eens: vanuit functioneel perspectief zou alles onder een dak logisch zijn. Maar in de praktijk is samenwerken onder één dak tussen partijen die willen versnellen en partijen die willen meestribbelen niet erg succesvol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je alles volplempt met tegels, ontvolg ik je. Pas dus maar op. 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe wordt dat dan vormgegeven. Komt dat ook in de app? Moet iemand nog een goedkeuring geven? Kun je zelf je prijs bepalen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou het is ook enigszins tegenstrijdig maar ik denk dat er in eerste instantie meer 'vergroening' te behalen valt bij bedrijven in de vorm van uitstoot, verbruik en processen. Maar als ik van iemand een elektrische auto krijg, wil ik best gelijk meedoen met vergroenen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nu een vraag. Er is een bijmeng verplichting in brandstof. Resultaat plantaardige olie en granen verwerken tot brandstof. Stel we stoppen hiermee, dan dalen de kosten prijzen en de armsten hebben weer voedsel of gaan we als westen voor het klimaat? Welke kies je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ps. Hier heb een mooi artikel gevonden van het Copernicus programma, een monitoringssysteem in opdracht van de EU/ESA: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wie heeft het over niks? Maar miljarden uitgeven op het moment dat dat geld voor andere doelen hard nodig is, en dat voor 0 netto klimaat effect,  is gewoon dom.\n\nMensen zijn bereid te betalen voor milieu en klimaat ALS ze het zich kunnen veroorloven. \nZodra mensen zich &gt; + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2x jaar ga ik vliegen om toch de uitstoot te compenseren!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vermoed dat het daar Randstad gaat verkassen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Het aantal foute voorspellingen over klimaat is schier onuitputtelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Even volhouden het weekend. Zeurpiet #superzomer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blijkbaar snap je niet hoe wetenschap werkt of de definitie van wetenschap moet in de afgelopen 25 jaar gewijzigd zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja ja, vervelend he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Link staat eronder kiekoofd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hel en verdoemenis.    U klinkt als de man die ieder dorp vroeger had en die hel en verdoemenis predikte.   \n\nDe tijd is lang niet op. Leef niet zo in angst en zuurheid maar zorg dat je tijdens je feite reis die het leven is verantwoording ook weet te koppelen aan levensvreugde + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jullie snappen er niks van. Een kerncentrale kan juist efficient door draaien, beter dan volatiele wind/zon waarbij op de achtergrond fossiel moet bijspringen. En bouw kerncentrale is nog nooit zo aantrekkelijk geweest door extreem lage rente. Enorm voordeel om nu te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

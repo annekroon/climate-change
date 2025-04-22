@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat we er veel over kweppen waardoor we niets hoeven te doen. zie de boeren bv. Dat we dus kansloos zijn. Maar ook dat het veel sneller gaat dan we denken. 64 dagen hittegolf 😎😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies.\n\nDe suggestie van de tweets van Hiemstra en Simons is dat Yesilgoz iets verkeerd doet, of verkeerd ziet, maar ik vraag me af wat dat dan zou zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Plaatje/tekst is laatste paragraaf uit mijn paper:\n\nThe present crisis, a pattern\n\nHypothese dat komende crisis wetenschappelijk verklaard kan worden middels transitietheorie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "China heeft ook eens geprobeerd het klimaat te manipuleren, dat is niet helemaal goed gegaan. \nDe mens kan geen invloed uit oefenen op het klimaat, de natuur past zichzelf aan.\nElke \"verandering\" van het klimaat is tegenwoordig de schuld van de mens, onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "doe maar ff dm als je dat wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij hebt het over geschiedenis, dit zijn allemaal zaken bedacht en uitgevoerd door linkse partijen. De afbreuk daarvan kwam zodra we neoliberale kabinetten kregen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die willen biodiversiteit bevorderen. En dan moet je niet alles vol zetten met bos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik claim niks. Ik vraag naar bewijs. Als ik zou claimen dat de klimaatverandering niet mensgemaakt is m, DAN zou ik bewijs moeten leveren. Maar dat doe ik dus niet. Ik vraag louter bewijs. En dat is er niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh ja, ik heb ook absoluut vlagen van woede en verdriet, beetje balans erin I suppose 😇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "30 gigaton = 4,1% van 750 gigaton.\nTotaal CO₂ is 420 ppm of 0,04 % v/d atmosfeer.\nLeg het nog eens uit?\nZeg tegen Elon Musk dat hij CO₂ batterijen moet maken\n1 batterij gaat 100jr mee zonder bijvullen.\nHet natuurkundig wonder is CO₂. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hun weer programma gaat met horten en stoten zullen we maar zeggen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je bent vergeten te benoemen wat jullie oogsten vandaag; welke bessen sieren de fotoś??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, heb zelfs de brondocumenten gelezen. Maar \"de zwarten\" is generaliseren. En dit wordt voornamelijk door roomblanke \"sociaal liberalen\" gepromoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DENK JE ECHT??? ER WORDT MET WILLEKEUR GEKNOEID EN DUS VIND JE DE WAARHEID NIET TERUG. IK HEB ER 2 IN MIJN LEVEN MEEGEMAAKT. 1 TOEN IK NOG EEN PUPPIE WAS EN 1 EEN AANTAL JAAR GELEDEN. EN JIJ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

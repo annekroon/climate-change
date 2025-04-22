@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Want dat is het beeld wat ik mee krijg uit onderzoek, robuuste ecosystemen en misschien ook meer diverse agrosystemen zijn minder kwetsbaar voor extreem weer (droogte, hitte, teveel water). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat de mensheid het klimaat veranderd is even goed beschreven als de tektonische platen, een feit dus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou dan de tweets nog eens lezen 😉. Context is alles. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "“Alleen lokale politici die de ballen hebben om ondanks de weerstand te pleiten voor lokale energieprojecten dragen bij aan het bestrijden van klimaatverandering. Elke turbine telt.” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker wel, ongeveer 300 meter van de bootjesbrug. De ene kant vd bootjesbrug is otrabanda, de andere kant is punda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze hebben gelijk, zoutwater kwelt al in Noord-Holland… 😁😁ben niet voor niets vertrokken, 300 m boven NAP + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik woon in de Mastenbroekerpolder.\nZo’n 600 jaar geleden ingepolderd. Boererijen staan op terpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan de andere kant zit dan nog het IJsselmeer. :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "#ChinaFloods + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is interessant dat je het enerzijds afdoet als onzin en anderzijds vind dat vooral jij geen opofferingen hoeft te doen omdat je geen kinderen hebt. \nAls het echt onzin is hoeft niemand dat, natuurlijk. \n\n👋🏼👋🏼👋🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Klimaatverandering raakt nu al 85% van de wereldbevolking\".\nAlbert: wellicht behoor jij tot de laatste 15% 😳 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij staat er in dat artikel van jou letterlijk: “ Heftige extremen volgen elkaar sneller op”. Ik zeg niet dat die ellende vorige week door klimaatverandering is veroorzaakt, ik gebruik het woord hoogstwaarschijnlijk. Jullie willen daar niet eens over na denken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Guy volgens GROENEN zou de verandering v/h klimaat voortkomen uit jarenlange milieuproblematiek❗En'k had wel eens graag meer  geweten over't klimaat de eeuwen vóór 1830❗Blijken geen gegevens over te bestaan❗ Door GROENEN wordt nooit gesproken over massale groei wereldbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

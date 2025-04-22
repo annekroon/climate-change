@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Idd lol\n\nJa... want Trump had samen met Putin dat brandertje veeul te hoog gezet en door zijn haarlak ontstond er een gat in de ozonlaag en daardoor kregen we zure regen dus meer tweelingen en... en...\n\nHet is mij ook een raadsel hoe ze dit in hun hoofd nog aan elkaar knopen 🤦‍♂️😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aub, neem gewoon 18 minuten de tijd om te luisteren. Het gaat helemaal niet over APP, maar over TLTRO’s en waarom groene TLTRO’s prijsstabiliteit (dus inflatie) ten goede kunnen komen en beter zijn op lange termijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het geld wel investeren in dingen die werken, zoals gas (eerst) en dan thorium en kernfusie. En niet in windmolens en zonnepanelen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe niemand wat aan, als andere mij dan ook met rust laten dan is die 'vrede' geregeld ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kom op Ytje laat je niet meeslepen in dit verdienmodel van klimaat fantasten ,natuurlijk moeten we omschakelen van fossiele brandstoffen naar schone maar geef de mens de tijd en pak eerst de basisproblemen aan je begint toch ook niet bij het toetje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee dank je, ik ken dat verhaal en het is al begin 20e eeuw onderuit gehaald. Echt 100en boze ingenieurs hebben dat sommetje gemaakt. Als je eraan gaat rekenen lijkt het idd alsof CO2 niet zoveel invloed kán hebben. maar die simpele aannames kloppen niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee. Dat zijn kanttekeningen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou nou. We gaan hard. Nu stikstof nog, en dan de rest. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Rijke landen hebben iets uit te leggen. Hoe moeilijk het is om een stukje welvaart op te geven zien we aan de protesten tegen klimaatmaatregelen en tegen de komst van asielzoekers. Pakistan en Bangladesh e.a. hebben niet de middelen om deltawerken te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke feiten ontken ik dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet je een fatsoenlijke lange broek aan trekken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

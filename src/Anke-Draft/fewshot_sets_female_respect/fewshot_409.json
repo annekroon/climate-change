@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Begin op \nMeer weten? Lees dan een boek zoals bv \"Wat iedereen zou moeten weten over klimaatverandering\" van Bart Verbergen. Maar er zijn veel meer goede boeken\nNog meer weten? Lees dan de rapporten op + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar gelijk heft hij, co2 heft niets met temperatuur te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En hier is mijn antwoord: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "klopt maar mensen hebben een gelijkaardige reactie, er is nog te veel ongeloof onder het volk, te veel complottheorieën die beweren dat het fake is en te veel bedrijven die nog steeds alles doen om winst te boeken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand ontkent klimaat !! Wij ontkennen het voorspellend vermogen van IPCC klimaatmodellen en wij zeggen dat het weer, en dus op lange termijn het klimaat, wordt bepaald door een resem van parameters en niet door de CO2 concentratie in onze atmosfeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "VVD be like! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, het klimaat veranderde ook al in de prehistorie, telkens de samenstelling van de atmosfeer veranderde. Tegenwoordig zorgen menselijke activiteiten voor een andere samenstelling van de atmosfeer (meer CO2) niet vreemd dus dat het klimaat ook deze keer verandert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "30 gigaton = 4,1% van 750 gigaton.\nTotaal CO₂ is 420 ppm of 0,04 % v/d atmosfeer.\nLeg het nog eens uit?\nZeg tegen Elon Musk dat hij CO₂ batterijen moet maken\n1 batterij gaat 100jr mee zonder bijvullen.\nHet natuurkundig wonder is CO₂. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor u een vraag voor mij een weet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen probleem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegenwoordig...\n\n2/3 van het volk: Oh nee, het klimaat!\nKlimaatexpert: EINDELIJK!\nVVD: Ja, dat varkentje gaan wij wassen! Niet lullen, maar poetsen!\nMedia: VVD weet van aanpakken!\nKlimaatexpert: Wat?\nGroene partijen: Huh?\nMedia: Groene partijen nemen geen verantwoordelijkheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even volhouden het weekend. Zeurpiet #superzomer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "“Dream on”\n\nLeg het mij eens uit… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "The ghuman condition of denial and stubbornness. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

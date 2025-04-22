@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Precies!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zal die stukjes straks bekijken, maar die meneer doet geen simpele aannames hoor. Het verhaal zit gedegen in elkaar met natuurkindige principes en berekeningen uitgelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus totaal eigen belang en dat blijft!! Hopelijk trekt de  ten strijde en blijven ze zich inzetten voor een beter klimaat en betrekken ze de jeugd hierbij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moe de mense in hun kracht zette.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben met het jaar meer tevreden over het feit dat ik geen kinderen heb om deze aardkloot aan door te geven. \n\nAirco in de slaapkamer, hopelijk tegen het einde van het jaar zonnepanelen zodat ik de airco gerust volgend jaar vaker kan aanzetten😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering? Wat dacht je van weermanipulatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg jij mij eens in je eigen woorden uit hoe volgens jou dat Greenhouse Effect werkt !!\n\nIk ben benieuwd !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mooi. Wij praten ook vaak naar aanleiding van het nieuws. Maar de grote vraag die ik steeds krijg is “waarom doen de machthebbers nou biet waarvan iedereen kan zien dat het moet gebeuren?” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het stadium smeken is allang voorbij. Bedrijven moeten vergroenen, belasting moet een fair deel worden. \nEen CO2-rantsoen voor bedrijven, misschien. Voor particulieren lastig uitvoerbaar. \nMaar verhandelbaar (lees: afkoopbaar) maken moet je niet willen. Afkopen is te makkelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beide zijn nodig. Een verandering  van mentaliteit en structurele door de overheid gestuurde veranderingen.  Beide gaan hand in hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Maar dat is voor jou heel moeilijk voor te stellen als je alleen geïntereseerd bent in Nederland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet wel beter… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

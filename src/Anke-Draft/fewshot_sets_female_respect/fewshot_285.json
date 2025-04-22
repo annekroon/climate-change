@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Niemand beweert dat elektrisch gaan fietsen alles zal oplossen, dus gelieve mij dat ook niet in de mond te leggen aub. Maar daar wat meer de nadruk opleggen, zoals Dirk en ik wel eens plegen te doen moet kunnen. We kunnen echt wel met minder auto's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo verontrustend.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee ik snap IPCC WG1 best. Maar een causaal verband tussen opwarming en de recente lokale regenval moet nader onderzocht. De afgelopen jaren werd juist het gebrek aan neerslag aan opwarming geweten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het geld wel investeren in dingen die werken, zoals gas (eerst) en dan thorium en kernfusie. En niet in windmolens en zonnepanelen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik hoor de klimaatdrammers alleen maar roepen dat de opwarming van het klimaat wordt veroorzaakt door de mensen . Nou hoor ik jou zetten dat een stijging van het inwoners aantal geen invloed heeft op de opwarming van de aarde . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Door het kanaal lijkt mij best spannend. 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar ik wat moeite mee heb is het belonen van het recht van de sterkste. Als je blokkeren van snelwegen beloond met concessies, wat is dan volgende stap? Dat compleet ongeacht de aard van het protest. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren maken grondwater/drinkwater in de eigen omgeving. Het regent, sneeuwd minder, nomadenleven werkt niet, teveel volk op 1 plek. Wij hebben degelijk schuld aan versnelde klimaat verandering, bos kappen betekend hitte op de grond uitdroging en geen regen circulatie t plaatse + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De gletsjers groeien niet meer aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt! Inclusief de beveiligingsprocedures die daarbij horen😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus?\n\nPersonen zoals jij en degene die het artikel geplaatst heeft zijn oplichters! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Guy volgens GROENEN zou de verandering v/h klimaat voortkomen uit jarenlange milieuproblematiek❗En'k had wel eens graag meer  geweten over't klimaat de eeuwen vóór 1830❗Blijken geen gegevens over te bestaan❗ Door GROENEN wordt nooit gesproken over massale groei wereldbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou even een cursus statistien en een cursus klimaat volgen, Robert. Dan begrijp je het misschien wel! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De mens is pas  +/- 10.000 jaar vee gaan houden, dus dat lijkt me sterk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Goed kijken, deuger + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Geen modder schat, door de door de opwarming van de aarde veroorzaakte droogte is er alleen nog maar zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

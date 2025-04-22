@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het is ook niet bedoeld om te werven. Het is een simpele observatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat flauw, gasmeter is nog niet angesloten op het ww-web, doe daar eens wat aan Jetten ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of juist werken met wat er al is, inclusief alle duurzame technieken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar wij hebben hier te maken met Europese regelgeving en niet die van India. Een goed milieu begint bij jezelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daar denk ik ook best wel over na weet je dat. Ik ben sowieso een gevoelige kneus. Als er een meisje door de stad loopt en zie jongens loeren en min of meer ze lastigvallen dan sta ik vooraan om hen boos aan te kijken, en dan ben ik niet eens hun vader. Kan slecht tegen onrecht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goedemorgen Pieter, deze informatie is bij RVO helaas niet beschikbaar. Je kunt hiervoor het beste contact opnemen met een biomassaleverancier of Branchevereniging Organische Reststoffen (BVOR). Groet, Giovanni + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goede vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Opzoeken snelheid evolutionaire aanpassingen?\nWelke soorten kunnen dat naar verwachting beter...\n\n(Zullen toch allerlei onderzoekers mee bezig... zijn, toch?) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "'Given that many of the risks are unprecedented, historic data is of limited use, and the complex and non-linear effects of risks makes modelling, let alone forecasting, especially challenging.' \n\nLijkt me wel ja... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Net nog een facist, nu een linkse mafkees 😂😂\n\nMake up your mind + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee helemaal niet je snapt er niets van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Welja. Welnee. Welja. \n\nAlle teksten op de website van het IPCC en summaries die zij geven zijn alarmerend. Het gaat om de prognoses, de toekomst, de kantelpunten. 19 cm is nu. Het gaat over 2100, dan ziet de wereld er serieus anders uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

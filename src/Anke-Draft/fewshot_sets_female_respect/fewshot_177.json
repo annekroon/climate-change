@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Sorry. Ik probeer slechts jouw terminologie 'gezeur' te duiden... En ik heb nimmer beweerd dat je je mening niet mag geven!!! Wel even zorgvuldig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben tegen klimaat en milieu onzin hoor, er wordt teveel overdreven over hoe slecht het allemaal gaat. Daarbij is nederland 1 van de kleinste landen ter wereld.  Zolang de grotere landen niets doen heeft het geen zin iets te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "\"De komende 100 jaar stijgt de zeespiegel waarschijnlijk hooguit 1,5 meter\" vindt ik niet 'meevallen'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het zeer waardevolle CO2 heeft al jaren een negatieve prijs.\nSommigen zouden het dan afval noemen. 😉.\nEn ja, ik ben bekend met fotosynthese.\nMaar ook met infrarood absorptie en dat CO2 ook een zuur (koolzuur) is. Die laatste twee zijn minder bekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar wij hebben hier te maken met Europese regelgeving en niet die van India. Een goed milieu begint bij jezelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmmmm….misschien zag ze dingen die jullie niet zagen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kan je een foto van nu laten zien en één van honderd jaar terug, waarbij het water honderd jaar terug tegen de duin aan staat, en nu 100 meter lopen. Getijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, het is ook een massaverdelings oorzaak, welke leidt tot uitingen van precessiekrachten en dus slingering van de Aarde over meerdere assen.\nDat veroorzaakt andere atmosfeerstromingen...\nDan is er nog het hoofdstuk Magnetisme... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, maar die koeling duurt geen 4000 jaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die 350 meter hoor ik vaak deze week. Dat lijkt me voor een nieuw project inderdaad te kort bij. Waaruit blijkt dat er plannen zijn voor windturbines op 350 meter van een woonwijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die is van augustus 2019. Of vind je die fake? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Juist. U hoeft mij niet te overtuigen hoor w.b. klimaatverandering en ernst ervan 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beste Hibma\n\nJe gaan nogal blind op wetenschappelijke literatuur is het niet?\n\n\"Wetenschappers GINGEN ER VAN UIT dat de schildpad was verdwenen als gevolg van vulkaanuitbarstingen.\" 🤪\n\n\n\nBenieuwd naar je 'wetenschappelijke' onderbouwing in deze 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Stikstofuitstoot. Niet de CO2. Start eens met het lezen van mijn artikel. Dat helpt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

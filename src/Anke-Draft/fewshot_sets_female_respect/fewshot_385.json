@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "(en ovrgs zal die aanwas ook geen constante zijn waar de neerslag locaal toe of afneemt oiv klimaatverandering) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ons hart en bloed beweegt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor het meer minder… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan kunnen we ook doorgaan met de omgekeerde vlaggen. Helaas wordt dit protest ook nog veel te weinig begrepen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk, nou kom je eindelijk met iets van een oplossing. Maar met alleen het verduurzamen van de grote energieverbruikers zijn we er nog lang niet. Ook de grote uitstoters moeten eraan geloven. Bv landbouw, luchtvaart. Dat zijn ook héél grote jongens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "#ChinaFloods + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wel, in het Westen staat al die infrastructuur al. We kunnen hem geen twee keer bouwen. De richting van de geschiedenis is steeds minder kwetsbaarheid van extreme weerevents... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik neem zeker meer extreem weer waar. Ik werk bij een waterschap, en daar is het dagelijkse kost NL hierop aan te passen met hogere dijken, meer ruimte voor de rivieren, regenwater vasthouden voor droge tijden. Werk daar is anders dan 30jaar geleden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] Kijken we naar de activiteit van onze zon, dan zien we dat deze momenteel naar een minimum aan het bewegen is en tegelijk neemt de temperatuur gestaag toe, dat volgt uit satellietmetingen. Conclusie: de zon speelt deze keer geen rol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ER WORDT NIET GEKNOEID ZE HEBBEN MEETRESULTATEN GEHARMONISEERD (BIJ HET KNMI) MAAR KLIMAATWETENSCHAP IS NIET AFHANKELIJK VAN HET KNMI ALLEEN MAAR WERELDWIJD ZIEN WE STIJGINGEN IN DE HOEVEELHEID EN DE DUUR VAN HITTEGOLVEN EN EXTREMER WEER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tegen dit soort lemmingengedrag valt weinig in te brengen. Het is net als het geloof in een almachtige God. Einde discussie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Juist. U hoeft mij niet te overtuigen hoor w.b. klimaatverandering en ernst ervan 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blijkbaar snap je niet hoe wetenschap werkt of de definitie van wetenschap moet in de afgelopen 25 jaar gewijzigd zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Waar las u die eerste passage/beweringen ooit ergens van mijn hand? Mooi staaltje 'fake news' zo! 🤔 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

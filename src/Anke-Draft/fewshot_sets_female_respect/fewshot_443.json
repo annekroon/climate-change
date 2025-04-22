@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het stadium smeken is allang voorbij. Bedrijven moeten vergroenen, belasting moet een fair deel worden. \nEen CO2-rantsoen voor bedrijven, misschien. Voor particulieren lastig uitvoerbaar. \nMaar verhandelbaar (lees: afkoopbaar) maken moet je niet willen. Afkopen is te makkelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh, nu snap ik het... ik had alleen die teletekst gezien.\nSterkte, Anton + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "VVD be like! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kwaliteit vd lucht id steden is nu inderdaad VEEL beter dan 40 of ook 120 j geleden. \nMetingen gebeuren toch al heel lang. In B sinds 1830? Er is een verschil tussen milieuproblematiek en klimaat. Mensen maken dat onderscheid niet altijd.\nBeiden zijn belangrijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik leef mijn leven, niet het leven van mijn nabestaanden. Miljarden uitgeven aan klimaat/milieu terwijl de mensen in de zorg keihard werken en daar een veel te lage beloning voor krijgen stoort mij meer als het klimaat/milieu. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Makes sense. Heb je iets van stats ergens? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vond het IJsselmeer al zo spannend als 'zee'verkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vrijwel lege vliegtuigen naar Davos is natuurlijk wel prima. Ruim 1000 in totaal. De tweedeling wordt steeds groter. Ooit kwam links op voor de arbeiders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De zondvloed komt er niet weer volgens de Bijbel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welke zijn dat? En dan niet lokaal invullen. Maar kijk globaal. Complete cijfers die echt stijgen. Dus niet de 'mogelijke', of 'misschien' modelcijfers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Heb niet de audacity om te doen alsof ik een expert ben en anderen ‘een joke’ te noemen, maar informeer jezelf eventjes 😚 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je het IPCC rapport gelezen hebt weet je dat die wetenschappers helemaal niets zeggen over klimaatalarm. Maar als ideologie en activisme hand in hand gaan wil je dat niet horen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat bedoel ik ! Het zijn wel watjes  tegenwoordig  🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

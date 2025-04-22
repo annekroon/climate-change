@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Nood breekt erfgrens. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ook. Tegenwoordig vind ik het klein 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Naar verwachting zullen elektrische auto’s over een aantal jaar al goedkoper zijn (zie oa nieuws AD) dus dat komt goed. Het omslagpunt is nabij. \nDaarnaast vooral geld steken in onderzoek (wordt al voor een klein deel gedaan) en terug planten bomen etc van de winst die overblijft + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat kan ik ook bedenken, maar denk je dat zoiets gaat werken op wereldschaal? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Margraten plakten ze tegels aan de wanden van de huiskamer. Die liep namelijk elk jaar onder. Soms 1 meter, soms 50 cm, soms 1,5 meter afhankelijk van de ligging van je huis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onderstaande bron is volgens jou dus onzin? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer en zwaardere stormen door klimaatverandering? 'Dat weten we op z'n vroegst pas over 30 jaar' + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bouwbesluit en netwerken klimaatbestendig maken, en aan de voorkant helderder kunnen maken welke risico's de overheid op termijn nog gaat dekken en welke niet. Klimaatgerelateerde overstromingsrisico's zijn overigens niet beperkt tot gebieden onder NAP + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben 51 btw + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "kom maar door hoor :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De Belgische uitgerangeerde natuurkundige die altijd detailplaatjes upload? Die de grote lijnen maar niet kan zien??🧐\n\nNee joh die had ik in één gesprekje op twitter onder de tafel gel*ld. Kon niet op tegen mijn kennis van #klimaat, #evolutie, #duurzaamheid en #milieu 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alle opofferingen? Waar heb je het in godsnaam over? Ik heb het niet eens over één opoffering gehad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja je blijft er om lachen om die dwazen 😂😂😂 van de zomer word het helemaal lachen als de zon schijnt in juli en augustus dat kan niet 😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan heb je vast erg lang gedaan over het vak wetenschapsfilosofie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

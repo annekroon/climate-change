@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Moslims.  Gokje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het geld moet uitgegeven worden aan het boven de armoedegrens houden van de bevolking. Want als je dat niet doet zit er straks een regering die 0,0 aan klimaat besteed, en 0,0 aan ontwikkelingshulp. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kap geen bossen, maar koop (landbouwgrond)grond aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hi Paul, dat is nou precies het ding. Het is een benzinestation. Net als dat een kolencentrale niet meer rechten heeft op het realiseren van windmolens zou een benzinestation ook niet meer rechten hebben op het realiseren van laadpalen. Iedereen = gelijk in verdelingsprocedure. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb mijn winterjas nog niet eens aan gehad 🙈. Maar 13 graden is gehoorlijk warm voor deze tijd van het jaar. Wel ideaal weer om een lange wandeling te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onzin. Fijnspar is altijd al gevoelig geweest voor letterzetter in Nederland. Dat leerden we al in 1973. Wat we nu zien is werd toen al voorspeld in het vakgebied bosbouw techniek. Het is een vak bos voor hout telen!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En wat zou er behalve dat nog meer kunnen gebeuren? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De huidige opwarming van de aarde is een gevolg van CO2 toename in de atmosfeer welke een gevolg is van menselijk handelen.\n\nAangezien de mens de oorzaak is, kunnen we dit ook oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vergelijk het met een festival, crowdcontrol. Je kunt je steeds moeilijker verzekeren tegen weather-events. \n\nHet festival \"vier\" je onder toenemende stress. Totdat we het \"feest\" afgelasten. \nOp een moment is het feest in Zeeland, Zuid- en Noord-Holland afgelast. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook erg leuk dat onze voorraad drinkwater smelt en het natuurlijk irrigatiesysteem van ons voedsel verdwijnt. NOT + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ohjee...als de capslock's van stal worden worden gehaald, dan weten we dat het menens is... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou even een cursus statistien en een cursus klimaat volgen, Robert. Dan begrijp je het misschien wel! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het idd, modelgeneuzel compleet facffree!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helemaal fijn pik. Voortaan lekker je mening voor je houden.\nLekker je broodje smeren en vergaan met je dag. Ciao cazzo di merda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Okey I tried, maar zwaai het niet altijd af. GN verder 👍🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

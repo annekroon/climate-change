@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik kan beoordelen dat NOS niet objectief rapporteert/de over de genoemde onderwerpen. Dat heet redactie. Die keuzes maakt. Vanwege de achtergrond van de redactie hebben ze een blinde vlek. Dat is heel normaal. Maar leidt tot verwarring voor wie algemene nieuwsvoorziening verwacht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand beweert dat elektrisch gaan fietsen alles zal oplossen, dus gelieve mij dat ook niet in de mond te leggen aub. Maar daar wat meer de nadruk opleggen, zoals Dirk en ik wel eens plegen te doen moet kunnen. We kunnen echt wel met minder auto's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee! Van de BBB..😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is echter wel volledig fantasie en uit de duim gezogen.\n\nOok de scientology noemt zich wetenschappelijk, maar het roepen en het zijn is echter een groot verschil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het kappen van die bomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zat twee jaar geleden met een Australische middelbare scholier in het vliegtuig. Toen hadden we het over taal. Waar wij Duits, Frans en Engels krijgen, krijgen zij Indonesisch, Indiaas en Chinees. \n\nLogisch, maar je staat er nooit bij stil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vond het IJsselmeer al zo spannend als 'zee'verkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je dan een bron voor mij? Sommige aannames gaan net zolang mee tot tegendeel bewezen wordt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Halvering van de veestapel komt er niet net zoals dat KLM dat bij haar vloot doet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig neem je jezelf nog wel serieus. \nDat is het belangrijkste 😉. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey Lode, de podcast duurt 18 minuten en brengt de nodige nuance. Is handiger dan de de 280 tekens van Twitter. Neem je eventjes wat tijd om te luisteren naar iemand die er duidelijk wel iets van kent? Groetjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit vind ik een duidelijke en beknopte uitleg: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt eenvoudig uitrekenen dat het verbranden van biomassa meer dan tweemaal zoveel CO2 oplevert dan het verbranden van aardgas. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nu doe je het al weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

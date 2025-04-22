@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "De opwarming van de Aarde verstoort natuurlijke processen, hierdoor kon ineens kou uit de Noordpool via ongebruikelijke windstromingen Europa bereiken en abnormale kou veroorzaken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nederland is Duitsland al voorbij in duurzame opwek. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "doe maar ff dm als je dat wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Panel Van 150 vooraanstaande klimaatwetenschappers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dank voor je reactie en eens: vanuit functioneel perspectief zou alles onder een dak logisch zijn. Maar in de praktijk is samenwerken onder één dak tussen partijen die willen versnellen en partijen die willen meestribbelen niet erg succesvol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jawel ben heel goed mee.\nTemperatuur in regenwouden is constant. Geen opwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen invloed...\nWelke 3 miljoen bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schijnen iets met het klimaat te maken te hebben. Bullshit dus, excusez le mot! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn ervaring is anders en zeker niet uniek. Met een besparing door vermindering energieverbruik kun je én aflossen én geld overhouden én ook nog iets doen voor klimaat. En ik  ben net zoals u van deze wereld 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat is uw argument precies? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "*Clue. Ik begrijp je volkomen hoor: jouw mening is dat vliegen goedkoop moet blijven zodat iedereen dat kan blijven doen. Ik ben van mening dat de destructie van onze planeet niet opweegt tegen deze luxe. En een veel te goedkope luxe dat wij bekopen met misgelopen belastingen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk nu praat je over jezelf en als de de andere tweets na lees hoor ik een ambtenaar zonder emotie, dat jij het goed heb geregeld is super,  en help andere in je omgeving het zelfde te doe als dat mogelijk is, maar in heelveel huishoudens hebben ze al geld te kort, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig neem je jezelf nog wel serieus. \nDat is het belangrijkste 😉. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

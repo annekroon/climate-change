@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Doe ik ook zeker niet. Waar ik het over heb is een leraar in een breed spectrum van beta vakken die een reeks van 24 of zo lectures hierover geeft. Hij beschouwd inkomende en weglekkende energie.van de zon in en uit onze atmosfeer en zijn samenstelling. Hij is geen ontkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij? Er zijn er velen, helaas..\n🙏🏻 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En het is niet het eerste IPCC-rapport! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In de brand, uit de brand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het hoeft ook niet IN je woonomgeving. We bouwen ook geen kolencentrale IN een woonwijk. Daarom vind ik de vraag zo raar.\n\nWe moeten snel laten zien hoe het er uit ziet, en werkt, de wijk van de toekomst + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "(1 stijlige Meidoorn en Wegedoorn. Niet verklappen hoor ;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daarom is de EU ook voor Europese belastingminima voor vermogenden en bedrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Absoluut 🤩🙏 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zin om er nog eentje te maken, ditmaal met ketjap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waar heeft u het in hemelsnaam over? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U verwart het weer van vandaag met het klimaat, klimaat is gemiddeld weer in de loop der tijd, moeilijk hè? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

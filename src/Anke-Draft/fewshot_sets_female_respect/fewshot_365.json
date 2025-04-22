@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Is een uitzending om in te lijsten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar gelijk heft hij, co2 heft niets met temperatuur te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De opwarming van de aarde is al zo'n duizenden jaren aan de gang sinds de ijstijd. Jouw Co2 veranderd hier niks aan, De natuur stoot nog altijd zelf het meeste Co2 uit. En al ZOU de mens nr 1 oorzaak zijn, debiele rigoureuze maatregelen worden alleen in het westen geïmplementeerd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We hebben afgesproken in 2050 energie- en klimaatneutraal te zijn. \n\nShell wil dit doel bereiken in 2070.\n\nMeer dan 95% van de investeringen van Shell zijn in fossiele brandstoffen. Hoe valt dat in 's hemelsnaam te rijmen met een fossielvrije toekomst? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft ook niet, maar dit is de lange termijn grafiek van de temperatuur, trek zelf je conclusies.\nEr zijn grafieken over nog langere perioden, die nog extremere temperaturen laten zien. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gletschers zijn weg. Eens. IJs brengt geen water toch? Smeltwater wel. Als de gletscher niet smelt heb je ook geen smeltwater. Die kun je dus afboeken. Water komt van regen en smeltende sneeuw. Die regen komt wel. Verdampt water komt vroeg of laat weer naar beneden toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja taal is essentieel. Uiteindelijk moet je het met argumenten winnen. Het nieuws,  het weerbericht op tv, is in dit verband een heel groot en belangrijk podium. Daarom vind ik het zo jammer dat ze die kans 😉 laten liggen 😑. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Moslims.  Gokje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ps. Hier heb een mooi artikel gevonden van het Copernicus programma, een monitoringssysteem in opdracht van de EU/ESA: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat men vaak zegt \"het spul is allang uit m'n lichaam en ik ben er nog\".\nJa, kan (wat t spul ook is), maar dat spul kan veranderingen hebben aangebracht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is mijn eerste reactie .. toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hel en verdoemenis.    U klinkt als de man die ieder dorp vroeger had en die hel en verdoemenis predikte.   \n\nDe tijd is lang niet op. Leef niet zo in angst en zuurheid maar zorg dat je tijdens je feite reis die het leven is verantwoording ook weet te koppelen aan levensvreugde + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U poneert een stelling waarin U de Gold Rush in verband breng met klimaatverandering. Dit is holle retoriek en mist onderbouwing. U kunt niets bewijzen en uw reacties demonstreren Uw onkunde in deze materie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Weet ik, maar alle klimaatwappies gebruiken de term broeikaseffect ook niet meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

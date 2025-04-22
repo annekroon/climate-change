@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zolang u niet overtuigd bent van het feit dat de mens het klimaat verandert in enkele decennia, naast de natuurlijke variaties over 10.000'den jaren, heeft antwoord geven op die vragen geen zin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een hoge luchtvochtigheid en 50 graden Celcius kan dodelijk zijn voor de mens + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar is de bron van dit figuur? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Isabel en Katrina in resp 2003 en 2005 waren cat. 5. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ons hart en bloed beweegt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "50 GW ..energy .\nstaat er letterlijk hoor :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering kan de mens niet en nooit niet stoppen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, hij ook niet. Het gaat om de optelling van uitschieters. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik zie het nog steeds wat positiever. Punt is dat we ons de vraag moeten stellen waar de prioriteiten liggen en wat belangrijk is en waarvoor. Werk je om te leven, of leef je om te werken? Is het klimaat belangrijk als wij moeten leven als in de middeleeuwen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat er mensen zijn,  en dat het klimaat veranderd zijn twee feiten... \n\nDe invloed van de mens (en zeker van ons hier in Nederland) is miniem. \n\nWel zie ik de plicht aam het milieu te denken. Maar dat gebeurt al veel. Gedram over klimaat en stikstof werkt eerder demotiverend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ohjee...als de capslock's van stal worden worden gehaald, dan weten we dat het menens is... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "... maar roepen om een verhoging van het minimumloon met 40 procent klinkt alsof ze totaal geen benul hebben van waar het (soc.econ) om gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "meer een Tena men.. ben er al even en heb met hem zelf te maken gehad.. dus spaar mij je bull trol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U poneert een stelling waarin U de Gold Rush in verband breng met klimaatverandering. Dit is holle retoriek en mist onderbouwing. U kunt niets bewijzen en uw reacties demonstreren Uw onkunde in deze materie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hè flikker nou toch op met die hashtags alsjeblieft. Lagere schoolniveau. Laten we van elkaar leren. Je hebt wel een punt wat betreft China’s verwezenlijking van Europa’s groene dromen, maar ik denk dat we veel beter af zijn -zonder afhankelijk te zijn van China- door te + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

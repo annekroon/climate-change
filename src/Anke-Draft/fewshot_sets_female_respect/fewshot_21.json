@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "EN DEZE DAN? ZOVEEL VERANDERT ER NIET PLOTSELING + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Het verdien-model zit bij de ontkenners. Goed gezien. Gas,olie, auto industrie etc + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dan dit: 😱😱😱\nSneeuw, oeps, mag dat wel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan laten we het maar even rusten, mijnheer Hoogers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😩🤷‍♀️ nobody told me... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op de hoek bij de Heiloostraat waar het kerstbomen inzamelpunt stond + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lees mn reacties nog een keer. Nergens beweer ik dat de branden niet aangestoken kunnen zijn. De kans dat de grond droger is en daardoor het risico omhoog gaat is echter wel een gevolg van klimaatverandering. In dit rapport wordt het netjes voor je uitgelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onomstreden bewijs niet helaas. IPCC is heel eenzijdig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik woon in de Mastenbroekerpolder.\nZo’n 600 jaar geleden ingepolderd. Boererijen staan op terpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DENK JE ECHT??? ER WORDT MET WILLEKEUR GEKNOEID EN DUS VIND JE DE WAARHEID NIET TERUG. IK HEB ER 2 IN MIJN LEVEN MEEGEMAAKT. 1 TOEN IK NOG EEN PUPPIE WAS EN 1 EEN AANTAL JAAR GELEDEN. EN JIJ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Van alle tijden. Zelfs(!) het IPCC geeft aan dat er geen enkele reden is om extremer weer te verwachten. Verschil met 'vroeger' is dat er op elke vierkante meter wel iemand staat re filmen en de MSM het gretig optekenen. Hapklare brokken voor alarmisten als jij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik steek geen tijd in onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "...;). ClimateChange wordt enkel gebruikt voor de uitrol van hun totalitaire agenda. Goedgelovige naivelingen tuinen er met open ogen in. Zelfs nu nog. Mijn hemel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De veehouderij ís al jarenlang de zondebok. Van verlies aan natuur, biodiversiteit, vervuiling van lucht en water. Dat ontkennen en naar anderen wijzen is je kop in het zand steken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je je erin verdiept had wist je dat 2050 is berekend door wetenschappers. We gaan het niet eens worden. Ik ga iets leuks doen met m’n avond. Ciao! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

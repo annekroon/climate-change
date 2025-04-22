@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "VVD be like! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ps. Hier heb een mooi artikel gevonden van het Copernicus programma, een monitoringssysteem in opdracht van de EU/ESA: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het één gaat ten koste van het andere. De door jou veronderstelde oogst op 'topniveau' gaat ten koste van de kwaliteit van de bodem, die uiteindelijk tot uitputting leidt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Olie is een natuurproduct: arsenicum ook. Lood. Kwik. Nauwelijks een argument :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Biomassa is geen gepolder- maar een verkeerd besluit wat met de juiste intenties werd genomen en met verkeerde in stand word gehouden + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Marc, hoe is dit relevant? Je kunt niet zeggen per jaar, omdat het klimaat het gemiddelde is van het weer over een periode van 30 jaar. De getallen zeggen bar weinig.\nDe gemiddelde temperatuur van decennium 2010 - 2020 lag gemiddelde 0,82 graden hoger dan de 20e eeuw.[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dank voor je reactie en eens: vanuit functioneel perspectief zou alles onder een dak logisch zijn. Maar in de praktijk is samenwerken onder één dak tussen partijen die willen versnellen en partijen die willen meestribbelen niet erg succesvol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wait. Vicieuze cirkel zo. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, sorry Baudet roept bergen onwaarheden.\nKortom, daar kan ik en inmiddels de helft van zijn kiezers niet veel mee.\nKortom, investeringen uitdrukken in een meerwaarde mbt klimaat en economie maakt een en ander kwantificeerbaar.\nDenk aan onze waterwerken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kwaliteit vd lucht id steden is nu inderdaad VEEL beter dan 40 of ook 120 j geleden. \nMetingen gebeuren toch al heel lang. In B sinds 1830? Er is een verschil tussen milieuproblematiek en klimaat. Mensen maken dat onderscheid niet altijd.\nBeiden zijn belangrijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "weer een uit het verband gerukt antwoord als je in het nauw komt is ook weer een bekende reactie. Anderen verwijten naar anderen te wijzen terwijl je zelf naar een ander wijst. Wat heb jij er zelf aan gedaan dan? Boeren hebben de stikstofuitstoot alweer verlaagt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even voor mijn duidelijkheid. Wat betwist je precies? De menselijke invloed op klimaatverandering of de schadelijke effecten hiervan? Bijvoorbeeld op biodiversiteit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Pfff ga niet nog eens op al mijn oude berichten reageren. \n\nVerder als je alles onzin vind. Ik begrijp het. Jij leeft in Nederland en de rest maakt niets uit. \n\nDat er voedsel tekorten zijn, wat maakt het uit de iemand aan de andere kant van de wereld honger heeft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Neen. Het kleinste kind weet dat klimaatmodellen de radiatieve balans voorspellen, enkel en alleen dat. \n\nOok weet het kleinste kind dat het globale klimaat afhangt van die radiatieve balans. Hoeveel energie we ontvangen, hoeveel er naar de ruimte terug gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

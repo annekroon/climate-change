@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Top. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor u een vraag voor mij een weet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kan toch maar moeilijk doorgronden wat ze juist van plan zijn. En wat ik er van begrijp kan ik op geen enkele manier betalen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yes, ik zit nu in je operating system en zie dat je een slimme energiemeter hebt. Lol, ga je energieverbruik deze maand verdubbelen  :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De huidige opwarming van de aarde is een gevolg van CO2 toename in de atmosfeer welke een gevolg is van menselijk handelen.\n\nAangezien de mens de oorzaak is, kunnen we dit ook oplossen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze hebben mij beloofd dat het warmer zou worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In mijn boek  ‘Dando, de klimaatvluchteling’ (kniphorst) kun je lezen wat volgens mij de enige manier is om de mensheid voor groter onheil te behoeden. Helaas een utopie. Dat gaat nooit gebeuren. Mensen/landen vinden altijd dat anderen eerst moeten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, hij ook niet. Het gaat om de optelling van uitschieters. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar gelijk heft hij, co2 heft niets met temperatuur te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom heffen die landen zoveel belasting? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Over hypocrisie gesproken. #klimaatverandering ontkennen, maar wel gered willen worden 🙃👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het akkoord van Parijs schrijft dat bijvoorbeeld China niet nu maar over een aantal jaar uit mijn hoofd 2030 of 40... China bouwt nu mega kolencentrales, goedkope energie om zich te laten groeien, terwijl jij je broekriem 5 tandjes strakker mag trekken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb het inderdaad te slordig opgeschreven. Komt omdat er economische en bedrijfskundige termen door elkaar gebruikt worden. Kosten is meer bedrijfskundige term, uitgaven is de economische term.\n\nInkomsten ontstaan doordat tuinder zijn kas opnieuw laat bouwen. /1 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah Bas. Dank voor uw antwoord. Het zal dan wel gaan over semantiek, daar dhr Bellemakers het heeft over “stoppen” van de klimaatverandering (wat niet kan) en u over “ binnen de perken houden” van de klimaatverandering. Mee eens dat dit een wezenlijk verschil is? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zien we die dan al?\nWist je bv dat je levensverwachting sinds de industriële revolutie verdubbeld is?\nWist je dat er in Europa 40% meer bos is dan 50 jr geleden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Roken goed en gezond 🤝 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onomstreden bewijs niet helaas. IPCC is heel eenzijdig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik ook, wie weet al wat eerder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, ik rook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb mijn winterjas nog niet eens aan gehad 🙈. Maar 13 graden is gehoorlijk warm voor deze tijd van het jaar. Wel ideaal weer om een lange wandeling te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je zegt elke keer dit kan niet of dit weten we nog niet, terwijl we al vrij lang weten hoe het werkt met een kleine fout marge. De werking/rol/impact van CO2 en andere broeikasgassen zijn bijvoorbeeld gebruikt om verschillende scenario's te voorspellen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee het is dom. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, U maakt zich schuldig aan de confirmation bias. De klimaatwetenschap is ondertussen zeer duidelijk en dat laat de natuurkunde ons ook zien. Het feit dat U niet inhoudelijk kan reageren op mijn natuurkundige beschrijving van klimaatverandering zegt genoeg over uw inzicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het geld niet uitgeven en wachten tot het te laat is is nog veel erger. Desastreus zelfs. Dan heb je vanzelf niets meer aan welk geld dan ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ook bij jou is er iets mis gegaan tijdens de geboorte + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor angst doet dat 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

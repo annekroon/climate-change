@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Met name boeren zijn zich hiervan terdege bewust, zij merken de praktijk aan den lijve, elke dag weer. Maar zijn daardoor ook erg flexibel, dus die voedselproductie blijft, maar wel anders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "VVD be like! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik claim niks. Ik vraag naar bewijs. Als ik zou claimen dat de klimaatverandering niet mensgemaakt is m, DAN zou ik bewijs moeten leveren. Maar dat doe ik dus niet. Ik vraag louter bewijs. En dat is er niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik kan me niet herinneren dat ik ooit in augustus kachel aan had, dan nu + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als hier de boel weer 'natuurlijk' moet, dan wordt het hier een groot onleefbaar zompig moeras. En zeebodem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik snap em. Jij denkt dat zo 'weinig' CO2 die uitgestoten is door de mensheid geen invloed kan hebben op het klimaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja eens, maar dat moeten ze dan ook opschrijven. Dit geeft ruis en dat is helemaal niet nodig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn tweets zijn heel vaak mijn eigen bedenkingen bij mijn eigen observaties, soms, hopelijk, met enig voortschrijdend inzicht.\nIk zie hoe dat vaak als een rode lap werkt. Ik werk daaraan. Dat belet me niet voort te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is naast de kwestie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Water naar de zee dragen dus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat vooral relevant is alles wat we niet weten en niet precies kunnen kwantificeren.. aannames, invullen van leegtes met aannames en het stapelen van aannames en theorieën maakt dat de fout marge heel groot wordt .. en dat klimaat debacle is exact dat .. een dwaling + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "“Dream on”\n\nLeg het mij eens uit… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahahahaha ... noem anderen niet te snel \"simpel\" vriend dan blijf je heel. Je bent wat je zegt (of schrijft in dit geval). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U behoort blijkbaar tot de 15%. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je moet leren grafieken te lezen. 🙄Er staat niet gemiddelde. Er staat historisch max. \nIk heb het nog wel speciaal ge-highlight zodat dat duidelijk is. 🙄\nIk snap nu waarom je zulke rare denkbeelden hebt. Je hebt moeite met informatie correct op te nemen en te begrijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "The ghuman condition of denial and stubbornness. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

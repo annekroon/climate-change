@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "🤗 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "kwam dat niet vorig jaar al uit? dan is het een beetje vreemd om het nu nog in een krant te bespreken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doet iets aan je lichaam. Onherstelbaar. Alcohol is eruit na een dag maar schade blijft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Natuurkundigen, economen en natuurliefhebbers.\nNee. Ze zijn te weinig rendabel, hebben een ongunstige ERoEI, hebben een te lage energiedichtheid, doen een te groot beroep op de grondstoffenvoorraad, zijn niet brandveilig, hakselen vogels, enz.\nGas alleen ter transitie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het klimaat warmt op. Is altijd dynamisch geweest. Doen we niets aan. We moeten ons aanpassen aan een veranderend klimaat. Water opslag. Aanplant van bomen. Dijkverzwaring. \n\nVerder in Afrika is grootschalige irrigatie nodig, en ook ontzilting van zeewater.  Een leefbare aarde + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een ‘echt’ boek #boekenhebberigheid ;) en digitaal exemplaar via de  online, kan ik altijd waar dan ook lezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus toch niet de koeien ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij denkt aan de rijders. Die meteorologen (waartoe ik me vandaag ook maar even reken) denken aan het publiek. Dat gaat ook het ijs op. Je zou heel Friesland in isolatie moeten doen. En dan nog heb je er een miljoen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is in 2019 in Australië uitgezocht, 85% van de branden bleek door menselijke oorzaken ontstaan te zijn.\nWel worden ze door droogte groter en feller.\nKomt ook door slecht beheer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen idee wie jou deze onzin heeft vertelt, maar zonnepanelen zijn enorm goed voor het klimaat in vergelijking tot gas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Laat eens even zien wat ik als \"bewijs\" beweerde. Dat maak jij er weer steeds van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beide zijn nodig. Een verandering  van mentaliteit en structurele door de overheid gestuurde veranderingen.  Beide gaan hand in hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

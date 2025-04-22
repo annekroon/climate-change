@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Begin op \nMeer weten? Lees dan een boek zoals bv \"Wat iedereen zou moeten weten over klimaatverandering\" van Bart Verbergen. Maar er zijn veel meer goede boeken\nNog meer weten? Lees dan de rapporten op + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmm bijzonder.. 30 jaar geleden vloog bij ons de heide al jaarlijks in de fik door een weggegooide peuk. Ben ook wel nieuwsgierig naar wat er met de zureregen is gebeurd of het gat in de ozonlaag. Als kind werden we bang gemaakt het jaar 2020 niet te halen door dat gat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat could go wrong? Want *wie* gaan dat risico dragen, denk je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gebeurt hier ook.\nHet pand in Nieuweschans, waar mijn vader ooit zijn bedrijf in had, stond al heel lang leeg. Alle plannen liepen op niks uit.\nVloog toen zo maar tot 2 x toe in de fik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op 'n planeet waar teveel mensen nog slapen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, dat kan zeker nog verbeteren. Het kan niet opgelegd worden, het is een (hopelijk onomkeerbaar) duurzaam proces en moedige politieke  beslissingen kunnen (moeten) dat  versnellen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat dat betekent dat iemand anders voor je gaat bepalen wat je wel of niet mag. Waarom zou iemand voor mij bepalen of ik 1 keer of 5 keer vlieg? De tickets betaal je zelf toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Voorheen was Enkhuizen ook meer een SGP/CU gemeente.. daar hoor je nu weinig meer van. Met het verdwijnen van de visserij verdween dit ook uit Enkhuizen. Bij de laatste Gemeenteraadsverkiezingen 5.9% van de stemmen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb geprobeerd om lessen Chinees te hebben voor dochter. Was zeer moeilijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei ik al. Veel erger dan miljoenen doden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je bent vergeten te benoemen wat jullie oogsten vandaag; welke bessen sieren de fotoś??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

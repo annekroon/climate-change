@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat #klimaatverandering zou bijdragen aan menselijk leed (overstromingen, orkanen, klimaatvluchtelingen) wordt NIÉT beweerd door #klimaatsceptici maar juist door #klimaatalarmisten en #klimatologen\n\nOnze kennis over #klimaat zit nog boordevol gaten\n👇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets mis met vergroenen, verminderen, milieubewust, maar niet tegen elke prijs in een onhaalbaar tijdsbestek.\nIn 2100 zijn we met meer dan 10 miljard mensen.\n2050 is uit de duim gezogen door politici.\nKan best langzamer, later, beter, grondiger en dus vooral haalbaarder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt niet in de gaten dat het IPCC juist waarschuwt voor klimaatverandering. Zij geven aan dat er iets moet gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ook. Tegenwoordig vind ik het klein 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou, in die context, dit wel eens willen lezen.\n \n(Al heb ik begrepen dat de oplossingen daar een soort communisme light is. Dus dat gaat het voor mij ook niet worden :)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat betekent een hoge opbrengst dan volgens jou? Kun je grond vergelijken met een topatleet? Dus een goede conditie is vereist voor een goede prestatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou niet weten hoe op een voor het risicomanagement van een bank relevante horizon. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die 350 meter hoor ik vaak deze week. Dat lijkt me voor een nieuw project inderdaad te kort bij. Waaruit blijkt dat er plannen zijn voor windturbines op 350 meter van een woonwijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe precies worden 'we' geraakt door klimaatverandering? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk dat het vnl te maken heeft met de tijdschaal waarop je kijkt, en wat je wel of niet in beschouwing neemt.\n- nu tot 2030 vs pre-industrieel tot verdere toekomst (net zero)\n- alleen schoorsteenemissies of ook koolstofcyclus (koolstof herkomst, verandering landgebruik)\n-BV + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Boeiender dan uw achterhoede verhaaltje.\n\nDe honden blaffen, de karavaan trekt verder...\n\nNB: prima dat jeugdjournaal. Heel leerzaam. Vermoedelijk juist ook voor u.\n\nSucces.\n\nFijne avond. Daaag 🙋🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waar heeft u het in hemelsnaam over? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet je een fatsoenlijke lange broek aan trekken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hè flikker nou toch op met die hashtags alsjeblieft. Lagere schoolniveau. Laten we van elkaar leren. Je hebt wel een punt wat betreft China’s verwezenlijking van Europa’s groene dromen, maar ik denk dat we veel beter af zijn -zonder afhankelijk te zijn van China- door te + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou even een cursus statistien en een cursus klimaat volgen, Robert. Dan begrijp je het misschien wel! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

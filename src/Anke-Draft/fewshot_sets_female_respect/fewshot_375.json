@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat zei Al Gore 20 jaar geleden ook al. Het probleem is alleen dat het niet uitkomt. Maar ik begrijp het wel. Voor de een is het een flinke kostenpost en voor de ander big business. \n\nMisschien moet ik ook iets gaan doen in de klimaathype. 🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lees de conclusie! Er kan geen direct verband gelegd worden! Verder is het een verhaal van believers en non-believers. Het klimaat verandert, ja, maar de mens heeft daar een nauwelijks invloed op, tenzij door zijn massale aanwezigheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een bron die meerdere studies aanhaald en meerder ekeren bewijst en zelf zegt dat het door de mens is.\n\nInderdaad boerenverstand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze hebben gelijk, zoutwater kwelt al in Noord-Holland… 😁😁ben niet voor niets vertrokken, 300 m boven NAP + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ons hart en bloed beweegt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan gaan we in hibernation + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vraag=➡️zouden deze extremen vroeger,voordat men begon met noteren v temperaturen,hoge&amp;lage druk enz. ook niet bestaan hebben⁉️Toen mensen zwaar vervuilende houtvuren&amp;steenkool en massa verbruikten om zich te verwarmen(fijn stof t/m)❗Spreek ik nog niet vulkaanuitbarstingen❗🤔🖐 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat kan. Ik heb het vrijwel nooit over politiek op facebook. Het is een handig medium voor mij, hoewel ik vind dat die Zuckerberg gisteren gearresteerd, onteigend en levenslang vastgezet moet worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het gaat niet zozeer om het klimaat maar het ontkennen van het aandeel van de vee-industrie in de klimaatverandering die jij ontkent. Naast het feit dat boeren zelf de grootste oorzaak van de droogte in agrarische gebieden zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig hebben we Staatsbosbeheer voor houttoevoer richting de hongerige ovens. (die willen opeens dat half Nederland weer verandert in een zandverstuiving) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toevallig lieg ik nooit dus houd maar op met je betweterij! Je bent niets meer dan een ander! Je daalt enorm in mijn achting wanneer je zo door blijft drammen, lager kan niet meer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beste Hibma\n\nJe gaan nogal blind op wetenschappelijke literatuur is het niet?\n\n\"Wetenschappers GINGEN ER VAN UIT dat de schildpad was verdwenen als gevolg van vulkaanuitbarstingen.\" 🤪\n\n\n\nBenieuwd naar je 'wetenschappelijke' onderbouwing in deze 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

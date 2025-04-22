@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zij hebben enkel een diploma van virologie. Kunnen enkel zeggen hoe een virus te bestrijden. Maar hoe je dat doet, speelt natuurlijk ook een rol. Je moet niet al onze vrijheden gaan afnemen. De maatregelen moeten niet erger worden dan het virus zelf, zoals nu wel het geval is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yes! Zal ik doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een deel van het Markermeer zijn de Marker Wadden (natuurgebied) geworden. Dat levert voor veel vogels en andere dieren een uitstekende broed- schuilplaats op.\nDat is ook niet in een weekje gerealiseerd. ;-)\nHetzelfde kan je doen met bomen denk ik in het resterende deel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "BTW, mijn dochter en ik hebben gewonnen bij de rechter :d + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dromen mag. Geld smijten in bodemloze putten zou niet mogen. \nÁls maatregelen al zouden helpen, tot hoever mag de rekening dan oplopen? Kosten/baten. Ik vind dit een normale en relevante vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "haha gaat niet gebeuren hoor. Maar ik word wel chagrijnig van dat gezeik van die gasten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat kan. Ik heb het vrijwel nooit over politiek op facebook. Het is een handig medium voor mij, hoewel ik vind dat die Zuckerberg gisteren gearresteerd, onteigend en levenslang vastgezet moet worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn ervaring is anders en zeker niet uniek. Met een besparing door vermindering energieverbruik kun je én aflossen én geld overhouden én ook nog iets doen voor klimaat. En ik  ben net zoals u van deze wereld 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij? Er zijn er velen, helaas..\n🙏🏻 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het geld niet uitgeven en wachten tot het te laat is is nog veel erger. Desastreus zelfs. Dan heb je vanzelf niets meer aan welk geld dan ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Link staat eronder kiekoofd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De veehouderij ís al jarenlang de zondebok. Van verlies aan natuur, biodiversiteit, vervuiling van lucht en water. Dat ontkennen en naar anderen wijzen is je kop in het zand steken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd. Maar niet het overheersende volk. Dat zijn de moslims.\nKleinkinderen = hoofddoek verplicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jeuk ze met je klimaatvluchtelingen! En met mijn bijna 61 stop ik niet met de feiten aan te dragen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

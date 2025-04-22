@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik voel me toch wat geruster door je tweet. Onze VvE gaat slaafs mee met de overheid en bekijkt alleen hoe ze voordeel kunnen halen uit de subsidiemogelijkheden en afwijzen van die aanpassingen heb ik nog niet gehoord. Ik begon hem aardig te knijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dát snap ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je ? Meeste politici wachten op een draagvlak alvorens drastische veranderingen nog maar voor te stellen. En dan is er nog een meerderheid nodig om het effectief door te voeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aub, neem gewoon 18 minuten de tijd om te luisteren. Het gaat helemaal niet over APP, maar over TLTRO’s en waarom groene TLTRO’s prijsstabiliteit (dus inflatie) ten goede kunnen komen en beter zijn op lange termijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt er net als op de beurs een soort aandeel van maken dat met de vraag stijgt of daalt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goedemorgen Pieter, deze informatie is bij RVO helaas niet beschikbaar. Je kunt hiervoor het beste contact opnemen met een biomassaleverancier of Branchevereniging Organische Reststoffen (BVOR). Groet, Giovanni + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, enkele collega's hadden wel een verleden bij de afdeling meteo van (met name) luchtmacht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik gok dat ze er na een komende pittige winter wellicht wel klaar mee zijn? 🤞🏻 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dank voor uw bijzonder verrijkende reactie. Ik hoop nog veel van u te leren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet dat het wetenschappelijke debat over de rol van een zwakkere meer meanderende straalstroom nog niet beslist is maar ik geloof er wel in. Zeker in de zomer. Je ziet toch vaak dat het weer tegenwoordig vaak lang in het zelfde patroon blijft hangen en bovendien extremer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "\"Het is ongelooflijk duidelijk door naar de grafiek te kijken\"\nEn vervolgens met een alarmistisch, misleidend krantenartikel op de proppen komen dat kant nog wal raakt.\nHet is 3 dagen zeer warm geweest in het VK, ja. Is dat te wijten aan CO2? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Welja. Welnee. Welja. \n\nAlle teksten op de website van het IPCC en summaries die zij geven zijn alarmerend. Het gaat om de prognoses, de toekomst, de kantelpunten. 19 cm is nu. Het gaat over 2100, dan ziet de wereld er serieus anders uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappelijke nonsens + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even voor mijn duidelijkheid. Wat betwist je precies? De menselijke invloed op klimaatverandering of de schadelijke effecten hiervan? Bijvoorbeeld op biodiversiteit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

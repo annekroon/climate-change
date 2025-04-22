@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat is pure wiskunde. Als je op een materie geen specialist ben vertrouw je op de expertise van anderen en die is in dit debat overduidelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De rechter had zich daar al over uitgesproken, want recidivist. Anders zou ik het niet zo zeggen. Etniciteit weglaten als etnische minderheden gewelddadig zijn tegen andere groepen lijkt mij subjectief. En nogmaals: mijn mening is zeker altijd subjectief (pleonasme, duh). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan welke voorbeelden denk je daarbij dan 'steeds'? M.i. zijn we nog nauwelijks begonnen.\nHet eerste beetje zon en wind zijn toch beide veel beter over hun respectievelijke levenscycli. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Neemt niet weg dat merendeel van ons schoon water wordt gebruikt om gewassen/granen/whatever woord dat je wil gebruiken, te kweken die wij niet eens opeten. En de #1 reden voor ontbossing vlees en zuivel-consumptie is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als ze de Multinationals nu eens aanpakken, zou al een hele stap in de goede richting zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom. Dit is NPO. Buitenhof. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welnee, dat staat niet in het wetenschappelijke deel. Je praat ideologische activisten en politici na. De zeespiegel stijgt geleidelijk max 19 cm per eeuw en sinds 1880 is de gemiddelde temperatuur 1,5 grC gestegen. Alleen volgens modelprognoses stijgt de temperatuur sneller. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Rijke landen hebben iets uit te leggen. Hoe moeilijk het is om een stukje welvaart op te geven zien we aan de protesten tegen klimaatmaatregelen en tegen de komst van asielzoekers. Pakistan en Bangladesh e.a. hebben niet de middelen om deltawerken te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat is het criterium om een \"vooraanstaande wetenschapper\" te zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, want het is enkel in België dat de problemen zijn 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "The ghuman condition of denial and stubbornness. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nu doe je het al weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

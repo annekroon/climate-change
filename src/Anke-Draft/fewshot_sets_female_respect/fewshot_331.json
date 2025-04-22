@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Klimaat stilzetten kan niet eens. Dat zou heel slecht zijn voor de wereld. Ik denk dat er nu niet meer of ergere natuurverschijnselen zijn dan pakweg 5000 jr geleden. Alleen wordt nu elke windvlaag binnen minuten wereldwijd bekend èn opgeblazen tot mythische proporties. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw tekeningen zijn meesterlijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschap dient ook kritisch bekeken te worden. Er is zeer veel manipulatie. Gaat het ook over weer manipulatie door de Navo (chemtrails, haarp) en wat de gevolgen hiervan zijn voor de planeet. Alles bekeken en berekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en die terugkoppelingen zijn juist het probleem. Het zijn meekoppelingen. De onzekerheid daarover is niet onze vriend. Het onomkeerbaar warmte en bepaalde moleculen in de atmosfeer en de oceanen brengen kan en mag niet. Dat is al in 1990 vastgesteld. IPPC FAR. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klopt ja. Uiteindelijk gaan we allemaal wel naar de chalemiezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Sorry Hans maar ik ga geen discussie voeren over klimaatverandering, je mist het punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dichtbij woongebied wel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan de factor of bedrijfstak die daar op dat moment dan voor verantwoordelijk is. Nu is dat vooral de veeteelt (niet zozeer de landbouw) Dus laten we beginnen in plaats van ons alvast zorgen te maken over de toekomst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou nee hoor...vluchtelingen zijn onderweg vanwege oorlog en armoede...en dan nog met name....omdat ze tegenwoordig wel een Iphone hebben en zien hoe het bij ons is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75 % van alle bosbranden worden gecreëerd door de mens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat u kunt aangeven wat u bent, siert u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt wel een stoïcijn ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappelijke nonsens + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die is van augustus 2019. Of vind je die fake? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

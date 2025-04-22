@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het woord \"achtertuin\" komt niet voor in de vragenlijst + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ben wel benieuwd hoe je de maatschappelijke vraagstukken dan aan wilt gaan. Als we bouwen met CO2 intensieve materialen is de schade in de wereld mijn inziens nog veel groter. Denk alleen al aan uitdroging en bosbranden. Kappen voor bouw is relatief hoogwaardig gebruik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ehh, nee. Ik zou zelf niet in staat zijn een objectief journaal te maken, daar ben ik zeker van. Maar ik kan wel beoordelen of iemand redactionele keuzes maakt. Bijv. weglaten dat George Floyd een crimineel was. Bij etnisch geweld dat etnische element weglaten \"want Wilders\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb net dik twee miljoen opgehaald voor burgerwindmolenpark in m'n eigen stad samen met burgercooperatie . Bijna 600 mensen doen mee.\n\nDe vraag was zeer suggestief: wilt u ze in uw achtertuin. Nee tuurlijk niet. Maar we hebben in NL genoeg verrommelde gebieden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Activisme is tóp om misstanden aan te kaarten maar ieder besluit zal uiteindelijk voldoende draagkracht nodig hebben om geïmplementeerd te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, u slaat de plank volledig mis.\n\nDe huidige versnelde #klimaatverandering is bepaald geen geloof.\n\nHet aantal meetbare feiten is overweldigend en neemt dagelijks toe.\n\nMocht u werkelijk geïnteresseerd zijn. Onderstaande boekje is zeer toegankelijk en leesbaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "niemand zegt dat.. iedereen weet dat het klimaat al 4,5 miljard jaar veranderd..wel leuk  om te zien dat plekken die ten tijde van de Romeinen bereikbaar waren dat nu weer zijn + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bijna iedereen weet het, bijna niemand doet er iets mee.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "tsja, ik weet niet wat jij met je browsers en computers doet. \nMaar goed, als je het niet lukt dat bestand te openen kun je altijd nog gewoon verschillende nieuws sites er op na lezen, bijv. de volgende: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We wachten het af maar gezien het feit dat vele partijen kernenergie afwijzen denk ik dat de nood nog niet zo hoog is. Anders zouden ze iedere oplossing verwelkomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Is natuurlijk wel een heel beperkt beeld. Het gaat natuurlijk om de gevolgen van klimaatverandering die echt gevaarlijk zijn. Maar dat begrijp je zelf ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga helemaal niet met betere inhoud komen. \n\nOplichter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik snap wel dat je denk dat als we alemaal al een keer dood gaan, hoef niemand gaan proberen om iets om te doen om de klimaat crisis te managen want je wil je boeren centjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

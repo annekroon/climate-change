@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "ik las gemeentereiniger,maar het blijft triest + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En wat gaat de gemeenteraad van, zeg, Midden-Groningen, hieraan doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moet geen concessies doen aan de boeren, simpelweg omdat het beleid het juiste beleid is.\nMaar het recht te protesteren is en blijft een groot goed.\nEn als de overlast te groot wordt: tractoren confisqueren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onder meteorologen leeft het idee dat er ondanks klimaatverandering nog wel ooit het weer voor een  zal komen.\nMaar dan toch geen tocht, want NL kan de verwachte opkomst niet aan. En ijs te dun ervoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die biomassacentrale is wat die partijen willen. \n\nHet warmtenet is wat die partijen willen.\n\nZij vormen de zelfbenoemde Groene Coalitie in de gemeente. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vrijwel helemaal eens.\n\nDe politiek blijft op zijn handen zitten. Rampzalig.\n\nDat IPCC rapport alarmeert waarschijnlijk terecht.\n\nHoe meer journalistieke aandacht hoe beter. Anders gebeurt er niks. \n\nNogmaals; journalistiek juist  hoog in het vaandel.\n \n#klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nooit meer?\nAfscheuren van Oostelijk Afrika langsheen de grote Rift?\nHet uitbarsten van de super Caldera onder Yellowstone?\nDe superuitbarsting van de Campi Flegrei?\nWat als de scheur van La Palma toch getriggerd wordt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand die jou vraagt om te reageren Koenders.\nDie man maakt mooie foto’s van de emigratie naar Italië. Als je dat allemaal niet aanstaat lekker door scrollen. \nIk word in iedergeval vrolijk van de foto’s + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Lost zich vanzelf op als het te erg wordt, dit ga je niet zomaar oplossen met wat electrische auto's of een paar minder boeren in NL. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zulke mensen bestaan er gelukkig ook nog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ga dat vragen aan De Bilt. Het zijn HUN gegevens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik steek geen tijd in onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ehmm, kerkelijk? Wat is dat 😉\nSnap je vraag hoor. Maar nee, ik heb bewust afstand genomen van kerken. Luister graag naar preken online. Meestal in het Engels (zoals JD Farag). Vind het hier in NL. vaak maar slappe hap! 😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Boeiender dan uw achterhoede verhaaltje.\n\nDe honden blaffen, de karavaan trekt verder...\n\nNB: prima dat jeugdjournaal. Heel leerzaam. Vermoedelijk juist ook voor u.\n\nSucces.\n\nFijne avond. Daaag 🙋🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "weer een uit het verband gerukt antwoord als je in het nauw komt is ook weer een bekende reactie. Anderen verwijten naar anderen te wijzen terwijl je zelf naar een ander wijst. Wat heb jij er zelf aan gedaan dan? Boeren hebben de stikstofuitstoot alweer verlaagt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

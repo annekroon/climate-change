@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Nee, omdat het voedsel verbouwd wordt voor de veeteelt. Dat zeg ik, in een keer een hoop problemen opgelost. En ja, vlees zal fors duurder worden. Minder, of alternatieven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappers die windmolens of zonnepanelen propageren voor de elektriciteitsvoorziening mogen hun bul bij mij inleveren. Knoeiers. D66 wordt kleiner dan ik, en dat is volkomen terecht. Komt trouwens deels door het feit dat zij van wetenschap een bijgeloof hebben gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zolang de topwetenschap worstelt om met nog steeds gebrekkige klimaatmodellen de toekomst van een totaal chaotisch systeem probeert te voorspellen blijf ik sceptisch. Er zijn (nog) geen zekerheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die is vrij beschikbaar, hoor. Eigenlijk alles behalve Ongehoord Nederland, Telegraaf, Dagelijkse Standaard, FVD en dergelijke nieuwsbronnen. 😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn institutie laat helaas het lezen van betaalde artikelen in Nature niet toe😪. Maar gezien discussie over NPLG laat het wel zien, integrale aanpak is nodig.  Adaptatie zal niet voor 100% kunnen, andere stressfactoren moeten dus echt naar beneden. 🧵 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Grappig hé. China doet meer in een maand als de hele EU per jaar aan vergroenen. Maar uw baised #fabeltjesfuik info laat dat niet zien.\nU vergeet dat China de fabriek voor de wereld is. Ze bouwen kolen, kern, zo'n, wind omdat ze daarvoor elektra nodig hebben.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh lekker. Buienradar geeft hier 18 graden...en zo voelt het ook #getsie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "3. Klimaatwetenschappers hebben ontdekt dat de droogte op verschillende delen in de wereld verbonden zijn aan klimaatverandering: \n\n4. Diezelfde groep heeft vastgesteld dat het uitzonderlijke koude voorjaar ook verband houdt met klimaatverandering: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is een uitzending om in te lijsten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eerst de bedrijven. Yess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even volhouden het weekend. Zeurpiet #superzomer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zijn we iig heul ver + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

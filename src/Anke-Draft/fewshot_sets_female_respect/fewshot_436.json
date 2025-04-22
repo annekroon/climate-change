@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Die zorg deel ik met je. Bovendien is het de vraag of het klimaatvluchtelingen zijn. Of dat het te maken heeft met de omvolkingspolitiek die filantroop Soros voorstaat en ruimhartig financiert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het leven is een lolletje. Maak je niet druk. Dit onderwerp wordt door velen ervaren als een geloofsovertuiging. We hebben eerst andere, naar mijn mening belangrijker zaken te regelen. Denk aan inflatie en de oorlog. Als iedereen weer blij is kunnen we praten over geloof. 🥦🗽🚀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het zeer waardevolle CO2 heeft al jaren een negatieve prijs.\nSommigen zouden het dan afval noemen. 😉.\nEn ja, ik ben bekend met fotosynthese.\nMaar ook met infrarood absorptie en dat CO2 ook een zuur (koolzuur) is. Die laatste twee zijn minder bekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doet iets aan je lichaam. Onherstelbaar. Alcohol is eruit na een dag maar schade blijft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Natuurkundigen, economen en natuurliefhebbers.\nNee. Ze zijn te weinig rendabel, hebben een ongunstige ERoEI, hebben een te lage energiedichtheid, doen een te groot beroep op de grondstoffenvoorraad, zijn niet brandveilig, hakselen vogels, enz.\nGas alleen ter transitie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zoals hoger en in DM ook al gesteld: dat is een heel andere discussie. Het ging hier om de aanpak van de droogteproblematiek in Vlaanderen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh ja, ik heb ook absoluut vlagen van woede en verdriet, beetje balans erin I suppose 😇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kan wel. Hij zal dan wel een deel moeten verkopen om de belasting te betalen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als ze de Multinationals nu eens aanpakken, zou al een hele stap in de goede richting zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En de meter slaat een stuk sneller uit dan de natuur in de 22.000 jaar hiervoor voor elkaar heeft gekregen. Dan nog steeds negeren dat er meer aan de hand is is nogal naïef. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DENK JE ECHT??? ER WORDT MET WILLEKEUR GEKNOEID EN DUS VIND JE DE WAARHEID NIET TERUG. IK HEB ER 2 IN MIJN LEVEN MEEGEMAAKT. 1 TOEN IK NOG EEN PUPPIE WAS EN 1 EEN AANTAL JAAR GELEDEN. EN JIJ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zijn we iig heul ver + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "en plots is een zak geld en volop mogelijkheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Okay, en dan? Er gaat geen enkele trend naar beneden, geen een. Dus de opwarming is er gewoon en accelereert? Thanks! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2/2 Ook zijn er door klimaatverandering verschuivingen waardoor koudere polaire lucht op andere plaatsen dan normaal komt, (dit geldt ook voor de warmere luchtstromen) waardoor het hele weersysteem instabiel raakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met gokken kunt u verliezen, ook al lijkt de buit al binnen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat de temperatuur op aarde schommelt is een natuurlijk gegeven. De mens zorgt er echter voor dat dit uit balans raakt en de opwarming wordt versterkt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt voor zo'n goede onderbouwing. Ik sta er versteld van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja hiermee heb je laagje ijs.. het ijs op het meertje in het bos was niet dik genoeg (getest).. iets verderop op wat veenplassen werd wel geschaatst + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gaat niet over boeren, maar over je claim dat er geen opwarming is maar 'klimaathysterie'. Ook al onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker. En anders exporteren we dat spul naar Afrika. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan beveel ik toch LHK aan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75% van de haver, volgens dat artikel.\nEn er is nog wel ander waterverbruik dan \"persoonlijk\". En de cijfers zijn vaak nogal \"wild\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee helemaal niet je snapt er niets van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het geld niet uitgeven en wachten tot het te laat is is nog veel erger. Desastreus zelfs. Dan heb je vanzelf niets meer aan welk geld dan ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En de meter slaat een stuk sneller uit dan de natuur in de 22.000 jaar hiervoor voor elkaar heeft gekregen. Dan nog steeds negeren dat er meer aan de hand is is nogal naïef. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

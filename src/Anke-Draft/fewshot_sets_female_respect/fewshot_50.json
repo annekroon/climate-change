@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja hij is dus idd complexer dan dat :) Gaat om netto temperatuurverschil. Aan oppervlak is dat absoluut een factor, maar hoog in de atmosfeer neemt temperatuurverschil juist (sterker!) toe - en boven N-Atlantische Oceaan 's winters versterkt door afname AMOC. Netto sterkere jet! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja China, Brazilië, India enz moeten hard aan de slag om vervuiling terug te dringen. Daar valt de grootste winst te halen.  En de middelen die wij hier laten verkwisten door de millieumafia kunnen efficiënter worden ingezet met meer winst voor infra, milieu en mensen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Voor zo ver dat iets bewijs zijn er hier bijna 32.000 die het er niet mee eens zijn.\n\nMaar consensus heeft niets met wetenschap te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75 % van alle bosbranden worden gecreëerd door de mens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dr rechter en de merkt hebben altijd gelijk! Ik heb geen onjuistheden vermeld + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik helder! Thanks voor de opheldering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een ‘echt’ boek #boekenhebberigheid ;) en digitaal exemplaar via de  online, kan ik altijd waar dan ook lezen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het zeer waardevolle CO2 heeft al jaren een negatieve prijs.\nSommigen zouden het dan afval noemen. 😉.\nEn ja, ik ben bekend met fotosynthese.\nMaar ook met infrarood absorptie en dat CO2 ook een zuur (koolzuur) is. Die laatste twee zijn minder bekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een deel van het Markermeer zijn de Marker Wadden (natuurgebied) geworden. Dat levert voor veel vogels en andere dieren een uitstekende broed- schuilplaats op.\nDat is ook niet in een weekje gerealiseerd. ;-)\nHetzelfde kan je doen met bomen denk ik in het resterende deel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee! Van de BBB..😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd. Maar niet het overheersende volk. Dat zijn de moslims.\nKleinkinderen = hoofddoek verplicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nogmaals....... kan je grafieken lezen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die is van augustus 2019. Of vind je die fake? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

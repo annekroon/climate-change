@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Een vraag die niet geste ld msg weorden . Wat is de invloed van de bevolkingsgroep van 3 miljoen inwoners als gevolg van migratie ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De mens is een significante factor geworden op planetaire schaal, een positie die deze nog nooit heeft gehad. De planeet zonder de mens is puur een theoretisch concept geworden. #Antropoceen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "China heeft ook eens geprobeerd het klimaat te manipuleren, dat is niet helemaal goed gegaan. \nDe mens kan geen invloed uit oefenen op het klimaat, de natuur past zichzelf aan.\nElke \"verandering\" van het klimaat is tegenwoordig de schuld van de mens, onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar maak je dat uit op? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft ook niet, maar dit is de lange termijn grafiek van de temperatuur, trek zelf je conclusies.\nEr zijn grafieken over nog langere perioden, die nog extremere temperaturen laten zien. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar dan blijft inkrimpen veestapel vanwege stikstof in dit artikel een rare uitbijter. En de stikstofproblematiek betreft weer vooral ammoniak en NOx. De bijdrage van lachgas aan de stikstofdepositie is als ik het goed heb beperkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vond het IJsselmeer al zo spannend als 'zee'verkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het wild: milder \nIn de industrie: hoog pathogeen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat er nieuwe banen zullen ontstaan ongetwijfeld, er wordt zoveel geld rondgestrooid dat moet haast wel, die banen zullen echter grotendeels buiten Nederland zijn en de banen hier zullen niet zijn voor de mensen die hun baan kwijtraken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Idem, hartstikke kindvrij indeed, gelukkig wel. Niet zuur over ook al blijf ik mensen die hun kinderen online pleuren wel wantrouwen. Oeps meteen min vijftig volgers nou dat moet dan maar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is precies de denkfout: een 'hogere opbrengst', veelal bulkproductie, betekent niet een betere (bodem)conditie, integendeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus u spreekt u eigen tegen met te zeggen dat zij weten wat er moet gebeuren en dus gelijk hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "meer een Tena men.. ben er al even en heb met hem zelf te maken gehad.. dus spaar mij je bull trol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke maar mag ik je pensioen hebben dan? Aangezien het eng links geld is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Milancovitsch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

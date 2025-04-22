@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Jouw telkens originele perceptie van de realiteit blijft intrigerend 🧐 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering is van alle tijden. Klopt. Maar de snelheid van nu is ongekend en loopt gelijk op met de hoeveelheid CO2 in de atmosfeer. En die loopt zo hard op sinds de industriële revolutie en de bevolkingsgroei. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We houden vertrouwen. 🙏😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik helder! Thanks voor de opheldering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "overhouden voor maatregelen die de komende regeerperiode nodig zijn om de CO2-uitstoot te verlagen. Veel mensen pleiten voor een combinatie van duurzame en kernenergie. Dat klinkt goed, maar kerncentrales en duurzame energiebronnen gaan lastig samen; de kerncentrales zullen 2/3 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn die doorrekeningen ergens openbaar? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat ik armoede vind?\n\n* Tochtige woningen (dus isoleren!)\n\n* Oliesjeiks en gasbaronnen blijven sponsoren \n\n* De allerarmsten opzadelen met de gevolgen van onze mateloosheid\n \n* Verlies van soortenrijkdom\n \n* Niets doen, want dat is uiteindelijk duurder: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is ook niet bedoeld om te werven. Het is een simpele observatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niet opgeven! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "en plots is een zak geld en volop mogelijkheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helaas niet. Ik zie dat u of de feiten niet kent of ze niet wil zien. Ga nog maar eens goed studeren! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jazeker wel. Wat snap je niet aan mijn uitleg? Nogmaals, je  duurzame energie wordt nu gebruikt voor de uitrol van een totalitaire agenda. Of dacht je dat die aanstaande klimaatlockdowns om het klimaat gingen? Really? Wauw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

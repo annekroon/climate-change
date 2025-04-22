@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik ben het helemaal met je eens. Biomassa is met kleinschalig gebruik duurzaam. Maar als ze 628 BMC,s willen bouwen met dat idiote klimaatakkoord wat al lijd tot wereldwijde ontbossing zeg ik dit is de grootste achteruitgang. In de oertijd deden we dit al😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn ervaring is anders en zeker niet uniek. Met een besparing door vermindering energieverbruik kun je én aflossen én geld overhouden én ook nog iets doen voor klimaat. En ik  ben net zoals u van deze wereld 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat de Chinezen daar van onder de indruk zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is attent van je. Wat ben je toch een lieve man.🤗🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar zal nu opmars gaan maken. Met alleen windm en zon redden we het niet. Laat staan als we biomassa hout niet gaan meerekenen. Dan valt het hele klimaatplan door de grond. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het het bewijs🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren staan al droog in verschillende landen, onze rivieren binnen 2/3jaar ook, moordend want drinkwater is 1e levensnoodzaak. Gletsjers zijn bijna weg, vervoer over water dus ook. Blijft regen over om ons te redden, dat tekort is er nu ook al hier, gigatempo is noodzaakelijk! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee dat denk ik ook, maar het begint ook wel een heel serieus probleem te worden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Keuzes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Idem, hartstikke kindvrij indeed, gelukkig wel. Niet zuur over ook al blijf ik mensen die hun kinderen online pleuren wel wantrouwen. Oeps meteen min vijftig volgers nou dat moet dan maar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tegenwoordig...\n\n2/3 van het volk: Oh nee, het klimaat!\nKlimaatexpert: EINDELIJK!\nVVD: Ja, dat varkentje gaan wij wassen! Niet lullen, maar poetsen!\nMedia: VVD weet van aanpakken!\nKlimaatexpert: Wat?\nGroene partijen: Huh?\nMedia: Groene partijen nemen geen verantwoordelijkheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jaa ik heb nodig das op punten met de kat en de krultang? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee helemaal niet je snapt er niets van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf lid is van organisaties die als enige doel hebben desinformatie te verspreiden over klimaatverandering, 𝘄𝗲𝘁𝗲𝗻𝗱𝗲 𝗱𝗮𝘁 𝗲𝗿 𝗱𝗮𝗮𝗿𝗱𝗼𝗼𝗿 𝗱𝗼𝗱𝗲𝗻 𝘇𝘂𝗹𝗹𝗲𝗻 𝘃𝗮𝗹𝗹𝗲𝗻, puur  om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En propaganda dat vlees eten voor klimaat problemen  zorgt is wel toegestaan..... 🙈 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

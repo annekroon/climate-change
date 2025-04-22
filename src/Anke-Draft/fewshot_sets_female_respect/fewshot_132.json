@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Klopt, mijn ouders ook hoor. Maar toen wisten ze niet beter en waren tijden totaal anders. Toen gingen mensen niet (allemaal)studeren bv. Anno 2021 je leeft op het minimum en dan 6 kinderen. Er heerst een taboe op, maar een kerk synagoge of moskee zou kunnen zeggen: niet ‘handig’ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, sorry Baudet roept bergen onwaarheden.\nKortom, daar kan ik en inmiddels de helft van zijn kiezers niet veel mee.\nKortom, investeringen uitdrukken in een meerwaarde mbt klimaat en economie maakt een en ander kwantificeerbaar.\nDenk aan onze waterwerken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik helder! Thanks voor de opheldering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je hier ook een grafiekje voor? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij mij niet 🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt, kleine kans lijkt mij inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik geloof het ook niet. Kost miljarden die ongein. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Fiwi, helaas, de extreme temperaturen zijn niet alleen aanwezig op de \"zuidelijke landen\". Ook in Amerika zijn 'momenteel' extreme temperaturen gaande: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat dus dat men het niet goed weet. Zou ook met wind en waterstromen te maken hebben. Zoals men zoveel niet goed weet. Maar men doet altijd alsof men het precies weet. \n\nDe 3 Klovendam heeft de tilt van de aarde bv. meetbaar veranderd. Komt door het stuwmeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75% van alles wat gekweekt wordt gaat dus naar vee.\nPersoonlijk watergebruik hoewel het belangrijk is, is eigenlijk verwaarloosbaar als mensen hun eetgewoonten niet aanpassen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is mijn eerste reactie .. toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee het is dom. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan heb je vast erg lang gedaan over het vak wetenschapsfilosofie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onnoze kul argument. Er zijn minder doden gevallen door overstromingen. Wat zegt dat? Hooguit dat er meer aan watermanagement gedaan is, betere dijken etc. Het verklaart totaal niet de oorzaak van het extreme weer van vorige week. Dus beledig me niet meer met kul argumenten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet u misschien wat beter lezen, ipv op 1 willekeurige tweet te reageren uit een uitgebreide conversatie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gevolgen...\n\nHorende doof, ziende blind. Het klimaatdogma is in steen gebeiteld door (ver) blinde apostelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

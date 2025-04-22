@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat kan ik snappen die gedachten. Die heb ik zelf ook. Wat we wel kunnen doen is proberen in vrede te gaan. 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En dan de grote vraag als het om klimaat gaat, is de situatie uitzonderlijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dankje. Ik heb er ook over nagedacht. De juridische entiteit doet er wel zeker toe: zoek gerust uit. En afstoten van sites is iets anders dan substitutie. Iets meer respect voor mijn opvatting mag ook wel. Ik maak me hard voor strenge doelen met flexibiliteit in uitvoering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo 'dynamisch' zoals het nu is is het nog nooit geweest. En dat dit eraan zat te komen is al sinds vorige eeuw zichtbaar. De techniek was echter nog niet zo ver als nu dat we er ook daadwerkelijk iets aan kunnen doen. Irrigatie zal Afrika niet helpen. Zeewater is niet oneindig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Draadje even lezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is attent van je. Wat ben je toch een lieve man.🤗🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heel erg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk je ? Meeste politici wachten op een draagvlak alvorens drastische veranderingen nog maar voor te stellen. En dan is er nog een meerderheid nodig om het effectief door te voeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat een onzin, er zijn genoeg initiatieven die aantonen dat steeds meer zaken in het leven klimaatneutraal uitgevoerd kunnen worden. Er wordt echter te weinig vaart achter gezet. De vraag is niet of we onze invloed op de klimaatopwarming kunnen minimaliseren, maar hoe snel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah zelfs de knapste koppen op aarde kunnen dit niet meer fixen. Ze weten al 50 jaar dat er problemen aan komen. Het moet met de hele wereld samen en anders is alles kansloos mijns inziens🙃 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij praat trouwens onzin want ik heb hier tig mezen in de tuin, er komt trouwens net een merel buurten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat een domme tweet.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helemaal fijn pik. Voortaan lekker je mening voor je houden.\nLekker je broodje smeren en vergaan met je dag. Ciao cazzo di merda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat u kunt vliegen bent u wetenschapper op dat gebied en hebt u verstand van klimaatontwikkeling?\nKom nou toch... Dit is het niveau van Meeus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

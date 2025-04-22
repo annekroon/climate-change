@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Klopt en wat hebben we eraan als dat kleine percentage steeds groter word? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Amerika is dat inderdaad bij elke sneeuwbui een hype, maar ook daar is het niet waar - zie stuk (daar neutraal, in EU juist sterkere jet): \nAllemaal uitsluitend winter. Dat meanderen is in de zomer wél een verhaal (maar óók onzeker/cutting edge) ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat lange termijn effect hangt toch helemaal af van wat je met die bomen gaat doen die je niet verbrand en hoeveel bos er bij gaat komen de komende 30 jaar en wat je daar weer mee gaat doen enz enz. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Biomassa is geen gepolder- maar een verkeerd besluit wat met de juiste intenties werd genomen en met verkeerde in stand word gehouden + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets doen kost op termijn veel meer. Als we de zeespiegelstijging binnen de perken kunnen houden met maatregelen nu, voorkomen we in de toekomst Amersfoort aan Zee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat je met mensen verleiden meer bereikt dan met dwang... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zit een multimiljardair in die er in zijn eentje voor zorgt dat de eerste poging om de komeet minder schadelijk te maken wordt afgebroken omdat hij er achter is hoe waardevol het gesteente van die komeet is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook gebrek aan leiderschap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zulke mensen bestaan er gelukkig ook nog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen modder schat, door de door de opwarming van de aarde veroorzaakte droogte is er alleen nog maar zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze zoeken nog een wethouder in Enky.. wat voor jou ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ik denk dat  niet de ambitie heeft om in Spanje gemeentereiniger te worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het netto effect van één van de antropogene invloeden. Nu nog van de rest en van de natuurlijke terugkoppelingen Joris. Kijk, het IPCC presenteert een ECS range van vele graden. Voor de laatste keer: welke is de juiste? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze moeten orkanen Hercules, Thor of Conan noemen. Daar red je levens mee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

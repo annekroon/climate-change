@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Behalve dat die \"verbruikte\" liters water behoorlijk bediscussieerbaar zijn (variatie 200-15000 liter/kg), heel erg afhangen van het type vlees, en het waterverbruik niet noodzakelijk hier te situeren is.\n\nHet beste wat we kunnen doen, is minder water verbruiken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus mensen zonder kinderen moeten maar alle opofferingen maken zodat de kinderen van een ander het over tig jaar beter hebben? Dank je maar ik wil graag zelf een leuk leven lijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook laatste zin, mogelijk kunt u meedenken aan een oplossing en dat bekend maken aan ieder die het horen wil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Raar dat ik hele andere informatie krijg uit vrij beschikbare bronnen... Vraagje, hebben wij als Nederlanders impact op het klimaat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij mij niet 🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk een graad of 13. Liep met mijn winterjas buiten. Veels te warm + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Volgens WeerPlaza vannacht 13 graden hier .. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gemeten sinds?\nIs dat voor of nadat het KNMI hittegolven geschrapt heeft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prima. Als je maar niet van mening bent dat de wetenschap ook een mening/standpunt is. Klimaatverandering is geen grap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappers die windmolens of zonnepanelen propageren voor de elektriciteitsvoorziening mogen hun bul bij mij inleveren. Knoeiers. D66 wordt kleiner dan ik, en dat is volkomen terecht. Komt trouwens deels door het feit dat zij van wetenschap een bijgeloof hebben gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe helemaal niets, ik geef alleen aan wat de wetenschap zegt, jij bent de ontkenner niet ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "die Leonardo ook met z'n fratsen ;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Van alle tijden. Zelfs(!) het IPCC geeft aan dat er geen enkele reden is om extremer weer te verwachten. Verschil met 'vroeger' is dat er op elke vierkante meter wel iemand staat re filmen en de MSM het gretig optekenen. Hapklare brokken voor alarmisten als jij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De suggestie is toch echt dat de Sec te weinig doet, de verkeerde dingen doet, of het verkeerd ziet.\n\nInteressanter lijkt mij dan om  te vragen naar zijn mening.\n\nIs hij nog steeds voorstander van kolencentrales, met de kennis van nu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

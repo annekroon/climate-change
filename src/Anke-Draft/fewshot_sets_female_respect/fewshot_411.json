@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Links heeft aan al dat afbraakbeleid een flinke steen bijgedragen hoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en dan is iemand met druiloor aanspreken echt een positieve aanmoediging? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ken hem op voorspraak van genoemde professor. Het gaat om de attitude, de bronnen en de kwaliteit van de interpretatie. Daar kan ik me grotendeels in vinden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We weten al sinds 1850 ofzo dat CO2 langgolvige straling absorbeert en dus een opwarmende rol in het klimaat speelt. Maar kijk anders in het laatste IPCC rapport, daar staat alles in.\nEn sorry, maar ik ga geen bronnen aanleveren voor onderwerpen waarover ik niet heb geschreven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zat twee jaar geleden met een Australische middelbare scholier in het vliegtuig. Toen hadden we het over taal. Waar wij Duits, Frans en Engels krijgen, krijgen zij Indonesisch, Indiaas en Chinees. \n\nLogisch, maar je staat er nooit bij stil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pfff….zoveel. Boeken, televisie, publicaties van instanties, podcasts, informatie via de werkgever. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "je herhaalt jezelf. De quote zelf verzonnen?  Klimaatverandering = steeds vaker extreem weer. Is niet heel ingewikkeld toch? Slaap lekker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goed punt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt, kleine kans lijkt mij inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe wordt dat dan vormgegeven. Komt dat ook in de app? Moet iemand nog een goedkeuring geven? Kun je zelf je prijs bepalen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jullie snappen er niks van. Een kerncentrale kan juist efficient door draaien, beter dan volatiele wind/zon waarbij op de achtergrond fossiel moet bijspringen. En bouw kerncentrale is nog nooit zo aantrekkelijk geweest door extreem lage rente. Enorm voordeel om nu te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, heb zelfs de brondocumenten gelezen. Maar \"de zwarten\" is generaliseren. En dit wordt voornamelijk door roomblanke \"sociaal liberalen\" gepromoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Boeiender dan uw achterhoede verhaaltje.\n\nDe honden blaffen, de karavaan trekt verder...\n\nNB: prima dat jeugdjournaal. Heel leerzaam. Vermoedelijk juist ook voor u.\n\nSucces.\n\nFijne avond. Daaag 🙋🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De planeet don’t care. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn idd nog nooit overstromingen geweest of natuurrampen...  iemand die dit recupereert vanwege klimaat moest zich schamen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

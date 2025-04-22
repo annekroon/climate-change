@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Precies, in dat opzicht zijn het wel talentjes. Ooit zal het kwartje misschien vallen. Ik probeer er maar om te lachen totdat het zover is, gelukkig is de tendens hier een stuk fijner 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah....Al die velden met zonnepanelen en windturbines nemen een veelvoud ( zacht uitgedrukt) aan ruimte in beslag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus jij gelooft in de opwarming van de aarde door de mensheid? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Sorry Hans maar ik ga geen discussie voeren over klimaatverandering, je mist het punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je mag het misschien niet hard opzeggen maar er zijn gewoon te veel mensen op deze planeet\nDus is het erg dat mensen veel al oudere en zwakkere sterven. Tis vreselijk dat het gebeurd, maar voor de overbevolking is het misschien wel goed. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat ze een punt heeft. Media berichten erover, maar in verhouding te weinig urgent. Dat is, denk ik, waarom de politiek nog steeds wegkomt met ontoereikend beleid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je eens kijkt op de website van TerraPower:\n\n\n\nKun je lezen dat het een goede aanvulling is op wind en zonne-energie. Dus niet “of” maar “en”…\n\n“As more renewables are integrated into the grid, the demand for energy storage will continue to increase.” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klopt ook.\n\nMaar de politiek wordt weldegelijk in belangrijke mate gedreven en gestuurd door wat er in de pers verschijnt.\n\n(het geeft maar weer eens aan hoe belangrijk de pers is) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn kinderen zijn gewoon voor kerncentrales. Want ze willen gewoon minder CO2. Simpel toch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Halvering van de veestapel komt er niet net zoals dat KLM dat bij haar vloot doet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet wel beter… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je het IPCC rapport gelezen hebt weet je dat die wetenschappers helemaal niets zeggen over klimaatalarm. Maar als ideologie en activisme hand in hand gaan wil je dat niet horen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja je blijft er om lachen om die dwazen 😂😂😂 van de zomer word het helemaal lachen als de zon schijnt in juli en augustus dat kan niet 😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd. Maar niet het overheersende volk. Dat zijn de moslims.\nKleinkinderen = hoofddoek verplicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U moest eens weten! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duh, dat ging over jou... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als je mijn uitleg al niet snapt....snap ik wel dat jij meegaat in die Woke nonsense die jullie linkse droeftoeters verkondigen:) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

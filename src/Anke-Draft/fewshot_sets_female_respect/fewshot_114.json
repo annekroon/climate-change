@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat is nou juist de vergissing. Natuurlijk hoeven we niet terug naar de Middeleeuwen. Dat wil niemand. Maar die totaal uit de hand gelopen consumptieverslaving draagt ook niet echt bij aan levensgeluk lijkt mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De oplossing is: Grenzen helemaal dicht voor immigranten. Per direct 0 immigranten meer binnen laten. De puinhopen van afgelopen deccenia immigratiebeleid opruimen. En dan een nieuw immigratiebeleid starten waar uiteraard plaats is voor hulpbehoevenden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je precies een scheiding kan trekken zoals \"in de afgelopen 5 jaar\" dan is er iets dat zorgt dat dit opvalt. Als dat niet een media hype is dan is er een invloedrijk proces. Vaak door mensen uitgevoerd. Dat is ook belangrijk te ontdekken.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom. Dit is NPO. Buitenhof. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Dat klopt. Denk je dat ik dat zelf ook niet bedacht had? En mag er daarom nergens anders meer debat of discussie over zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan lijkt t me verstandig om niks meer uit te geven aan klimaat en een verhuispot naar Noors (gas/olie) model te gaan maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze zijn toch helemaal hartstikke van de zotte.\nNormaal is abnormaal en abnormaal is normaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat men vaak zegt \"het spul is allang uit m'n lichaam en ik ben er nog\".\nJa, kan (wat t spul ook is), maar dat spul kan veranderingen hebben aangebracht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Marc, hoe is dit relevant? Je kunt niet zeggen per jaar, omdat het klimaat het gemiddelde is van het weer over een periode van 30 jaar. De getallen zeggen bar weinig.\nDe gemiddelde temperatuur van decennium 2010 - 2020 lag gemiddelde 0,82 graden hoger dan de 20e eeuw.[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Middeleeuwse ‘techniek’, maar ‘oertijd’ geeft t ook goed weer! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hun weer programma gaat met horten en stoten zullen we maar zeggen 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat heb ik geen moment beweert meneer van Ligten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2026 pas? En ondertussen laat de gemeente Purmerend op grote schaal bossen kappen in Estland voor hun \"biomassa\"? Het is pure greenwashing. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zijn we iig heul ver + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

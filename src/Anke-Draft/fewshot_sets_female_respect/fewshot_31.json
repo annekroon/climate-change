@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als je zelfs de discussie niet hebt onthouden en meent op deze toon een gesprek te moeten voeren, ben je bij mij aan het verkeerde adres. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, mijn ouders ook hoor. Maar toen wisten ze niet beter en waren tijden totaal anders. Toen gingen mensen niet (allemaal)studeren bv. Anno 2021 je leeft op het minimum en dan 6 kinderen. Er heerst een taboe op, maar een kerk synagoge of moskee zou kunnen zeggen: niet ‘handig’ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zal best iets aan de hand zijn. Maar de rest is allemaal morele chantage en hysterie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik geloof het ook niet. Kost miljarden die ongein. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, verhaalspinnen zijn ze absoluut goed in! Net nog even keihard lopen lachen met m'n broertje om alle onzin 🤣 En eens hoor, kan er beter keihard om lachen, anders word je er alleen humeurig van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en die terugkoppelingen zijn juist het probleem. Het zijn meekoppelingen. De onzekerheid daarover is niet onze vriend. Het onomkeerbaar warmte en bepaalde moleculen in de atmosfeer en de oceanen brengen kan en mag niet. Dat is al in 1990 vastgesteld. IPPC FAR. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je mag het misschien niet hard opzeggen maar er zijn gewoon te veel mensen op deze planeet\nDus is het erg dat mensen veel al oudere en zwakkere sterven. Tis vreselijk dat het gebeurd, maar voor de overbevolking is het misschien wel goed. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De afgelopen 2000 jaar zijn er 3 grote temperatuur veranderingen geweest. 170 jaar geleden eindigde een kleine ijstijd.\n\nEn exact het einde van die kleine ijstijd (1850) is het ijkpunt voor het klimaatakkoord van Parijs + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ook. Tegenwoordig vind ik het klein 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij bent me net voor wat betreft de verwarming 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee het is dom. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik beschouw iedere persoonlijke keuze voor afvalligheid als een overlijdensbericht van de persoonlijke god van de afvallige in kwestie. Ik heb niet al die overlijdensberichten zelf ontvangen en ingezien. Daarvoor zijn er natuurlijk al veel te veel goden ten grave gedragen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus u spreekt u eigen tegen met te zeggen dat zij weten wat er moet gebeuren en dus gelijk hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

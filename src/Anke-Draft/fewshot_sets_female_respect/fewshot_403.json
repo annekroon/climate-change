@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik weer gelachen, ook weer geleefd 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De oplossing is: Grenzen helemaal dicht voor immigranten. Per direct 0 immigranten meer binnen laten. De puinhopen van afgelopen deccenia immigratiebeleid opruimen. En dan een nieuw immigratiebeleid starten waar uiteraard plaats is voor hulpbehoevenden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja China, Brazilië, India enz moeten hard aan de slag om vervuiling terug te dringen. Daar valt de grootste winst te halen.  En de middelen die wij hier laten verkwisten door de millieumafia kunnen efficiënter worden ingezet met meer winst voor infra, milieu en mensen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus ze zijn er altijd en geen extra voorraad. 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niets doen kost op termijn veel meer. Als we de zeespiegelstijging binnen de perken kunnen houden met maatregelen nu, voorkomen we in de toekomst Amersfoort aan Zee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want er mag niet gewezen worden op de gevaren van klimaatverandering die iedereen vroeg of laat treft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De #WEF-bijeenkomst is al lang achter de rug.Links komt nog steeds op voor de zwakkeren. Alleen de arbeiders stemmen nu bijna allemaal rechts. Waarom 🤷‍♂️? Ze zijn oerconservatief; alles moet blijven zoals het was. Weg met die buitenlanders. Ikke ikke en de rest…. Solidariteit 🤷‍♂️? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Grafiekje lezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Amerika is dat inderdaad bij elke sneeuwbui een hype, maar ook daar is het niet waar - zie stuk (daar neutraal, in EU juist sterkere jet): \nAllemaal uitsluitend winter. Dat meanderen is in de zomer wél een verhaal (maar óók onzeker/cutting edge) ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met enorme druk op beesten in intensieve veeteelt waardoor ziekten vrij spel hebben... Maar ja we willen goedkoop vlees blijven eten + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "jij reageert op een tweet van mij van een week terug, vond het dus blijkbaar nodig om bij gebrek aan reactie op je laatste tweet mij op te zoeken, mijn tweets door te gaan, om te kijken of je ergens een snedige opmerking kon maken.\nen dan zeg je dat ík het druk heb met jóu? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De veehouderij ís al jarenlang de zondebok. Van verlies aan natuur, biodiversiteit, vervuiling van lucht en water. Dat ontkennen en naar anderen wijzen is je kop in het zand steken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Elders kan niet. Zee is al vol. Dus: ja. Dat ontkennen is jezelf voor de gek houden. Er is geen keuze. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wegkijker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hel en verdoemenis.    U klinkt als de man die ieder dorp vroeger had en die hel en verdoemenis predikte.   \n\nDe tijd is lang niet op. Leef niet zo in angst en zuurheid maar zorg dat je tijdens je feite reis die het leven is verantwoording ook weet te koppelen aan levensvreugde + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

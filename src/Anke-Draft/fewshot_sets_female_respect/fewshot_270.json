@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Een vraag die niet geste ld msg weorden . Wat is de invloed van de bevolkingsgroep van 3 miljoen inwoners als gevolg van migratie ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom zou er geen draagvlak zijn om bv collectief huizen energiezuinig en klimaatproof te maken (wijk per wijk met subsidies) of geen draagvlak voor massale investering in hernieuwbare energie of openbaar vervoer of grondstofrecyclage 1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bedoel je daarmee + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dát snap ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat bedoel je met dit? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je de eerste categorie( ernst , omvang en snelheid klimaatverandering afwijst ) dan word het al heel lastig. En daar heeft de beste man de afgelopen jaren heel erg zijn best voor gedaan. Ook geen specialist overigens ( En M Dekker al helemaal niet) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je alles volplempt met tegels, ontvolg ik je. Pas dus maar op. 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke feiten ontken ik dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gaat niet over boeren, maar over je claim dat er geen opwarming is maar 'klimaathysterie'. Ook al onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker. En anders exporteren we dat spul naar Afrika. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig vraagt de vreselijke over de top klimaat hysterie in NL geen opofferingen. 👋👋👋 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Volgens mij staat er in dat artikel van jou letterlijk: “ Heftige extremen volgen elkaar sneller op”. Ik zeg niet dat die ellende vorige week door klimaatverandering is veroorzaakt, ik gebruik het woord hoogstwaarschijnlijk. Jullie willen daar niet eens over na denken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja je blijft er om lachen om die dwazen 😂😂😂 van de zomer word het helemaal lachen als de zon schijnt in juli en augustus dat kan niet 😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

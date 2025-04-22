@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "BTW, mijn dochter en ik hebben gewonnen bij de rechter :d + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh, nu snap ik het... ik had alleen die teletekst gezien.\nSterkte, Anton + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja die plannen zijn er. Geen goede zaak. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "‘In uw eigen woonomgeving’ scoorde maar bij 21% van de respondenten JA. \n‘In uw achtertuin’ had vast nog een stuk lager gescoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alleen inpoldering met een Europese Kustboog als  helpt voeten droog houden. Verhuizen is de tweede keus ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is echt niet voor het eerst dat de waterstand zo laag is. Lees maar eens, uit 1846:\nOok overstromingen zijn van alle tijden.\nDe Maas bereikte de hoogste stand ooit in 1643. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Deze types zijn de slapste politiek correcte domme mensen die ik ken. Zij gaan als eerste geofferd worden door het systeem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je de eerste categorie( ernst , omvang en snelheid klimaatverandering afwijst ) dan word het al heel lastig. En daar heeft de beste man de afgelopen jaren heel erg zijn best voor gedaan. Ook geen specialist overigens ( En M Dekker al helemaal niet) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen probleem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We willen er soms van maken wat er het best in ons kraam past, anders gebruikten we de namen klimato’s en wappies niet, pas op, bibi pleit ook schuldig hoor! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je moet leren grafieken te lezen. 🙄Er staat niet gemiddelde. Er staat historisch max. \nIk heb het nog wel speciaal ge-highlight zodat dat duidelijk is. 🙄\nIk snap nu waarom je zulke rare denkbeelden hebt. Je hebt moeite met informatie correct op te nemen en te begrijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Over hypocrisie gesproken. #klimaatverandering ontkennen, maar wel gered willen worden 🙃👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bullshit + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jullie nog banen zoeken. Er ligt nog een berg kerstboom afval en een stuk gereden stoep bij mij om de hoek( Volendamlaan)Doe daar eerst wat aan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik bespeur nog steeds geen (begin van een) oplossing. Gewoon maar niks doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke maar mag ik je pensioen hebben dan? Aangezien het eng links geld is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

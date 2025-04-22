@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als het nodig is, bent u de eerste die het hoort :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een dag niet gezeurd is een dag niet geleefd.😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "en het is idd veelomvattend en complex. Zelfs de klimaatveranderingsscenarios zijn niet eenduidig. Al blijven we t onacceptabel vinden als we Parijs niet halen, want 3° opwarming levert nog veel meer natuurschade op.\nEcht heel moeilijke dilemma's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar zal nu opmars gaan maken. Met alleen windm en zon redden we het niet. Laat staan als we biomassa hout niet gaan meerekenen. Dan valt het hele klimaatplan door de grond. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Écht Michel? Dus als die natuur - inderdaad door andere oorzaken - al in zeer slechte staat verkeert, dan moet je die niet ontzien en gewoon verder aantasten? Want die molens moeten per se op die 15% van ons landoppervlak in plaats van elders? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is beschamend dat het zo moet. Maar als het moet dan moet het. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "dus, Jos, iedereen die klimaatverandering een slechte zaak vindt, en pleit voor maatregelen, is links? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "je herhaalt jezelf. De quote zelf verzonnen?  Klimaatverandering = steeds vaker extreem weer. Is niet heel ingewikkeld toch? Slaap lekker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou nou. We gaan hard. Nu stikstof nog, en dan de rest. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "stuur dan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De mens is pas  +/- 10.000 jaar vee gaan houden, dus dat lijkt me sterk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat bedoel ik ! Het zijn wel watjes  tegenwoordig  🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja je blijft er om lachen om die dwazen 😂😂😂 van de zomer word het helemaal lachen als de zon schijnt in juli en augustus dat kan niet 😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, want het is enkel in België dat de problemen zijn 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent zelf slecht geïnformeerd. Ze willen nederland volzetten met asieleisers. Internationale experts zeggen zelf dat Nederland onverantwoord bezig is. Nederland is een belangrijke speler in de internationale voedselmarkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

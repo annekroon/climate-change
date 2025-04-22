@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat is me niet met de paplepel ingegoten. Sterker nog, ik geloofde zelf niet in klimaatverandering. Heb eerst beide kanten goed uitgezocht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is maar net wat je wil lezen, ik lees ook dat op 2 uur afstand van werk, familie en vrienden gaan wonen ook niet echt een optie is. Overheid zou ook regels kunnen maken die verzekeraars en hypotheekverstrekkers verplicht hun diensten aan te bieden bij binnendijkse woningen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Voorheen was Enkhuizen ook meer een SGP/CU gemeente.. daar hoor je nu weinig meer van. Met het verdwijnen van de visserij verdween dit ook uit Enkhuizen. Bij de laatste Gemeenteraadsverkiezingen 5.9% van de stemmen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik geloof het ook niet. Kost miljarden die ongein. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het geheel niet. Het is vrij onwetenschappelijk om een ramp te koppelen aan klimaatverandering zuiver omdat de voorspelling is dat bij klimaatverandering meer extreem weer verwacht wordt en dit een voorbeeld is van extreem weer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onder meteorologen leeft het idee dat er ondanks klimaatverandering nog wel ooit het weer voor een  zal komen.\nMaar dan toch geen tocht, want NL kan de verwachte opkomst niet aan. En ijs te dun ervoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee dat denk ik ook, maar het begint ook wel een heel serieus probleem te worden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar ja als je drugs neemt en je gaat dood betekend dat niet dat de drugs de oorzaak is maar het helpt wel... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is een kwestie van perspectief. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Geurt, heb ik ergens benoemd dat er nog onopgehelderde mechanismen zitten in het klimaat? Néé, het gaat hier louter om een belangrijk vastgesteld verband tussen klimaatverandering en zware regenval met alle gevolgen van dien. U weet dat dit verband wat door mij geponeerd[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U poneert een stelling waarin U de Gold Rush in verband breng met klimaatverandering. Dit is holle retoriek en mist onderbouwing. U kunt niets bewijzen en uw reacties demonstreren Uw onkunde in deze materie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik wil een palmboom.  😔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook als je denkt dat de klimaatopwarming niks te maken heeft met de mens, ben je m.i. niet goed wijs als je de klimaatopwarming zelf zou willen ontkennen, met al die weersextremen van tegenwoordig (ook in Australië).\nMaar het begrip klimaatvluchteling zegt jou zeker ook niks hè. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus?\n\nPersonen zoals jij en degene die het artikel geplaatst heeft zijn oplichters! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

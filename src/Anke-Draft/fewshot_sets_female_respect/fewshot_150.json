@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Aan de andere kant zit dan nog het IJsselmeer. :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als ons land over 50 jr gerund wordt door migranten en hun nazaten die niet snappen dat droog over straat lopen hier niet vanzelf spreekt, zie ik dat nog wel gebeuren.\nDijken en waterschap niet onderhouden, ik denk dat het dan heel rap gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt het niet begrepen Martin.\n\nDenk jij het beter te weten dan de tientallen wetenschappers van het IPCC, onderdeel van de VN?\n\nDan moet je met betere inhoud komen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wrijf maar weer in die wonde van me 😩 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Men riep hier jaren te schreeuwen over 'global warming' tot de strenge winters kwamen. Toen werd het ineens 'klimaatverandering'. Het mooie van dat laatste is, is het een warme dag, het komt door klimaatverandering. Is het een koude dag, het komt door klimaatverandering. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom heffen die landen zoveel belasting? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De zondvloed komt er niet weer volgens de Bijbel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klopt ook.\n\nMaar de politiek wordt weldegelijk in belangrijke mate gedreven en gestuurd door wat er in de pers verschijnt.\n\n(het geeft maar weer eens aan hoe belangrijk de pers is) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alles is te vinden op de site van IPCC. Daar ook expert reviewers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ben wel blij dat je mijn drankgebruik nog niet kan monitoren, kan ik tenminste met een gerust hart in de auto stappen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja als je genoegen neemt met basisschool redenatie. Helaas zo zit de wereld niet in elkaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toen dacht je ook al dat CO2 uit hout iets anders is dan CO2 uit steenkool. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Stikstofuitstoot. Niet de CO2. Start eens met het lezen van mijn artikel. Dat helpt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "en plots is een zak geld en volop mogelijkheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Het is ongelooflijk duidelijk door naar de grafiek te kijken\"\nEn vervolgens met een alarmistisch, misleidend krantenartikel op de proppen komen dat kant nog wal raakt.\nHet is 3 dagen zeer warm geweest in het VK, ja. Is dat te wijten aan CO2? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

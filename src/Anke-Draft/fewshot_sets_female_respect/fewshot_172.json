@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "da's pas bij 25. Boven de 23.9 geen wetsuit meer aan dus eigenlijk is dat ook wel de grens dus + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, hij ook niet. Het gaat om de optelling van uitschieters. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uw vorige tweet is een voorbeeld van hoe het makkelijker is om over 'feiten' te discussiëren, dan direct over persoonlijke motivatie voor eigen keuzes te beginnen. Uw tweede zet dat recht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah. Ik heb het nog niet gelezen. Maar ik weet wel dat het klimaat niet ophoudt aan de grens. Het is onzinnig hier iets minimaals te doen terwijl in Azië het duizendvoudige extra uitgestoten wordt. Daar gaan we op leeglopen. Minimaal 5 wijze mannen zijn het met me eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] En voor als U denkt: \"mwoah, dat valt toch wel mee?!\" Ja, louter op basis van dit getal lijkt het mee te vallen. Terwijl het on werkelijkheid niet zo is. Ik kan U van alles vertellen, maar ik raad U aan dit artikel te lezen: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ken je de onderzoeken van ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tempo T stijging 1910-1945 is ongeveer zoals T 1975-2020. Ook werd er vroeger gemeten in de natuur. Nu is dat soms stad geworden.  \nBeter perspectief om b.v. T over duizenden jaren te bekijken: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke « Klimaatverandering » ? We kregen er hoop en al 1 graad bij in de afgelopen 142 jaar…en NIET gecorrigeerd voor het UHI Er is ook NUL correlatie tussen CO2 niveaus en zeespiegel stijging, ik herhaal NUL. Komt niet in de subsidie kranten. Ja, die kregen 867 miljoen € in 22 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh nee een magazine had het verkeerd dan hebben de wetenschappers die ons al decennia waarschuwen het ook mis.  Hier is ook een magazine die je misschien interessant gaat vinden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een doomgedachte dat de economie kapot zou gaan aan klimaatmaatregelen. Nieuwe banen gaan ontstaan en werkgelegenheid genoeg. Dat het anders gaat zijn klopt maar dat is ook wat moet. Nooit rommel kopen of produceren. Nergens. Koop kringloop/recycle/ruil waar kan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En op welke planeet woon jij? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die is van augustus 2019. Of vind je die fake? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je het IPCC rapport gelezen hebt weet je dat die wetenschappers helemaal niets zeggen over klimaatalarm. Maar als ideologie en activisme hand in hand gaan wil je dat niet horen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt wel een stoïcijn ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Enig spoor van argumentatie ontbreekt volledig in jou tweet over #klimaatGEKTE . Dat past in een lange traditie van randdebielen op het internet die denken dat ze met capslock hun standpunt kracht bij te zetten. Terwijl ze gewoon geen idee hebben van wat er speelt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt eenvoudig uitrekenen dat het verbranden van biomassa meer dan tweemaal zoveel CO2 oplevert dan het verbranden van aardgas. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

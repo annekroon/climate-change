@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "in theorie dus... 1 op 5 van de mensen die ik ken. \n\nDas best eng. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou nee hoor...vluchtelingen zijn onderweg vanwege oorlog en armoede...en dan nog met name....omdat ze tegenwoordig wel een Iphone hebben en zien hoe het bij ons is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] En voor als U denkt: \"mwoah, dat valt toch wel mee?!\" Ja, louter op basis van dit getal lijkt het mee te vallen. Terwijl het on werkelijkheid niet zo is. Ik kan U van alles vertellen, maar ik raad U aan dit artikel te lezen: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bezoeken Hans. Daar komen de berichten in naar voor van klimaatsceptici die je niet in de MSM tegenkomt. Voor de duidelijkheid. Ik ben ervoor dat we het klimaat beschermen, eerder nog het milieu. Maar de gekte waarmee het verkocht wordt, vind ik abject. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Margraten plakten ze tegels aan de wanden van de huiskamer. Die liep namelijk elk jaar onder. Soms 1 meter, soms 50 cm, soms 1,5 meter afhankelijk van de ligging van je huis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Shit, heb net een duur gasfornuis gekocht, zit er geen gasaansluiting in mijn huis. Doen die dingen het ook op een blikje campinggaz? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ja en de pauw is blauw + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die was niet gericht naar u, hoor! Maar op de reacties op de tweet. Anders had ik u wel weer gequote tweet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "140.000jaar geleden hadden we de laatste ijstijd. Heb je die nog meegemaakt? Think so... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goede vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kun je ook uitleggen wat er totalitair is aan duurzame energie, of roep je maar wat?\nEn verwar jij wetenschap niet met geloof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Elders kan niet. Zee is al vol. Dus: ja. Dat ontkennen is jezelf voor de gek houden. Er is geen keuze. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Deze, lieverd, waar je je eigen domme tweet aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die is van augustus 2019. Of vind je die fake? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "“Dream on”\n\nLeg het mij eens uit… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Uw tekeningen zijn meesterlijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We houden vertrouwen. 🙏😍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik kan me niet herinneren dat ik ooit in augustus kachel aan had, dan nu + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "kwam dat niet vorig jaar al uit? dan is het een beetje vreemd om het nu nog in een krant te bespreken + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We zitten in een wereldeconomie, ook betreffende producten. CO2 prijs is in EU al een factor 10 hoger als in sommige andere landen. Dus kunst is evenwicht te vinden. Tenslotte is hele EU bijdrage maar 11% van wereldwijde uitstoot. Krimpende bevolking en minder vraag helpt meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat heet loslaten waar je geen invloed op hebt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vond het IJsselmeer al zo spannend als 'zee'verkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Werkt de link niet of staat er nog te veel naar je zin over andere dingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En wellicht ongewild geef je een mooi voorbeeld van wat ik wil zeggen. 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spannend! 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "die Leonardo ook met z'n fratsen ;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en u met uw Geestelijke Gezondheids Zorg. Wat wilt u nu precies bewijzen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind jij! Dus subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat heb ik geen moment beweert meneer van Ligten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik doe helemaal niets, ik geef alleen aan wat de wetenschap zegt, jij bent de ontkenner niet ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, nogmaals: voer daar eens deugdelijke argumenten voor aan? In plaats van te beweren dat alles ‘gewoon’ onzin is. Er is namelijk meer dan genoeg bewijs voor de (negatieve effecten van) klimaatverandering. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

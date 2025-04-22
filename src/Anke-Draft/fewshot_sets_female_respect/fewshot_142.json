@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt mij een vriendelijke strijder. Net als ik ben. We verschillen van, tja ik noem het toch nog maar even mening maar op deze manier kunnen we er komen. Ik ken de boeken nog niet maar ik sta altijd open voor nieuwe inzichten. Bedankt voor de kennis. Succes met je strijd🥦🥊 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "3. Klimaatwetenschappers hebben ontdekt dat de droogte op verschillende delen in de wereld verbonden zijn aan klimaatverandering: \n\n4. Diezelfde groep heeft vastgesteld dat het uitzonderlijke koude voorjaar ook verband houdt met klimaatverandering: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De eerste nachtvorst was geen record. Ik hoop dat er dit jaar zeker ook een ander record gaat komen. Extreem winterweer met vorst, sneeuw en ijspret + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah:\n\n* Sceptisch over klimaatverandering en klimaatbeleid\n* Opmerking over (werk)ambitie vrouwen seksistisch?\n* Geen Poetin-liefde, genuanceerde conflict-benadering\n* Geen massa-immigratie uit met name Afrika\n* WEF-plannen een complot?\n* Linkse partijen niet populistisch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De mens is een significante factor geworden op planetaire schaal, een positie die deze nog nooit heeft gehad. De planeet zonder de mens is puur een theoretisch concept geworden. #Antropoceen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je in je eerste reactie zegt dat klimaatveranderingen van alle tijden zijn. Dan lees ik tussen de regels dat je niet erkent dat de recente opwarming door toedoen van de mens komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand beweert dat elektrisch gaan fietsen alles zal oplossen, dus gelieve mij dat ook niet in de mond te leggen aub. Maar daar wat meer de nadruk opleggen, zoals Dirk en ik wel eens plegen te doen moet kunnen. We kunnen echt wel met minder auto's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, dat zeg ik niet, maar het blijkt wel dat de PvdD en GL vaak hetzelfde stemmen bijvoorbeeld. In ieder geval links stemgedrag dan van de PvdD. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En daar gaat het dus mis. We hebben én geen keus, én geen tijd meer als het om klimaat gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat is je punt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 Ik ben geen VB’er maar begin er steeds meer sympathie voor te krijgen, maar deze hittegolven geen gevolg van klimaatverandering, maar gewoon van weerfenomenen 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Om jou te redden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb hem echt wel gezien hoor. Maar ik vond het vrij eenzijdig en gedateerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij wilt dat ook niet verder onderzoeken. Dàt is het verschil; je staat totaal niet open voor andere interpretaties. Bang dat jouw vastgeroeste wereldje waar nièts mag veranderen in gevaar komt. Je ontkent domweg dat er iets bijzonders gebeurd is en stopt  je kop in het zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Schrijven zonder te roken is in mijn geval ondenkbaar ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

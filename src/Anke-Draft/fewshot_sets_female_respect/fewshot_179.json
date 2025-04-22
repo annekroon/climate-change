@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Bijna elke vrand is aangestoken door pyromanen/criminelen. Alleen het wordt verkocht als gevolg van klimaatverandering, en dat is gewoon onjuist. Dat is het punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat maak je al wel mee maar je ziet het niet... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, het klimaat veranderde ook al in de prehistorie, telkens de samenstelling van de atmosfeer veranderde. Tegenwoordig zorgen menselijke activiteiten voor een andere samenstelling van de atmosfeer (meer CO2) niet vreemd dus dat het klimaat ook deze keer verandert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je zoekt naar jargon om ontkenners om te turnen… is dit wel een richting( domme gokkers die alles verliezen omdat ze blijven doorspelen #againsttheodds + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat van dat 5000 jaar geleden klopt vast, maar mensen waren toen ook ietwat flexibeler qua verkassen als de boel ergens wat minder bewoonbaar werd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus jij gelooft in de opwarming van de aarde door de mensheid? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Yup 😊 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat hebben we toch maar weer ffkes goed gedaan als mensheid hè?! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh nee een magazine had het verkeerd dan hebben de wetenschappers die ons al decennia waarschuwen het ook mis.  Hier is ook een magazine die je misschien interessant gaat vinden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat is wereldwijd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jij onbelast vliegen voor een paar duppies terwijl een grote klimaatcrisis eraan komt niet absurd vindt.... Dat is pas speciaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoezo zelf gemaakt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zou het niet anders uitgelegd hebben. Is wat gemakkelijker om een link door te sturen waarin hetzelfde staat wat ik in mijn eigen woorden zou zeggen. Denk ook aan de 280 karakters. Roepen? Doe ik niet hoor. Ik onderbouw met peer reviewed artikels. Fijne dag verder 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

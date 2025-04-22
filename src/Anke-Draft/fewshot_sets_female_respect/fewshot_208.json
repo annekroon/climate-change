@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "GL?? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Overigens een leesbaar boek dat mij heeft laten nadenken. En denken, ontdekken en meningsvorming is altijd prettig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo verontrustend.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben van mening dat de Politici en journalisten over het algemeen weinig kritisch zijn over de CAGW-hypothese en die ten onrechte als bewezen aanvaarden. Daarbij vergeleken is dat kleine beetje tegengas van bijna 20 jaar geleden peanuts. \nOok nog niet met waarnemingen ontkracht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[3/3] In mijn draadjes leg ik uit hoe wat de achtergrond is van bepaalde conclusies die de klimaatwetenschap en/of de natuurkunde ons leert over klimaatverandering en ik leg bepaalde natuurkundige processen uit zodat mensen ook daadwerkelijk gaan begrijpen hoe het werkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je moet geen concessies doen aan de boeren, simpelweg omdat het beleid het juiste beleid is.\nMaar het recht te protesteren is en blijft een groot goed.\nEn als de overlast te groot wordt: tractoren confisqueren + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn die doorrekeningen ergens openbaar? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klopt ja. Uiteindelijk gaan we allemaal wel naar de chalemiezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ja, dat zal zo zijn. ik zit ook een beetje te geinen he ;-) goeie buikschuiver maakt 'ie wel daarna! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat flauw, gasmeter is nog niet angesloten op het ww-web, doe daar eens wat aan Jetten ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat u kunt vliegen bent u wetenschapper op dat gebied en hebt u verstand van klimaatontwikkeling?\nKom nou toch... Dit is het niveau van Meeus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat u kunt aangeven wat u bent, siert u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DE MAN IS ECHT EEN AAN EEN AANSTORMWAAING + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U verwart het weer van vandaag met het klimaat, klimaat is gemiddeld weer in de loop der tijd, moeilijk hè? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Heb niet de audacity om te doen alsof ik een expert ben en anderen ‘een joke’ te noemen, maar informeer jezelf eventjes 😚 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ook bij jou is er iets mis gegaan tijdens de geboorte + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

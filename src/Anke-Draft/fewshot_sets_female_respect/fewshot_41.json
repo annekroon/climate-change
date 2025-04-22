@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Link werkt niet bij mij, apparaat ondersteund wat u gestuurd heeft niet. Dan maar een foto ervan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Roken goed en gezond 🤝 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heij Bas. Niet zo pessimistisch! De mens heeft zich ontwikkeld in het interbellum tussen de laatste en de komende ijstijd. Klimaat is geen lineair proces maar volgt zoals alles in de natuur een S curve. Iets stoppen kan niet, hoogsten manipuleren. Veel succes met Max! ( F1) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een soort Covid19 scenario, maar dan anders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "tsja, ik weet niet wat jij met je browsers en computers doet. \nMaar goed, als je het niet lukt dat bestand te openen kun je altijd nog gewoon verschillende nieuws sites er op na lezen, bijv. de volgende: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg jij mij eens in je eigen woorden uit hoe volgens jou dat Greenhouse Effect werkt !!\n\nIk ben benieuwd !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is maar net wat je wil lezen, ik lees ook dat op 2 uur afstand van werk, familie en vrienden gaan wonen ook niet echt een optie is. Overheid zou ook regels kunnen maken die verzekeraars en hypotheekverstrekkers verplicht hun diensten aan te bieden bij binnendijkse woningen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en…\n\nMoeder aarde doet 1 uitbarsting en 1000 miljard gaat in rook op.\n\nJe kunt haar niet stoppen… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar is uw bewijs van het tegendeel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uitdagingen is het goede woord, dus ook oplossingen, maar dan moet je wel verder willen kijken dan je neus lang is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DE MAN IS ECHT EEN AAN EEN AANSTORMWAAING + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U poneert een stelling waarin U de Gold Rush in verband breng met klimaatverandering. Dit is holle retoriek en mist onderbouwing. U kunt niets bewijzen en uw reacties demonstreren Uw onkunde in deze materie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Maar dat is voor jou heel moeilijk voor te stellen als je alleen geïntereseerd bent in Nederland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Klimaatverandering raakt nu al 85% van de wereldbevolking\".\nAlbert: wellicht behoor jij tot de laatste 15% 😳 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

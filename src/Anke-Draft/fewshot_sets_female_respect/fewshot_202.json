@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Je kan hem niet belasten op de waarde van z'n aandelen natuurlijk... maar wel als ie ze verkoopt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe wordt dat dan vormgegeven. Komt dat ook in de app? Moet iemand nog een goedkeuring geven? Kun je zelf je prijs bepalen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is ongelooflijk duidelijk door naar de grafiek te kijken dat deze niet achterblijft.  De omstandigheden waar we onze infrastructuur omheen hebben gebouwd en waaraan we ons hebben aangepast, zijn het beste. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja het wordt steeds kouder.\nHoe kan dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan worden het openbare stukken en kunnen we ze narekenen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou ik graag eens lezen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pfff….zoveel. Boeken, televisie, publicaties van instanties, podcasts, informatie via de werkgever. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben het daar ook wel mee eens en heb ook geen twijfels bij klimaatverandering ofzo. Maar het gaat hier wel echt om 1 uitschieter die op zichzelf niets bewijst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wow. Ga het artikel lezen, dank voor het attenderen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De overstroming is een resultaat van iets dat natuurlijk kan gebeuren. Klimaat zal de frequentie ervan verhogen maar de gebeurtenis zelf had net zo goed kunnen gebeuren als er geen klimaatprobleem zou zijn. Daarom is het geen schoolvoorbeeld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is precies de denkfout: een 'hogere opbrengst', veelal bulkproductie, betekent niet een betere (bodem)conditie, integendeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Van alle tijden. Zelfs(!) het IPCC geeft aan dat er geen enkele reden is om extremer weer te verwachten. Verschil met 'vroeger' is dat er op elke vierkante meter wel iemand staat re filmen en de MSM het gretig optekenen. Hapklare brokken voor alarmisten als jij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hè flikker nou toch op met die hashtags alsjeblieft. Lagere schoolniveau. Laten we van elkaar leren. Je hebt wel een punt wat betreft China’s verwezenlijking van Europa’s groene dromen, maar ik denk dat we veel beter af zijn -zonder afhankelijk te zijn van China- door te + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik steek geen tijd in onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waaruit blijkt dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

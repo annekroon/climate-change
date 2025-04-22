@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dichtbij woongebied wel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er wordt niet meer vervuild als vroeger, alle motoren en machines zijn veel schoner geworden. Dus liever geld naarvde Nederlandse industrie. Geld aan milieu en klimaat uitgeven is geld weggooien. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "stuur dan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het gaat om de snelheid waarmee het nu overal gebeurt.  Maar laat maar. Hierover worden wij het echt nooit eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Toevallig kwam dit filmpje voorbij hier, is uit 2009. Nederlands. Echt heel verhelderend. 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren maken grondwater/drinkwater in de eigen omgeving. Het regent, sneeuwd minder, nomadenleven werkt niet, teveel volk op 1 plek. Wij hebben degelijk schuld aan versnelde klimaat verandering, bos kappen betekend hitte op de grond uitdroging en geen regen circulatie t plaatse + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zie geen bronnen? Als je iets zodanig belangrijk vind, dan kun je dat toch wel onderbouwen Wouter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "weet je ook de oorzaak daar van heeft nl niets te maken met stijging,wel Harlingen bv met ontwatering en zoutwinning Neem Den Helder het enige zuivere reverentie punt in NL.Overbevolking en bebouwing op niet geschikte plaatsen is vaak 95 % de oorzaak van verzilting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Foto's zijn mooi maar meneer Joost reageert op mij en dat staat hem vrij silv026 maar ik denk dat Joost wel voor zichzelf kan spreken heeft hij u niet voor nodig overigens u heeft ook het recht om door te scrollen ik reageer slechts op uw en joost zijn commentaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, want het is enkel in België dat de problemen zijn 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De planeet don’t care. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En de meter slaat een stuk sneller uit dan de natuur in de 22.000 jaar hiervoor voor elkaar heeft gekregen. Dan nog steeds negeren dat er meer aan de hand is is nogal naïef. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "“Dream on”\n\nLeg het mij eens uit… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bagger onzin, weet je waar een tekort aan is: mensen die nadenken, het is gewoon een mooie zomer! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

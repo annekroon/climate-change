@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik ben ooit links begonnen en daarna opgeschoven, maar eerlijk gezegd zou ik het nu niet meer weten. In de huidige regering heb ik nul vertrouwen, geloof ik sinds corona niet meer in, wat een stelletje incapabele lieden daar! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk Tom, je becommentarieert het nu al als een gekte.\nDe bijdrage van de investeringen,trouwens volstrekt niet de 1.000 miljard van Baudet moet je ook vertalen in een grotere beheersbaarheid van het klimaat en een push voor innovatie en onze economie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Verdienmodel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zal best iets aan de hand zijn. Maar de rest is allemaal morele chantage en hysterie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zegt alsnog helemaal niks, maar oké kerel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snap de context prima maar stukjes als \"laat zien dat de aarde opwarmt\" zijn gewoon niet handig. Een incident laat niets zien ook al volgt het een patroon: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een deel van het Markermeer zijn de Marker Wadden (natuurgebied) geworden. Dat levert voor veel vogels en andere dieren een uitstekende broed- schuilplaats op.\nDat is ook niet in een weekje gerealiseerd. ;-)\nHetzelfde kan je doen met bomen denk ik in het resterende deel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dit is echt niet voor het eerst dat de waterstand zo laag is. Lees maar eens, uit 1846:\nOok overstromingen zijn van alle tijden.\nDe Maas bereikte de hoogste stand ooit in 1643. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alsof je niet delen van het rapport door verschillende mensen kan laten peer reviewen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat was uw punt ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "o ja dan moet zij jou niet alle schuld geven he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "... maar roepen om een verhoging van het minimumloon met 40 procent klinkt alsof ze totaal geen benul hebben van waar het (soc.econ) om gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je moet leren grafieken te lezen. 🙄Er staat niet gemiddelde. Er staat historisch max. \nIk heb het nog wel speciaal ge-highlight zodat dat duidelijk is. 🙄\nIk snap nu waarom je zulke rare denkbeelden hebt. Je hebt moeite met informatie correct op te nemen en te begrijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn idd nog nooit overstromingen geweest of natuurrampen...  iemand die dit recupereert vanwege klimaat moest zich schamen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

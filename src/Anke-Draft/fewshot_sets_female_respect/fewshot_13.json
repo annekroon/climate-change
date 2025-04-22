@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ach .... zie Schiphol. De deugers, de hypocrieten. De biomassacentrales, de houtstokers. Gas is overigens het goud onder de  fossiele brandstoffen, aldus Rutte. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of een Elim. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is goed nieuws!\nGefeliciteerd!\nEn tegelijk verdrietig - dat deze weg nodig was + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat er mensen zijn,  en dat het klimaat veranderd zijn twee feiten... \n\nDe invloed van de mens (en zeker van ons hier in Nederland) is miniem. \n\nWel zie ik de plicht aam het milieu te denken. Maar dat gebeurt al veel. Gedram over klimaat en stikstof werkt eerder demotiverend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De gevolgen voor Nederland uit het nieuwste klimaatrapport van KNMI...🧐 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het KNMI ging over naar nieuwe preciezere meetapparatuur waarbij de stralingswarmte vd grond niet meer werd meegenomen. Ze hebben eerst beide meetmethodes gebruikt en bekeken wat het verschil is. Toen gecorrigeerd obv die gegevens.\n\nZonder die correctie stijgt de temperatuur ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een doomgedachte dat de economie kapot zou gaan aan klimaatmaatregelen. Nieuwe banen gaan ontstaan en werkgelegenheid genoeg. Dat het anders gaat zijn klopt maar dat is ook wat moet. Nooit rommel kopen of produceren. Nergens. Koop kringloop/recycle/ruil waar kan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bijv. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar dat gaat iets dieper dan hier relevant lijkt mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er ligt een gedegen wetenschappelijke basis onder de inschatting dat de gevolgen catastrofaal zullen zijn (en die zien we ook al). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoofdletters en iets betere interpunctie. 5 fouten. Joekels wel te verstaan maar goed. Hier kan taaltechnisch vooruitgang geboekt worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar ging je vanuit maar het is klimaatverandering. Verandering. Dus warmer of kouder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je wilt luievrouwen, je wilt driekus, je wilt warmte, je wilt een palmboom... \n\nHier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aanvulling op wat? Eens aangaande de biomassahype overigens.\n\nMaar je keuzestelling is wat al te gortig, waarom geen derde wat uitgeklede optie waar ik met een grust hart op kan stemmen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Geen idee wie jou deze onzin heeft vertelt, maar zonnepanelen zijn enorm goed voor het klimaat in vergelijking tot gas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duh, dat ging over jou... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Weet ik, maar alle klimaatwappies gebruiken de term broeikaseffect ook niet meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

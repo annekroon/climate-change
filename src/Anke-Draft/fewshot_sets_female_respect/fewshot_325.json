@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "75 % van alle bosbranden worden gecreëerd door de mens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je gaat het pas zien als je het door hebt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt je kinderen daarnaast ook adviseren een toekomst te zoeken in het oosten des lands + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een hoge luchtvochtigheid en 50 graden Celcius kan dodelijk zijn voor de mens + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Luchtvaart zal ook moeten verduurzamen. Dit komt niet zo zeer door KLM maar door de mensen ZELF. Zij zijn degenen die gebruik maken van dat vliegtuig dus eigen VERANTWOORDELIJKHEID...\nLandbouw is één van de weinige sectoren die al ontzettend veel aan het verduurzamen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We kunnen beter nog even gas gebruiken. Bossen zijn fijn om in te wandelen en zonde om te verbranden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pfff….zoveel. Boeken, televisie, publicaties van instanties, podcasts, informatie via de werkgever. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat je met mensen verleiden meer bereikt dan met dwang... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Obv metingen en locatiegegevens valt meer regen op minder plekken. Die minder plekken krijgen daarmee extremere hoeveelheden water te verduren, zoals Limburg nu, en delen Duitsland en België. De totale mm neerslag over heel NL niet altijd veel meer, lokaal wel veel meer impact. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen invloed...\nWelke 3 miljoen bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "*Clue. Ik begrijp je volkomen hoor: jouw mening is dat vliegen goedkoop moet blijven zodat iedereen dat kan blijven doen. Ik ben van mening dat de destructie van onze planeet niet opweegt tegen deze luxe. En een veel te goedkope luxe dat wij bekopen met misgelopen belastingen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je woont aan zee is niet echt iets wat je expertise biedt op het gebied van geofysica. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jullie snappen er niks van. Een kerncentrale kan juist efficient door draaien, beter dan volatiele wind/zon waarbij op de achtergrond fossiel moet bijspringen. En bouw kerncentrale is nog nooit zo aantrekkelijk geweest door extreem lage rente. Enorm voordeel om nu te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig neem je jezelf nog wel serieus. \nDat is het belangrijkste 😉. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Geen modder schat, door de door de opwarming van de aarde veroorzaakte droogte is er alleen nog maar zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daarmee hebt u nog geen antwoord gegeven op mijn vraag wie uw persoonlijke god is. Hebt u die geschapen naar het model van de god van de bijbel? En hebt u in dat geval zijn kennelijke aanvaarding van wie alles eet én wie niet alles eet gehandhaafd of geschrapt in uw schepping? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

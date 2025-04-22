@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "OK. Kunt u dat dan ook onderbouwen? Draai ik het voor het gemak om: \"Het is wetenschappelijk om een ramp niet aan klimaatverandering te koppelen, zuiver ...\". Zonder gekheid, u stelt dus dat rampen niet aan klimaatverandering gekoppeld kunnen worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je gewoon een simpel antwoord wilt, dan volstaat één woord: \nfotosynthese. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan maar bossen omhakken om te verbranden, alsof dat zo goed is voor het milieu. \nHeb je wel eens gezien hoe het materiaal voor accu's wordt gedolven ?\nHet elektriciteitsnet kan het niet eens aan.\nOlie is trouwens een natuur product. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat toch echt dat ze vluchten vanwege extreem weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen invloed...\nWelke 3 miljoen bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh lol nee dank je + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is echter wel volledig fantasie en uit de duim gezogen.\n\nOok de scientology noemt zich wetenschappelijk, maar het roepen en het zijn is echter een groot verschil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zekers, zie ons station Knorrestein aan de A12.Fastned Laadstation\n020 705 5300\n Mocht iemand ons aan nog een locatie in de regio kunnen helpen houden we ons uiteraard van harte aanbevolen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dr rechter en de merkt hebben altijd gelijk! Ik heb geen onjuistheden vermeld + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dank voor je reactie en eens: vanuit functioneel perspectief zou alles onder een dak logisch zijn. Maar in de praktijk is samenwerken onder één dak tussen partijen die willen versnellen en partijen die willen meestribbelen niet erg succesvol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is inherent 😙 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zie ik. Er zijn meerdere aspecten waaraan ik kan zien dat je educatie niet optimaal is. En daarmee gebruik ik een euphamisme. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als u met 2 vingers in de neus redeneert dan klopt het.  Echter de hoeveelheid water en de vertraagde luchtstromen komen overheen met het veranderende klimaat.  De afwijkingen zijn dermate dat het niet zou moeten voorkomen onder normale omstandigheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

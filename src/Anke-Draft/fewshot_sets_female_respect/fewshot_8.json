@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Hoi Ron, als U meer wilt weten over deze materie, dan verwijs ik U graag naar mijn draadjes die ik schrijf over klimaatverandering. Ik leg uit vanuit de natuurkunde uit hoe klimaatverandering werkt, vanuit verschillende invalshoeken.\n1. CO2-fertilisatie: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is een uitzending om in te lijsten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Rijke landen hebben iets uit te leggen. Hoe moeilijk het is om een stukje welvaart op te geven zien we aan de protesten tegen klimaatmaatregelen en tegen de komst van asielzoekers. Pakistan en Bangladesh e.a. hebben niet de middelen om deltawerken te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar wat Peter zegt is misschien duidelijker: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee. Want we gebruiken geen foute pellets maar resten snoeihout en restafval van houtproductie (wat voorheen in een veel minder efficiënte verbrandingsoven werd gekieperd). Maar deze discussie ben je eerder gestart, ik zit niet echt op een herhaling te wachten 🙂. Pr. Wknd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zien we die dan al?\nWist je bv dat je levensverwachting sinds de industriële revolutie verdubbeld is?\nWist je dat er in Europa 40% meer bos is dan 50 jr geleden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daarom zeg ik stoppen met die flauwekul! Die klimaatverandering stoppen we echt niet meer. Laten we er maar mee leren omgaan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt niet in de gaten dat het IPCC juist waarschuwt voor klimaatverandering. Zij geven aan dat er iets moet gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "je herhaalt jezelf. De quote zelf verzonnen?  Klimaatverandering = steeds vaker extreem weer. Is niet heel ingewikkeld toch? Slaap lekker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwa, een klant (Copenhagen Atomics) is op schema om over 5 jaar de eerste commercieel verkrijgbare Thoriumreactor te produceren. Dit is hun verhaal in een notedop. Copy/stem/knip-en-plakwerk van ondergetekende. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is dit nu weer voor whataboutism. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "o ja dan moet zij jou niet alle schuld geven he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat vooral relevant is alles wat we niet weten en niet precies kunnen kwantificeren.. aannames, invullen van leegtes met aannames en het stapelen van aannames en theorieën maakt dat de fout marge heel groot wordt .. en dat klimaat debacle is exact dat .. een dwaling + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En de meter slaat een stuk sneller uit dan de natuur in de 22.000 jaar hiervoor voor elkaar heeft gekregen. Dan nog steeds negeren dat er meer aan de hand is is nogal naïef. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "K A N S L O O S ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

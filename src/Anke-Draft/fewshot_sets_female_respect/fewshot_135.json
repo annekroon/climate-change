@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Draadje even lezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De enige manier waarop er misschien nog iets te doen valt aan de klimaatopwarming is wereldwijd ophouden met het produceren van inferieure wegwerptroep en irrelevante ꞌvoedingsmiddelen.ꞌ Ofwel punt 12 van de SDGꞌs: ˮVerantwoorde consumptie en productieˮ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vertel\n\nWant ik zie het probleem niet😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als ze dan nog weten hoe. Misschien zitten de Hollanders dan met z'n allen in Oost-Europa. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij Op1 heeft BB zeker drie keer gezegd dat een CO2-rantsoen of -belasting niet enkel voor burgers moet gelden maar ook voor bedrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nooit meer?\nAfscheuren van Oostelijk Afrika langsheen de grote Rift?\nHet uitbarsten van de super Caldera onder Yellowstone?\nDe superuitbarsting van de Campi Flegrei?\nWat als de scheur van La Palma toch getriggerd wordt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klimaatverandering, net zoals in 1980 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hier net zo deze vraag!! Een hele goede vraag waar wij het antwoord ook nog niet gevonden hebben. Denk dat de machthebbers hun eigen belang belangrijker vinden....misschien heeft  hier een antwoord op voor onze kinderen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Deze grap werkt beter met het begrip \"Global Warming\" 😬 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zulke mensen bestaan er gelukkig ook nog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat en waar zit het probleem! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, want het is enkel in België dat de problemen zijn 🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Om jou te redden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je woont aan zee is niet echt iets wat je expertise biedt op het gebied van geofysica. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoezo zelf gemaakt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Was te verwachten ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei ik al. Veel erger dan miljoenen doden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

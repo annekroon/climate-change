@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Die continue gesteund werden en worden door én een linkse partij in het kabinet, én door de linkse oppositie.\nEn met de steun voor die desastreuze klimaatplannen, het nieuwe pensioenstelsel en de niet aflatende stroom aan asielzoekers zorgen zij ook nu weer voor verdere afbraak. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, klopt, toen al begonnen en nu nog weer heftiger. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand durft er aan te beginnen zonder miljarden subsidie en garanties. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vrijwel lege vliegtuigen naar Davos is natuurlijk wel prima. Ruim 1000 in totaal. De tweedeling wordt steeds groter. Ooit kwam links op voor de arbeiders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je mag het misschien niet hard opzeggen maar er zijn gewoon te veel mensen op deze planeet\nDus is het erg dat mensen veel al oudere en zwakkere sterven. Tis vreselijk dat het gebeurd, maar voor de overbevolking is het misschien wel goed. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeft niet, ook boeren meer aan waterberging doen. Ook op de kavel kan het nodige. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf miljoenen uitgeeft om klimaatmaatregelen tegen te houden, wetende dat er daardoor doden zullen vallen, puur om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We weten al sinds 1850 ofzo dat CO2 langgolvige straling absorbeert en dus een opwarmende rol in het klimaat speelt. Maar kijk anders in het laatste IPCC rapport, daar staat alles in.\nEn sorry, maar ik ga geen bronnen aanleveren voor onderwerpen waarover ik niet heb geschreven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo verontrustend.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ohjee...als de capslock's van stal worden worden gehaald, dan weten we dat het menens is... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf lid is van organisaties die als enige doel hebben desinformatie te verspreiden over klimaatverandering, 𝘄𝗲𝘁𝗲𝗻𝗱𝗲 𝗱𝗮𝘁 𝗲𝗿 𝗱𝗮𝗮𝗿𝗱𝗼𝗼𝗿 𝗱𝗼𝗱𝗲𝗻 𝘇𝘂𝗹𝗹𝗲𝗻 𝘃𝗮𝗹𝗹𝗲𝗻, puur  om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toen dacht je ook al dat CO2 uit hout iets anders is dan CO2 uit steenkool. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Is natuurlijk wel een heel beperkt beeld. Het gaat natuurlijk om de gevolgen van klimaatverandering die echt gevaarlijk zijn. Maar dat begrijp je zelf ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik bespeur nog steeds geen (begin van een) oplossing. Gewoon maar niks doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

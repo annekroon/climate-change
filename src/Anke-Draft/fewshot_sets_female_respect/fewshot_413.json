@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "... en na de 20 wordt het lauwe soep + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Even snel =&gt; het vollopen van de Noordzeevlakte gaf een klimaatschok\n\nToen het nauw van Gibraltar brak en de Middellandse Zee geboren werd = klimaatschok + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor u een vraag voor mij een weet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmm. Maar in welke verhoudingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat verandering is een feit .. een proces wat al bestaat zolang als de aarde bestaat, althans zolang als er al een atmosfeer is. We hebben warme tijden gehad, koude tijden en alles er tussen in .. nog voor de mens er was .. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "thx, dat zoeken we op (twee voor twaalf) ha ha\ngelukkig heb ik latijn gehad, de eerste is al eens voorbijgekomen, meidoorn, de andere weet ik alleen t tweede woord maar toch bedankt en eet lekker! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg eens uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja over het virus, maar het leven draait niet enkel om virussen bestrijden he. Je hebt ook de economie en de mens hun welzijn + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat dat betekent dat iemand anders voor je gaat bepalen wat je wel of niet mag. Waarom zou iemand voor mij bepalen of ik 1 keer of 5 keer vlieg? De tickets betaal je zelf toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je zoekt naar jargon om ontkenners om te turnen… is dit wel een richting( domme gokkers die alles verliezen omdat ze blijven doorspelen #againsttheodds + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U verwart het weer van vandaag met het klimaat, klimaat is gemiddeld weer in de loop der tijd, moeilijk hè? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, nogmaals: voer daar eens deugdelijke argumenten voor aan? In plaats van te beweren dat alles ‘gewoon’ onzin is. Er is namelijk meer dan genoeg bewijs voor de (negatieve effecten van) klimaatverandering. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hilarisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei ik al. Veel erger dan miljoenen doden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

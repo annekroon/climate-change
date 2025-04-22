@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat dan weer wel. Tuurlijk is het ook genieten en de verwarming hoeft niet aan. Dikke plus😄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je zoekt naar jargon om ontkenners om te turnen… is dit wel een richting( domme gokkers die alles verliezen omdat ze blijven doorspelen #againsttheodds + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het gaat om de snelheid waarmee het nu overal gebeurt.  Maar laat maar. Hierover worden wij het echt nooit eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Helaas nog veel te weinig + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat vind ik ook. En dan ben ik ook nog een flexitariër - terwijl ik weinig van klimaatgedram moet hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zag laatst weer ergens een bericht dat kleine boerderijen worden gesloten met belastinggeld en dat de stikstofnorm voor de intensieve veehouder weer wordt verruimd. Als dat zo is, dan word je gek. Dan wordt het stikstofdossier nooit opgelost + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja en…\n\nMoeder aarde doet 1 uitbarsting en 1000 miljard gaat in rook op.\n\nJe kunt haar niet stoppen… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Is het ook. Lang voor gewaarschuwd, heel hard om uitgelachen, iedereen is gewoon door blijven gassen en vliegen. Heb de airco vol aan staan, klaar met individueel betalen voor collectieve fckups. Wat is uw marinade voor vandaag? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat was mijn verweer ook naar FB, maar ik denk dat ze er een algoritme achter hebben zitten die alleen op bepaalde woorden triggered en niet op de inhoud? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De enige manier waarop er misschien nog iets te doen valt aan de klimaatopwarming is wereldwijd ophouden met het produceren van inferieure wegwerptroep en irrelevante ꞌvoedingsmiddelen.ꞌ Ofwel punt 12 van de SDGꞌs: ˮVerantwoorde consumptie en productieˮ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kun je ook uitleggen wat er totalitair is aan duurzame energie, of roep je maar wat?\nEn verwar jij wetenschap niet met geloof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jij mist de clou. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja je blijft er om lachen om die dwazen 😂😂😂 van de zomer word het helemaal lachen als de zon schijnt in juli en augustus dat kan niet 😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig neem je jezelf nog wel serieus. \nDat is het belangrijkste 😉. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga je verder negeren. Het js een welles nietes spelletje geworden. \n\nWe agree to disagree. Ik ben een boze nazi. Zo goed... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

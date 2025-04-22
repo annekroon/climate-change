@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Jaaa natuurlijk en dan ga je door over het weer ofzo + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je gezien wat wij (  en ondergetekende) hebben ingebracht aan ipcc materiaal...? Heb je onze pleitstukken gelezen? Heb je het vonnis gelezen waarin staat op welke ipcc-stukken het gebaseerd is? Blijf je nou echt t vonnis contraproductief vinden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah Bas. Dank voor uw antwoord. Het zal dan wel gaan over semantiek, daar dhr Bellemakers het heeft over “stoppen” van de klimaatverandering (wat niet kan) en u over “ binnen de perken houden” van de klimaatverandering. Mee eens dat dit een wezenlijk verschil is? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Cognitieve armoede... Geen tijd om rustig adem te halen. We moeten hollen, want stilstaan durven we niet. \nZo verschrikkelijk treurig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is naast de kwestie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niet helemaal. Shell zit wereldwijd en moet de infra en investeringen in andere landen nog doen voor de transitie. In NL zijn de risico’s alleen nog groter, rondom het Waddengebied (stijging zeespiegel) en de rest van NL (luchtverontreiniging). Dus daar is snellere actie vereist + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doet iets aan je lichaam. Onherstelbaar. Alcohol is eruit na een dag maar schade blijft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En jij geloofd dat 'de mens'  op een enkeling na, zich aanpast? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is dus significant warmer geworden. In dit grafiekje zie je het beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nop. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Is wat gemakkelijker om een link door te sturen\". Inderdaad dat kan de eerste de beste kleuter tegenwoordig.\n\nBegrijpen wat er staat, dat is duidelijk andere koek !! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja....  indien zelfs Rutte de belasting wil verhogen dan kan t wel eens zo zijn dat zijn linkse vrienden t voor t zeggen hebben 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Link staat eronder kiekoofd + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat een domme tweet.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar als het aan Bert Broeze ligt, dus wel.... Schijt aan de wereld als ik er niet meer ben.. Zoiets. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welke zijn dat? En dan niet lokaal invullen. Maar kijk globaal. Complete cijfers die echt stijgen. Dus niet de 'mogelijke', of 'misschien' modelcijfers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

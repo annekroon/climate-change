@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ook bedankt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah, dus met de aandelen van vaseline en zonnebrandcrème zit het wel goed. 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom zou er geen draagvlak zijn om bv collectief huizen energiezuinig en klimaatproof te maken (wijk per wijk met subsidies) of geen draagvlak voor massale investering in hernieuwbare energie of openbaar vervoer of grondstofrecyclage 1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan maar bossen omhakken om te verbranden, alsof dat zo goed is voor het milieu. \nHeb je wel eens gezien hoe het materiaal voor accu's wordt gedolven ?\nHet elektriciteitsnet kan het niet eens aan.\nOlie is trouwens een natuur product. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Feiten zoals je profielfoto! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kan wel. Hij zal dan wel een deel moeten verkopen om de belasting te betalen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zekers, zie ons station Knorrestein aan de A12.Fastned Laadstation\n020 705 5300\n Mocht iemand ons aan nog een locatie in de regio kunnen helpen houden we ons uiteraard van harte aanbevolen! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ge gaat steun krijgen van  .Deze klimaatverandering is niet wat de #klimatos voorspelden :) Wel een #ommekeer zoals er reeds miljoenen jaren plaatsvinden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatwetenschap is een extreem complex probleem. Het klimaatsysteem is onvoorstelbaar ingewikkeld, de data is ontoereikend en het gaat niet ver genoeg terug in de tijd. Uitstoot van co2 zien als een manier om de temperatuur te regelen is uiterst simplistisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die 350 meter hoor ik vaak deze week. Dat lijkt me voor een nieuw project inderdaad te kort bij. Waaruit blijkt dat er plannen zijn voor windturbines op 350 meter van een woonwijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nop. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga niet in 'discussie' met wetenschapsontkenners.\nMaak u geen zorgen.\nEn misschien opzoeken wat 'ad hominem' is . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "en plots is een zak geld en volop mogelijkheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een citaat??? Niet van mij? Ik heb deze woorden niet gebruikt. Stel in dit verband slechts een paar vragen. Tja niet alleen maar lyrisch pro klimaat visie…. Sorry. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Deze, lieverd, waar je je eigen domme tweet aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar is Klaas (lobby) Martens weer. Zich kapot starend op kernenergie.\nTerwijl de business case voor kern energie gewoon niet goed is.\nDe prijs is te hoog of wind en zon te goedkoop.\nEn nee ik ben niet tegen maar realist.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

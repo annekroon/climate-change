@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar zal nu opmars gaan maken. Met alleen windm en zon redden we het niet. Laat staan als we biomassa hout niet gaan meerekenen. Dan valt het hele klimaatplan door de grond. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jaaa natuurlijk en dan ga je door over het weer ofzo + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus ze zijn er altijd en geen extra voorraad. 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als de mens niet verantwordelijk zou zijn, wie/wat is dan wel verantwoordelijk, volgens u? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En nu de #Bilderberg  voor de rijken. Kaviaar en champagne. Links vindt het heel normaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En is volgens jou de relatie broeikasgas (met als voorbeeld co2) en opwarming direct, causaal bewezen? En weet je waar dat terug te vinden zou zijn? Je ziet nu correlatie altijd. Maar ik zou graag causale verband bewezen zien (of niet). Maar lijkt me nodig om gesprek te voeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klopt ja. Uiteindelijk gaan we allemaal wel naar de chalemiezen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar dit zal geen zinvolle discussie worden over klimaatbeleid. Qed + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij is erg belangrijk genoeg voor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doet iets aan je lichaam. Onherstelbaar. Alcohol is eruit na een dag maar schade blijft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "o ja dan moet zij jou niet alle schuld geven he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga dat vragen aan De Bilt. Het zijn HUN gegevens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En je leest erg slecht, het gaat helemaal niet om Shell, het gaat om banken die palmolie plantages aan laten leggen. Veevoeder bedrijven die er verantwoordelijk voor zijn dat Braziliaans oerwoud wordt gekapt voor  soja + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 Ik ben geen VB’er maar begin er steeds meer sympathie voor te krijgen, maar deze hittegolven geen gevolg van klimaatverandering, maar gewoon van weerfenomenen 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei ik al. Veel erger dan miljoenen doden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U behoort blijkbaar tot de 15%. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alsjeblieft zeg ga nou niet de wijsneus uithangen en laat dit aan experts over dus rustig kijken van wat is hier nou gebeurt en hoe komt dat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Er is in de afgelopen 100 jaar geen groei van weersextremen. Dat Paramaribo niets heeft gedaan aan haar belabberde afwatering is te wijten aan decennia Bouterse et al. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies, in dat opzicht zijn het wel talentjes. Ooit zal het kwartje misschien vallen. Ik probeer er maar om te lachen totdat het zover is, gelukkig is de tendens hier een stuk fijner 🙂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Weet je wat het is? De enige die écht wat doet aan het klimaat is Elon Musk door in rap tempo de hele auto industrie naar EV's te dwingen.\n\nDie hoor je nooit over klimaatgeleuter. Daar hou ik van. In de media is het élke dag weer 'all talk'. Enorm eenzijding, al tijden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ok Berry 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wow! Dus oma bezoek deed je in je zwembroek? 😂 \n\nDank, ze had best veel pech en complicaties maar als t nu zonder verloopt kunnen we vanaf volgend weekend weer lekker aan haar activiteit-behoefte voldoen 😊 ze kan niet w88! 🐾 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ok , maar wat vind je van man made climate change + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker, #au! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onomstreden bewijs niet helaas. IPCC is heel eenzijdig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tjonge, je hebt Nogal een verzameling aangelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ons hart en bloed beweegt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even naar beneden scrollen. En je dan beseffen dat die laatste zwenk naar rechts nog scherper gaat worden. Met je \"dit is volstrekt normaal\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uit die domme tweet van je die je zelf aankondigde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toevallig lieg ik nooit dus houd maar op met je betweterij! Je bent niets meer dan een ander! Je daalt enorm in mijn achting wanneer je zo door blijft drammen, lager kan niet meer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahahahaha ... noem anderen niet te snel \"simpel\" vriend dan blijf je heel. Je bent wat je zegt (of schrijft in dit geval). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

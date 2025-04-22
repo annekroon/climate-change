@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Onder meteorologen leeft het idee dat er ondanks klimaatverandering nog wel ooit het weer voor een  zal komen.\nMaar dan toch geen tocht, want NL kan de verwachte opkomst niet aan. En ijs te dun ervoor. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het het bewijs🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En, ging het goed? Zat je er snel weer in?\n\nJammer toch, dat er vaak voor zo'n standaard opstelling wordt gekozen.\nMocht je nog eens iemand weten, die zich wil verdiepen: \n\nIn de maak: workshop 'participatie of polarisatie'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat je met mensen verleiden meer bereikt dan met dwang... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In de jaren 80 voorspelden wetenschappers dat het ijs op de polen in 2000 verdwenen zou zijn. Je ziet het valt wel mee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik ook, wie weet al wat eerder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De waarheid is nog lolliger. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doe ik ook zeker niet. Waar ik het over heb is een leraar in een breed spectrum van beta vakken die een reeks van 24 of zo lectures hierover geeft. Hij beschouwd inkomende en weglekkende energie.van de zon in en uit onze atmosfeer en zijn samenstelling. Hij is geen ontkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb het ook zien liggen. Aanrader dus? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "4: Dat zelfs binnen  mensen vanuit deelbelangen of eigenbelang hun ogen sluiten voor de opgave waar we voor staan is voor mij de belangrijkste reden geweest dat ik het niet meer kon opbrengen om daar nog energie in te steken. Ik heb wel wat beters te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus?\n\nPersonen zoals jij en degene die het artikel geplaatst heeft zijn oplichters! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "“Dream on”\n\nLeg het mij eens uit… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ach de man mag stukkies schrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als je mijn uitleg al niet snapt....snap ik wel dat jij meegaat in die Woke nonsense die jullie linkse droeftoeters verkondigen:) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het netto effect van één van de antropogene invloeden. Nu nog van de rest en van de natuurlijke terugkoppelingen Joris. Kijk, het IPCC presenteert een ECS range van vele graden. Voor de laatste keer: welke is de juiste? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ehmm, kerkelijk? Wat is dat 😉\nSnap je vraag hoor. Maar nee, ik heb bewust afstand genomen van kerken. Luister graag naar preken online. Meestal in het Engels (zoals JD Farag). Vind het hier in NL. vaak maar slappe hap! 😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

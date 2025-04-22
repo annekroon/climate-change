@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het gaat vooral over het grotere plaatje. Hoe weten we dat het klimaat verandert? Waarop steunt het onderzoek? Wat zijn de gevolgen? Wat kunnen we als maatschappij doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De gletsjers groeien niet meer aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt, kleine kans lijkt mij inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het vergt heus geen groot intellect om in te zien dat dit in geen enkele verhouding tot het levensgevaarlijke hoogradioactieve kernafval staat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die concessie is natuurlijk exact wat er wel weer gaat gebeuren. Anders stel je geen bemiddelaar aan. En dat weten de boeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snap de context prima maar stukjes als \"laat zien dat de aarde opwarmt\" zijn gewoon niet handig. Een incident laat niets zien ook al volgt het een patroon: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Werkt de link niet of staat er nog te veel naar je zin over andere dingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat noem jij regelmatig? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij kon wel leuk schilderen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zou uw tweet klinken moest men deze #fitfor55 een jaar vroeger worden gelanceerd?\n\nDemir =&gt; nog geen minister\nregen =&gt; extreme droogte ...\n\n#justwondering\n#tijdsgeest\n\n30 jaar weer is klimaat\nKlimaat verandert al 4 miljard jaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onjuist, zie op  onder t hoofdstuk standpunten de page \"Energie voor de toekomst\" + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet je een fatsoenlijke lange broek aan trekken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Is natuurlijk wel een heel beperkt beeld. Het gaat natuurlijk om de gevolgen van klimaatverandering die echt gevaarlijk zijn. Maar dat begrijp je zelf ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan doe je zelf ook maar niets. Wat een levensinstelling. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die forcing is weinig twijfel over. Feedbacks zijn daarentegen uiterst onzeker. Ik zeg alleen: sterke netto positieve feedback, waar de hele bangmakerij op gebaseerd is, zijn verre van bewezen of aangetoond. Ik vroeg jou: heb jij ze wel dan? That’s all. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toen dacht je ook al dat CO2 uit hout iets anders is dan CO2 uit steenkool. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is interessant dat je het enerzijds afdoet als onzin en anderzijds vind dat vooral jij geen opofferingen hoeft te doen omdat je geen kinderen hebt. \nAls het echt onzin is hoeft niemand dat, natuurlijk. \n\n👋🏼👋🏼👋🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

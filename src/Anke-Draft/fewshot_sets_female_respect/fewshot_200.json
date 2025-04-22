@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Je dwaalt af, dit heeft niets met klimaat van doen.\n\nJe redenatie over klimaat lijkt op:\n\n\"Vroeger waren er ook bosbranden, dus bosbranden van nu kunnen niet door mensen zijn aangestoken\" 🤷🏼‍♀️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ik wacht liever de peer reviews af die op andere sites gepubliceerd worden. Want je kunt niet in 1 uur en 20 minuten een peer review doen van een dergelijke publicatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat men vaak zegt \"het spul is allang uit m'n lichaam en ik ben er nog\".\nJa, kan (wat t spul ook is), maar dat spul kan veranderingen hebben aangebracht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmm. Maar in welke verhoudingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je gaat het pas zien als je het door hebt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ALLEEN KOMEN ZE NU VAKER VOOR! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2/2 waar geen draagvlak vr is,is mensen scheef bekijken omdat ze vlees eten of liever met auto dan fiets rijden,hun parkeerplaatsen afpakken,hen verplichten om individueel dure huisrenovaties te doen\nDaarom:structurele collectieve aanpassingen die t makkelijk maken vr burgers + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "niemand zegt dat.. iedereen weet dat het klimaat al 4,5 miljard jaar veranderd..wel leuk  om te zien dat plekken die ten tijde van de Romeinen bereikbaar waren dat nu weer zijn + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het publiek dat deels staat bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of een Elim. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies. In het Licht van de #eindtijd kunnen we ook maar beter geen illusies meer hebben hè. De Geestelijke blindheid is shocking.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat vooral relevant is alles wat we niet weten en niet precies kunnen kwantificeren.. aannames, invullen van leegtes met aannames en het stapelen van aannames en theorieën maakt dat de fout marge heel groot wordt .. en dat klimaat debacle is exact dat .. een dwaling + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, daarom is die hele EU ook zo’n fout apparaat. Bedacht door miljardairs, voor miljardairs. Geen NEXIT maar een EUEXIT zou beter zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En boven de 25 graden..oei, oei..Dan wordt Greta meteen aanbeden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

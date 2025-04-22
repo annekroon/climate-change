@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zeker doen! Du choc des idées jaillit la lumière. \nMijn eigen interpretatie van de gigantische begripsverwarring rond corona en vooral de maatregelen vind je hieronder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "2/2 waar geen draagvlak vr is,is mensen scheef bekijken omdat ze vlees eten of liever met auto dan fiets rijden,hun parkeerplaatsen afpakken,hen verplichten om individueel dure huisrenovaties te doen\nDaarom:structurele collectieve aanpassingen die t makkelijk maken vr burgers + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kan toch maar moeilijk doorgronden wat ze juist van plan zijn. En wat ik er van begrijp kan ik op geen enkele manier betalen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen werd voor een groot deel veroorzaakt door zwaveldioxide uit steenkoolcentrales. Dat wordt er nu uitgefilterd.\n\nHet gat in de ozonlaag komt door CFK drijfgassen. Die zijn nu verboden.\n\nStreng beleid helpt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Verdienmodel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je gezien wat wij (  en ondergetekende) hebben ingebracht aan ipcc materiaal...? Heb je onze pleitstukken gelezen? Heb je het vonnis gelezen waarin staat op welke ipcc-stukken het gebaseerd is? Blijf je nou echt t vonnis contraproductief vinden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij mij zijn het vooral mede rappers. Verrassend veel rappers denken zo. Maar blijft toch wel leuk om samen muziek te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waarom zou er geen draagvlak zijn om bv collectief huizen energiezuinig en klimaatproof te maken (wijk per wijk met subsidies) of geen draagvlak voor massale investering in hernieuwbare energie of openbaar vervoer of grondstofrecyclage 1/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De gevolgen voor Nederland uit het nieuwste klimaatrapport van KNMI...🧐 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn institutie laat helaas het lezen van betaalde artikelen in Nature niet toe😪. Maar gezien discussie over NPLG laat het wel zien, integrale aanpak is nodig.  Adaptatie zal niet voor 100% kunnen, andere stressfactoren moeten dus echt naar beneden. 🧵 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ga dat vragen aan De Bilt. Het zijn HUN gegevens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is voor jou kennelijk moeilijk voor te stellen dat branden aangestoken kunnen zijn door mensen.\nWeet je nog dat verhaal over dat Gender Reveal feestje in Californië dat een heel groot deel van die staat in brand zette? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helemaal fijn pik. Voortaan lekker je mening voor je houden.\nLekker je broodje smeren en vergaan met je dag. Ciao cazzo di merda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

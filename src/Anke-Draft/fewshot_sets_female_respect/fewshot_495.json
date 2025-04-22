@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ok Berry 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vee is alleen maar vee in de veehouderij? Kijk even hoe het ging in de Oostvaardersplassen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Volg deze specialist maar eens: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met name boeren zijn zich hiervan terdege bewust, zij merken de praktijk aan den lijve, elke dag weer. Maar zijn daardoor ook erg flexibel, dus die voedselproductie blijft, maar wel anders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Foto's zijn mooi maar meneer Joost reageert op mij en dat staat hem vrij silv026 maar ik denk dat Joost wel voor zichzelf kan spreken heeft hij u niet voor nodig overigens u heeft ook het recht om door te scrollen ik reageer slechts op uw en joost zijn commentaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een doomgedachte dat de economie kapot zou gaan aan klimaatmaatregelen. Nieuwe banen gaan ontstaan en werkgelegenheid genoeg. Dat het anders gaat zijn klopt maar dat is ook wat moet. Nooit rommel kopen of produceren. Nergens. Koop kringloop/recycle/ruil waar kan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei Al Gore 20 jaar geleden ook al. Het probleem is alleen dat het niet uitkomt. Maar ik begrijp het wel. Voor de een is het een flinke kostenpost en voor de ander big business. \n\nMisschien moet ik ook iets gaan doen in de klimaathype. 🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat we er veel over kweppen waardoor we niets hoeven te doen. zie de boeren bv. Dat we dus kansloos zijn. Maar ook dat het veel sneller gaat dan we denken. 64 dagen hittegolf 😎😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eerst de bedrijven. Yess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan zijn we iig heul ver + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "DE MAN IS EEN ORKAANFLUITING! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet wel beter… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welke zijn dat? En dan niet lokaal invullen. Maar kijk globaal. Complete cijfers die echt stijgen. Dus niet de 'mogelijke', of 'misschien' modelcijfers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nogmaals....... kan je grafieken lezen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga dat vragen aan De Bilt. Het zijn HUN gegevens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

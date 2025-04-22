@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zegt natuurlijk niks. De variatie per jaar is groot, net als het weer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75 % van alle bosbranden worden gecreëerd door de mens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eerst de bedrijven. Yess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Willemstad toch, ik herken het terras volgens mij, keer gegeten + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heij Bas. Niet zo pessimistisch! De mens heeft zich ontwikkeld in het interbellum tussen de laatste en de komende ijstijd. Klimaat is geen lineair proces maar volgt zoals alles in de natuur een S curve. Iets stoppen kan niet, hoogsten manipuleren. Veel succes met Max! ( F1) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja ik ben een fan! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk Tom, je becommentarieert het nu al als een gekte.\nDe bijdrage van de investeringen,trouwens volstrekt niet de 1.000 miljard van Baudet moet je ook vertalen in een grotere beheersbaarheid van het klimaat en een push voor innovatie en onze economie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, mijn ouders ook hoor. Maar toen wisten ze niet beter en waren tijden totaal anders. Toen gingen mensen niet (allemaal)studeren bv. Anno 2021 je leeft op het minimum en dan 6 kinderen. Er heerst een taboe op, maar een kerk synagoge of moskee zou kunnen zeggen: niet ‘handig’ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hopelijk is hij weer helemaal beter! Ik had een oma die het huis letterlijk 28 graden maakte. Dan nog klaagde ze over de kou. Schat van een mens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welke omstandigheden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pas tijdens de 'UN Framework Convention on Climate Change' in 1992 sprak men over antropogene opwarming terwijl daar geen enkel bewijs voor was. Daaag? Ben je weg? Het jeugdjournaal begint? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blijkbaar snap je niet hoe wetenschap werkt of de definitie van wetenschap moet in de afgelopen 25 jaar gewijzigd zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat heb ik geen moment beweert meneer van Ligten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even naar beneden scrollen. En je dan beseffen dat die laatste zwenk naar rechts nog scherper gaat worden. Met je \"dit is volstrekt normaal\". + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Neen. Het kleinste kind weet dat klimaatmodellen de radiatieve balans voorspellen, enkel en alleen dat. \n\nOok weet het kleinste kind dat het globale klimaat afhangt van die radiatieve balans. Hoeveel energie we ontvangen, hoeveel er naar de ruimte terug gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

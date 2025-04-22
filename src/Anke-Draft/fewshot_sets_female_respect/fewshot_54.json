@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Damned if you do, damned if you don't?\nJa, kan... opgeven is altijd een optie. Na de oorlog staat Rusland ook op de kaart zei Merkel. En staat klimaatverandering weer op het menu? Maar nu even niet? Transitiebrandstof \"gas\"\nNaar 'no-brainer, kolencentrales weer aan' quotes. 😶 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Olie is een natuurproduct: arsenicum ook. Lood. Kwik. Nauwelijks een argument :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is het.\nEn dan moet het maar zo.\n\n#regering nalatig\n#rechter corrigeert + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die zorg deel ik met je. Bovendien is het de vraag of het klimaatvluchtelingen zijn. Of dat het te maken heeft met de omvolkingspolitiek die filantroop Soros voorstaat en ruimhartig financiert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En individueel actie ondernemen of zelf veranderen. Goede tweet van je. Corona is maar een crisisje vergeleken die klimaatramp. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ps. Ik zoek graag de problemen op 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "WETENSCHAP EVOLUEERT WEL NATUURLIJK, MAAR BETROUWBARE BRONNEN (BV. REUTERS, APNEWS, NATURE, NASA, KNMI, EDA E.D.) GEVEN JE NIET DE ANGSTVERHALEN MAAR GEWOON FEITELIJKE RAPPORTAGE, MEESTE IS SAAI EN ZITTEN GEEN KWADE BEDOELINGEN ACHTER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het klimaat verandert al 4 miljard jaar. Even snel als nu? Fitfor55 had 30 jaar geleden gelanceerd moeten zijn. De opwarming die we nu zien is het gevolg van onze uitstoot van toen. Hopelijk beseft u wat er nog gaat komen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daar denk ik ook best wel over na weet je dat. Ik ben sowieso een gevoelige kneus. Als er een meisje door de stad loopt en zie jongens loeren en min of meer ze lastigvallen dan sta ik vooraan om hen boos aan te kijken, en dan ben ik niet eens hun vader. Kan slecht tegen onrecht + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "\"Klimaatvraag: Wordt het nou natter of droger door klimaatverandering? | NU - Het laatste nieuws het eerst op + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hahaha🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Waar las u die eerste passage/beweringen ooit ergens van mijn hand? Mooi staaltje 'fake news' zo! 🤔 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beste Hibma\n\nJe gaan nogal blind op wetenschappelijke literatuur is het niet?\n\n\"Wetenschappers GINGEN ER VAN UIT dat de schildpad was verdwenen als gevolg van vulkaanuitbarstingen.\" 🤪\n\n\n\nBenieuwd naar je 'wetenschappelijke' onderbouwing in deze 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ga helemaal niet met betere inhoud komen. \n\nOplichter. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jammer genoeg vind ik klimaatverandering niet 'hilarisch'\nMaar pleit verder voor gascentrales en maak van België de idioot van de wereld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

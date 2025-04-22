@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik denk dat ik voor Dirk spreek waar hij zou stellen dat we vooral elektrisch moeten fietsen ;-) H2 voor transport is m.i. zinloos, we hebben alle groene H2 nodig voor industrie (vb. staal) en andere processen (nu, in #fitfor55, is er wel een rol voor H2 in transport). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ALLEEN KOMEN ZE NU VAKER VOOR! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wanneer zal die ommekeer zijn, dat men zoveel doorgedramd is dat de woede los komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eens, afzetten helpt niet. Maar met plannen komen om windm op 350 meter van woningen zetten helpt de transitie ook niet. Er moet meer nuchterheid komen en minder groene religie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee.\n\n-plop- + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja het wordt steeds kouder.\nHoe kan dat? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan de factor of bedrijfstak die daar op dat moment dan voor verantwoordelijk is. Nu is dat vooral de veeteelt (niet zozeer de landbouw) Dus laten we beginnen in plaats van ons alvast zorgen te maken over de toekomst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vandaar die ijstijd voordat er koeien waren ........ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Valt mee de mens moet wat minder ingrijpen minder korte termijn denken minder globalistisch en meer zelfvoorzienend worden . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uiteraard. Mag ik daar later op terugkomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jammer genoeg vind ik klimaatverandering niet 'hilarisch'\nMaar pleit verder voor gascentrales en maak van België de idioot van de wereld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het geld niet uitgeven en wachten tot het te laat is is nog veel erger. Desastreus zelfs. Dan heb je vanzelf niets meer aan welk geld dan ook. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nu doe je het al weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd, gewoon saaie ambtenarenpraat. Next. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ieder mens “ vermenigvuldigd “ zich anders was u ook niet op aarde.\nLanden met de grootst vervuilende industrie zullen moeten laten zien dat ze “ het “ begrepen hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent zelf slecht geïnformeerd. Ze willen nederland volzetten met asieleisers. Internationale experts zeggen zelf dat Nederland onverantwoord bezig is. Nederland is een belangrijke speler in de internationale voedselmarkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

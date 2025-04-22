@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Wat noem jij regelmatig? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "goed, interessant. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jawel, het zegt dit\n\n'nog meer' verwijst naar het gene wat je er boven deelde.\n\nwanneer de betekenis van 'meer' al te lastig is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ER WORDT NIET GEKNOEID ZE HEBBEN MEETRESULTATEN GEHARMONISEERD (BIJ HET KNMI) MAAR KLIMAATWETENSCHAP IS NIET AFHANKELIJK VAN HET KNMI ALLEEN MAAR WERELDWIJD ZIEN WE STIJGINGEN IN DE HOEVEELHEID EN DE DUUR VAN HITTEGOLVEN EN EXTREMER WEER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Pol gaat nu ook fel roodgekleurde alarmistische  dagkoersjes gebruiken. Ik snap dat. Tis namelijk niets en dus niet goed voor het businessmodel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Too high, too low? Why? Proof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met enorme druk op beesten in intensieve veeteelt waardoor ziekten vrij spel hebben... Maar ja we willen goedkoop vlees blijven eten + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kwaliteit vd lucht id steden is nu inderdaad VEEL beter dan 40 of ook 120 j geleden. \nMetingen gebeuren toch al heel lang. In B sinds 1830? Er is een verschil tussen milieuproblematiek en klimaat. Mensen maken dat onderscheid niet altijd.\nBeiden zijn belangrijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] Kijken we naar de activiteit van onze zon, dan zien we dat deze momenteel naar een minimum aan het bewegen is en tegelijk neemt de temperatuur gestaag toe, dat volgt uit satellietmetingen. Conclusie: de zon speelt deze keer geen rol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Broeikaseffect, lang niet meer gehoord 😃\n\nIk ben opgegroeid met de zure regen en het gat in de ozonlaag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zelfs na vandaag nog en het uitermate zwakke optreden van Caroline van der Plas die ons ineens zo nodig een inkijkje meende te moeten geven in haar decolleté? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar is Klaas (lobby) Martens weer. Zich kapot starend op kernenergie.\nTerwijl de business case voor kern energie gewoon niet goed is.\nDe prijs is te hoog of wind en zon te goedkoop.\nEn nee ik ben niet tegen maar realist.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat bedoel ik ! Het zijn wel watjes  tegenwoordig  🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als je mijn uitleg al niet snapt....snap ik wel dat jij meegaat in die Woke nonsense die jullie linkse droeftoeters verkondigen:) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De aarde warmt niet op. U bent onjuist geïnformeerd. Al dat gepapegaai van wat de media beweert, zo kansloos. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, U maakt zich schuldig aan de confirmation bias. De klimaatwetenschap is ondertussen zeer duidelijk en dat laat de natuurkunde ons ook zien. Het feit dat U niet inhoudelijk kan reageren op mijn natuurkundige beschrijving van klimaatverandering zegt genoeg over uw inzicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

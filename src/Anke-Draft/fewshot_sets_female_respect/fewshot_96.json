@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Lees mn reacties nog een keer. Nergens beweer ik dat de branden niet aangestoken kunnen zijn. De kans dat de grond droger is en daardoor het risico omhoog gaat is echter wel een gevolg van klimaatverandering. In dit rapport wordt het netjes voor je uitgelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien hebben ze het opgegeven? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar maak je dat uit op? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vrees dat dat niet vanzelf gaat omdat er ook nog steeds mensen zijn die het saboteren omdat ze andere belangen dienen: zichzelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze hebben mij beloofd dat het warmer zou worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij Op1 heeft BB zeker drie keer gezegd dat een CO2-rantsoen of -belasting niet enkel voor burgers moet gelden maar ook voor bedrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gekte, Hans. Bewaar hem vooral. En laten we dan over 15 jaar, nadat we 1000 miljard hebben geinvesteerd, eens kijken of we samen de temperatuur met 3 graden hebben weten terug te brengen. Aantoonbaar door beleid! Voorlopig deze maand is de temperatuur al 3 gr. gemiddeld lager. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want dat is het beeld wat ik mee krijg uit onderzoek, robuuste ecosystemen en misschien ook meer diverse agrosystemen zijn minder kwetsbaar voor extreem weer (droogte, hitte, teveel water). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat kunnen weermodellen niet, teveel onzekerheden teveel factoren. \n\nDe radiative balans van de planeet kan je wel voorspellen adhv klimaatmodellen met invoer van verschillende emissiescenarios. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die concessie is natuurlijk exact wat er wel weer gaat gebeuren. Anders stel je geen bemiddelaar aan. En dat weten de boeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat u kunt vliegen bent u wetenschapper op dat gebied en hebt u verstand van klimaatontwikkeling?\nKom nou toch... Dit is het niveau van Meeus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee hoor, heb zelfs de brondocumenten gelezen. Maar \"de zwarten\" is generaliseren. En dit wordt voornamelijk door roomblanke \"sociaal liberalen\" gepromoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat een domme tweet.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Pas tijdens de 'UN Framework Convention on Climate Change' in 1992 sprak men over antropogene opwarming terwijl daar geen enkel bewijs voor was. Daaag? Ben je weg? Het jeugdjournaal begint? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij bent dom + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

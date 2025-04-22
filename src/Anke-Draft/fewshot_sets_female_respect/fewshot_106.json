@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik kende de man en zijn reputatie niet. Heb alleen dit interview gezien. Ik denk dat je zelf moet kijken om een oordeel te vellen. Vooral wat hij zei over de maatregelen leek mij plausibel. Dat hij een klimaatontkenner is, kwam in het interview niet zo naar boven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kwaliteit vd lucht id steden is nu inderdaad VEEL beter dan 40 of ook 120 j geleden. \nMetingen gebeuren toch al heel lang. In B sinds 1830? Er is een verschil tussen milieuproblematiek en klimaat. Mensen maken dat onderscheid niet altijd.\nBeiden zijn belangrijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja klopt.\n\nDeze is in eindversie nog niet af begreep ik. Maar schijnt dus echt zeer alarmerend te zijn.\n\n#IPCC\n\n#broeikasgassen\n#broeikaseffect\n#klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In de jaren 80 voorspelden wetenschappers dat het ijs op de polen in 2000 verdwenen zou zijn. Je ziet het valt wel mee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aub, neem gewoon 18 minuten de tijd om te luisteren. Het gaat helemaal niet over APP, maar over TLTRO’s en waarom groene TLTRO’s prijsstabiliteit (dus inflatie) ten goede kunnen komen en beter zijn op lange termijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij mij zijn het vooral mede rappers. Verrassend veel rappers denken zo. Maar blijft toch wel leuk om samen muziek te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "heb t toch verklapt, hopelijk niet erg 🤣🙃 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar gelijk heft hij, co2 heft niets met temperatuur te maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je precies een scheiding kan trekken zoals \"in de afgelopen 5 jaar\" dan is er iets dat zorgt dat dit opvalt. Als dat niet een media hype is dan is er een invloedrijk proces. Vaak door mensen uitgevoerd. Dat is ook belangrijk te ontdekken.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij kon wel leuk schilderen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt wel een stoïcijn ;) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jazeker wel. Wat snap je niet aan mijn uitleg? Nogmaals, je  duurzame energie wordt nu gebruikt voor de uitrol van een totalitaire agenda. Of dacht je dat die aanstaande klimaatlockdowns om het klimaat gingen? Really? Wauw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aah, we nemen het International Climate Change Panel dus alleen serieus mbt hun rampmodellen/ worst case scenarios!? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Juist. U hoeft mij niet te overtuigen hoor w.b. klimaatverandering en ernst ervan 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ga je mij nu vertellen dat al die bosbranden nu (en in Australie en Noord-America) doodnormaal zijn. Net zoals al die overstromingen en verloren oogsten? Really? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

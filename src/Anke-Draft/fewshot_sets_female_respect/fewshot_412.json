@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "3. Klimaatwetenschappers hebben ontdekt dat de droogte op verschillende delen in de wereld verbonden zijn aan klimaatverandering: \n\n4. Diezelfde groep heeft vastgesteld dat het uitzonderlijke koude voorjaar ook verband houdt met klimaatverandering: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "#ChinaFloods + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Isabel en Katrina in resp 2003 en 2005 waren cat. 5. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uit je lijst. Richard J Davidson is een psychiater. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn mening is dus dat de NOS juist tracht alles zo objectief mogelijk te brengen zonder zaken waar vooroordelen over bestaan te benoemen! Ook subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand durft er aan te beginnen zonder miljarden subsidie en garanties. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is naast de kwestie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ja, dat zal zo zijn. ik zit ook een beetje te geinen he ;-) goeie buikschuiver maakt 'ie wel daarna! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je een bron voor deze vermeende CO2 capaciteit? Nu refereer je naar westerlingen, maar ik zei Nederland specifiek(gebied waar wij invloed hebben) Welke consumptie? Welke bron heb je voor deze afnemende biodiversiteit? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nogmaals....... kan je grafieken lezen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echo - o - o -o + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"simpele zieltjes als jou ... echt W.B. \"als jou\" ??? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maarreh ... Je hebt toch ook wel enige ondeugden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De jouwe?\nInderdaad.\nZoals steeds. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je je erin verdiept had wist je dat 2050 is berekend door wetenschappers. We gaan het niet eens worden. Ik ga iets leuks doen met m’n avond. Ciao! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

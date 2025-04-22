@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De maas werd na 1926 getemd… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Raisa geeft ons geen uitleg waarom ze dat ene land en gebied erbij moet halen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Simon, bedankt voor het nemen van prik 5. We kunnen je dagelijks nu goed volgen op Google Earth. Je hart functioneert goed, voldoende zuurstof in je bloed. Je moet wel wat doen doen aan je cholestrol, die is veel te hoog en stop met roken !  :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen weet toch dat stikstof als een deken over het land ligt en dat dat alles verstikt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat vind ik ook. En dan ben ik ook nog een flexitariër - terwijl ik weinig van klimaatgedram moet hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben het niet met je eens dat landbouw de grootste vervuiler is. Volgens mij is daar ook geen onderbouwing voor. Greenpeace had het pas 'onderzocht' maar uiteindelijk bleek er gewoonlijk weer niets van te kloppen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat de mensheid het klimaat veranderd is even goed beschreven als de tektonische platen, een feit dus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Snelle klimaatverandering kan natuurlijk wel een probleem zijn omdat het een ecosystemen veranderd. Door de snelheid kunnen ze zich niet aanpassen. Soorten in koudere gebieden hebben beperkte uitwijkmogelijkheden. Ben met je eens dat hoeveelheid habitat ernstig tekort schiet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat klopt 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jullie snappen er niks van. Een kerncentrale kan juist efficient door draaien, beter dan volatiele wind/zon waarbij op de achtergrond fossiel moet bijspringen. En bouw kerncentrale is nog nooit zo aantrekkelijk geweest door extreem lage rente. Enorm voordeel om nu te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik krijg het gevoel dat je me in de maling neemt en mijn tijd zit te voldoen met deze lijst. Ik vind vanalles, economen, health neutrition experts en psychiaters maar wtf hebben die nu met het klimaat te doen??! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is de boodschap, je hebt moeite met slikken? Wat heeft dat nou weer met klimaatverandering te maken? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je woont aan zee is niet echt iets wat je expertise biedt op het gebied van geofysica. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U behoort blijkbaar tot de 15%. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

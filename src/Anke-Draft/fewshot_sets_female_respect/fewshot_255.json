@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja, de aarde zal het wel overleven. \n\nIk ben vooral bezorgd over wat de honderden miljoenen klimaatvluchtelingen met het politieke klimaat in de EU gaan doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hij is erg belangrijk genoeg voor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "leuk dat er mensen bestaan die zo bezig kunnen zijn met onbenulligheden als verkeerde interpunctie en onzin. Ben benieuwd naar je IQ. Mijn IQ is 139! Mijn EQ nog veel hoger + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jonge, helemaal voor het klimaat bevlogen mensen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je alles volplempt met tegels, ontvolg ik je. Pas dus maar op. 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is 18.4 cm per eeuw incl bodemdaling. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op de hoek bij de Heiloostraat waar het kerstbomen inzamelpunt stond + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En nergens mee akkoord gaan hoor. 😘 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh, nu snap ik het... ik had alleen die teletekst gezien.\nSterkte, Anton + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prima. Heb je een andere oplossing? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "weer een uit het verband gerukt antwoord als je in het nauw komt is ook weer een bekende reactie. Anderen verwijten naar anderen te wijzen terwijl je zelf naar een ander wijst. Wat heb jij er zelf aan gedaan dan? Boeren hebben de stikstofuitstoot alweer verlaagt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar WEGsmelten niet ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Niet zo generaliseren. Is echt niet ok. Bovendien komt dit niet van hen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2026 pas? En ondertussen laat de gemeente Purmerend op grote schaal bossen kappen in Estland voor hun \"biomassa\"? Het is pure greenwashing. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zie ik. Er zijn meerdere aspecten waaraan ik kan zien dat je educatie niet optimaal is. En daarmee gebruik ik een euphamisme. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het veter strik diploma is inderdaad moeilijker te halen 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bullshit + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

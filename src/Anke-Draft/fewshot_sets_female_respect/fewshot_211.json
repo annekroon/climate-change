@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat kan. heb je een peer review van een deel van het rapport voor mij? Lijkt me overigens best lastig, om voor publicatie een peer review te doen. Dat komt pas na publicatie namelijk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar ja als je drugs neemt en je gaat dood betekend dat niet dat de drugs de oorzaak is maar het helpt wel... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappers die windmolens of zonnepanelen propageren voor de elektriciteitsvoorziening mogen hun bul bij mij inleveren. Knoeiers. D66 wordt kleiner dan ik, en dat is volkomen terecht. Komt trouwens deels door het feit dat zij van wetenschap een bijgeloof hebben gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan maar bossen omhakken om te verbranden, alsof dat zo goed is voor het milieu. \nHeb je wel eens gezien hoe het materiaal voor accu's wordt gedolven ?\nHet elektriciteitsnet kan het niet eens aan.\nOlie is trouwens een natuur product. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja eens, maar dat moeten ze dan ook opschrijven. Dit geeft ruis en dat is helemaal niet nodig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Raisa geeft ons geen uitleg waarom ze dat ene land en gebied erbij moet halen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij Op1 heeft BB zeker drie keer gezegd dat een CO2-rantsoen of -belasting niet enkel voor burgers moet gelden maar ook voor bedrijven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee ik snap IPCC WG1 best. Maar een causaal verband tussen opwarming en de recente lokale regenval moet nader onderzocht. De afgelopen jaren werd juist het gebrek aan neerslag aan opwarming geweten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja. Dat klopt. Denk je dat ik dat zelf ook niet bedacht had? En mag er daarom nergens anders meer debat of discussie over zijn? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het geld moet uitgegeven worden aan het boven de armoedegrens houden van de bevolking. Want als je dat niet doet zit er straks een regering die 0,0 aan klimaat besteed, en 0,0 aan ontwikkelingshulp. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Weet ik, maar alle klimaatwappies gebruiken de term broeikaseffect ook niet meer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Op zijn kop helaas + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Laat eens even zien wat ik als \"bewijs\" beweerde. Dat maak jij er weer steeds van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Supertriest. En ik ben te dom om dat te snappen. :-/ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jullie nog banen zoeken. Er ligt nog een berg kerstboom afval en een stuk gereden stoep bij mij om de hoek( Volendamlaan)Doe daar eerst wat aan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

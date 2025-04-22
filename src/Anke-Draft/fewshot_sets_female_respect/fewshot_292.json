@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Hoe zien we die dan al?\nWist je bv dat je levensverwachting sinds de industriële revolutie verdubbeld is?\nWist je dat er in Europa 40% meer bos is dan 50 jr geleden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen invloed...\nWelke 3 miljoen bedoel je? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik krijg steeds meer de indruk dat er nog veel mensen zijn die niet inzien dat de boeren de afgelopen decennia al veel gereduceerd hebben en dus wel degelijk reeds proportioneel hebben bijgedragen en daarmee geschiedenis hebben geschreven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat suggereer ik niet, maar zo lees je het blijkbaar.\n\nSamsom is een ander onderwerp. Ik kan me voorstellen dat je als ecomodernist vraagtekens stelt bij zijn beleid. De functie  die hij nu bekleed vraagt niet om een anti kernenergie lobbyist.\n\nBron: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Milieu eens. Klimaat niet. Daarom snap ik de focus op biomassa ook niet (zelfs niet binnen de CO2-discussie) en waarom kernenergie bijna pertinent wordt uitgesloten als optie.  Aan de andere kant; CO2 is belangrijk voor de planten en bomen. Dus i.p.v. opstoken, 'voeren'. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vrijwel helemaal eens.\n\nDe politiek blijft op zijn handen zitten. Rampzalig.\n\nDat IPCC rapport alarmeert waarschijnlijk terecht.\n\nHoe meer journalistieke aandacht hoe beter. Anders gebeurt er niks. \n\nNogmaals; journalistiek juist  hoog in het vaandel.\n \n#klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat ik een egoïst ben omdat ik daarvoor mijn leven, mijn inkomen, het leven van mijn kinderen niet langer wil on hold zetten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt, maar zal nu opmars gaan maken. Met alleen windm en zon redden we het niet. Laat staan als we biomassa hout niet gaan meerekenen. Dan valt het hele klimaatplan door de grond. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg William Nordhaus en zeg adaptatie en sparen/beleggen. Uit het voorzorgprincipe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Leg eens uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hahahaha jokes on you: ze heeft me niet laten vallen, maar alleen gerookt en gedronken tijdens zwangerschap. Heb je niet van terug hè + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vriend, het zal me verder jeuken wat jouw \"mening' of interpretatietjes zijn. Zelf ben ik al oud, dus mij maakt het verder niet zoveel uit. Je zal wel anders piepen als er straks miljoenen klimaatvluchtelingen naar hier komen en er niks meer te vreten is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegenwoordig...\n\n2/3 van het volk: Oh nee, het klimaat!\nKlimaatexpert: EINDELIJK!\nVVD: Ja, dat varkentje gaan wij wassen! Niet lullen, maar poetsen!\nMedia: VVD weet van aanpakken!\nKlimaatexpert: Wat?\nGroene partijen: Huh?\nMedia: Groene partijen nemen geen verantwoordelijkheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah, in het artikel zie ik het nu. Dat is inderdaad knullig . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Is natuurlijk wel een heel beperkt beeld. Het gaat natuurlijk om de gevolgen van klimaatverandering die echt gevaarlijk zijn. Maar dat begrijp je zelf ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet u misschien wat beter lezen, ipv op 1 willekeurige tweet te reageren uit een uitgebreide conversatie + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

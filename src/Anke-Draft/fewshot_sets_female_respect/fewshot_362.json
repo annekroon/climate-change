@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Bijna iedereen weet het, bijna niemand doet er iets mee.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We je feiten weten voor je uitspraken doet. 1: Ik heb niet gezegd dat er geen energie bezuinigd moet worden. Dat moet wel, ongeveer 50%. Maar dan nog is de opgave gigantisch en is er op zee geen ruimte voor opwek voor huishoudens, mkb-bedrijven en vervoer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zon (warmte en stroom) wind, evt golf/getijden. Geothermisch is vaak te duur. Opslag in batterijen, waterstof alleen waar het de enige oplossing is. De potentie wordt nog lang niet uitgenut. Dunne film solar zal PV 5 keer goedkoper maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Van de 0.5°C afkoeling is geen sprake meer : (NH = Northern Hemisphere) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat stilzetten kan niet eens. Dat zou heel slecht zijn voor de wereld. Ik denk dat er nu niet meer of ergere natuurverschijnselen zijn dan pakweg 5000 jr geleden. Alleen wordt nu elke windvlaag binnen minuten wereldwijd bekend èn opgeblazen tot mythische proporties. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik begrijp dat... maar ik vind papier altijd heerlijk (ouderwets) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan de factor of bedrijfstak die daar op dat moment dan voor verantwoordelijk is. Nu is dat vooral de veeteelt (niet zozeer de landbouw) Dus laten we beginnen in plaats van ons alvast zorgen te maken over de toekomst. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of anders. Als we allemaal druppelen op die hete plaat, gaat die plaat wel afkoelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zou je nog een in een boekje over biologische samenwerking lezen,  maar heft niets met gender te doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Aan de andere kant zit dan nog het IJsselmeer. :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan had ik wel een betere uitleg verwacht.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Triest hè. Maar goed een ouwe witte man. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Beide zijn nodig. Een verandering  van mentaliteit en structurele door de overheid gestuurde veranderingen.  Beide gaan hand in hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jazeker wel. Wat snap je niet aan mijn uitleg? Nogmaals, je  duurzame energie wordt nu gebruikt voor de uitrol van een totalitaire agenda. Of dacht je dat die aanstaande klimaatlockdowns om het klimaat gingen? Really? Wauw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb hem echt wel gezien hoor. Maar ik vond het vrij eenzijdig en gedateerd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De dag dat jij laat zien dat je drie vriendelijke woorden *foutloos* aan elkaar kunt breien, is de dag dat ik m'n best ga doen om te begrijpen wat je probeert te zeggen. \n\nGo ahead: block me baby! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat is precies de denkfout: een 'hogere opbrengst', veelal bulkproductie, betekent niet een betere (bodem)conditie, integendeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waar heeft u het in hemelsnaam over? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

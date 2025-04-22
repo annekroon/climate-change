@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Opwarming komt door uitstoot van CO2 (voor de rest onschuldig gas) door de mens. Nt door slecht milieu ergens.\nWetenschappers kunnen d evolutie van klimaat goed documenteren op basis van allerlei gegevens. Niet alleen obv de meetgegevens van de laatste 200j. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is voor u een vraag voor mij een weet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Even snel =&gt; het vollopen van de Noordzeevlakte gaf een klimaatschok\n\nToen het nauw van Gibraltar brak en de Middellandse Zee geboren werd = klimaatschok + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Stikstof is geen klimaat issue. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee dat is het gevaar .. we denken veel te weten en doen interpretaties op aannames.. 150 jaar op 4,6 miljard jaar is peanuts.. en klimaat is zo ongelofelijk complex dat het niet tot 1 verbinding te reduceren is als ‘schuldige’ .. en al helemaal niet de menselijke uitstoot + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus toch niet de koeien ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is dan vrij ernstig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "U ontkent de rol van CO2 in klimaatverandering, terwijl dit allang aangetoond is: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Maar objectiviteit en activisme gaan vaak niet samen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar dan nog blijft de uitslag hetzelfde😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij wilt dat ook niet verder onderzoeken. Dàt is het verschil; je staat totaal niet open voor andere interpretaties. Bang dat jouw vastgeroeste wereldje waar nièts mag veranderen in gevaar komt. Je ontkent domweg dat er iets bijzonders gebeurd is en stopt  je kop in het zand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat een prachtig verweer, IQ en KlimaatWappie, geweldig om te horen dit is dus voor mij een bevestiging dat het echt goed mis is gegaan bij de geboorte, voeg me niet alleen toe aan jou tam tam lijst maar blok me is ook beter voor je natte luier. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maarreh ... Je hebt toch ook wel enige ondeugden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee zeker niet. ‘’Dat je kwaad bent snap ik, maar schei uit met dit gedoe.,, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt eenvoudig uitrekenen dat het verbranden van biomassa meer dan tweemaal zoveel CO2 oplevert dan het verbranden van aardgas. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Juist. U hoeft mij niet te overtuigen hoor w.b. klimaatverandering en ernst ervan 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ferd is een idioot en heeft de ballen verstand van het klimast. Daarom beantwoord hij ook nooit vragen en is hij continue onderweg om “het ijs te meten” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

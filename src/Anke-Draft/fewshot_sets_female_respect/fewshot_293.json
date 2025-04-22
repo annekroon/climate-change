@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als je het gelezen hebt, laat je me dan weten of je het met mijn oordeel eens bent of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij bent me net voor wat betreft de verwarming 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat ben je vroeg? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand beweert dat elektrisch gaan fietsen alles zal oplossen, dus gelieve mij dat ook niet in de mond te leggen aub. Maar daar wat meer de nadruk opleggen, zoals Dirk en ik wel eens plegen te doen moet kunnen. We kunnen echt wel met minder auto's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Idd lol\n\nJa... want Trump had samen met Putin dat brandertje veeul te hoog gezet en door zijn haarlak ontstond er een gat in de ozonlaag en daardoor kregen we zure regen dus meer tweelingen en... en...\n\nHet is mij ook een raadsel hoe ze dit in hun hoofd nog aan elkaar knopen 🤦‍♂️😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien hebben ze het opgegeven? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ook. Tegenwoordig vind ik het klein 😀 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn ongetwijfeld ook mensen met stadstuinen met drie muren van de buren waar de temperatuur overdag +18 bereikt. Trouwens het feit dat er veel mezen bij jou in de tuin komen zegt genoeg. Zo doen ze ook in de winter: voedsel dichter bij de mens zoeken omdat het warmer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja eens, maar dat moeten ze dan ook opschrijven. Dit geeft ruis en dat is helemaal niet nodig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je eens kijkt op de website van TerraPower:\n\n\n\nKun je lezen dat het een goede aanvulling is op wind en zonne-energie. Dus niet “of” maar “en”…\n\n“As more renewables are integrated into the grid, the demand for energy storage will continue to increase.” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik lag weer schuddebuikend voor de buis...Wat zijn die klimatofielen kansloze sneuneuzen...🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet het toch niet zo moeilijk voor je zijn om in eigen woorden uiteen te zetten waarom je denkt dat menselijk handelen en opwarming niet tot een significante zeespiegelstijging zal leiden?\n\nGeen studie relevant op het onderwerp gedaan zeker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U behoort blijkbaar tot de 15%. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je moet leren grafieken te lezen. 🙄Er staat niet gemiddelde. Er staat historisch max. \nIk heb het nog wel speciaal ge-highlight zodat dat duidelijk is. 🙄\nIk snap nu waarom je zulke rare denkbeelden hebt. Je hebt moeite met informatie correct op te nemen en te begrijpen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

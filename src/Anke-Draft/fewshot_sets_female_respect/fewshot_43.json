@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Terugkomend op onze discussie. Accijns verlaging? Dat bedoel ik. De keuze wordt gemaakt voor de mens uiteindelijk en niet voor het klimaat. Tussen oplossing per direct biodiesel mandaten terugschroeven. Bereik je hetzelfde mee. Voedsel wat we nu hard nodig hebben + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Twee verschillende zaken, het klimaat en inwoners.\nDe klimaatontkenners zoeken de ontkenning.\nDe realisten de oplossingen, hoe meer oplossingen hoe meer ruimte voor leefbaarheid.\nImmigratie 4.0 vraagt wel om betere afstemming van werk=en leef componenten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het IPCC? 🤣 Die maken rapporten die helemaal aangepast zijn aan de wensen van regeringen om vooral maar zo weinig mogelijk en zo langzaam mogelijk iets te doen. In werkelijkheid is 1,5 graad opwarming al lang niet meer aan de orde. Ben ik een alarmist? Ja, en realist. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "co2 is goed voor de bomen!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Halvering van de veestapel komt er niet net zoals dat KLM dat bij haar vloot doet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Olie is een natuurproduct: arsenicum ook. Lood. Kwik. Nauwelijks een argument :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een heel eenvoudige.\nEen absoluut record is statistisch iets heel anders dan de afwijking van wat je gemiddeld genomen kunt verwachten. Voor het eerste heb je maar één waarneming, voor het laatste elke dag elk jaar een waarneming.\nEén enkel record zegt niets over veranderingen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat ja. Er moet een verplichte vaccinatie komen tegen een tekort aan empathie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatcrisis is onzin, de stikstof is onzin, het gebrek aan water is onzin, er is een gebrek aan eerlijke bestuurders, dat is de enige crisis die er is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwa, een klant (Copenhagen Atomics) is op schema om over 5 jaar de eerste commercieel verkrijgbare Thoriumreactor te produceren. Dit is hun verhaal in een notedop. Copy/stem/knip-en-plakwerk van ondergetekende. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Anonimiteit is wel een legitiem argument in deze in uw realiteit? 🤡 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Even volhouden het weekend. Zeurpiet #superzomer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iedereen maakt foute jij ook. \n\nWat grappig is. Dat #idiootjes dat het onderwerp proberen te maken. Maar totaal geen inhoud hebben op het onderwerp. \n\nDOEIDOEI bij je volgende #DOMME reactie blok ik je.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als een bedrijf lid is van organisaties die als enige doel hebben desinformatie te verspreiden over klimaatverandering, 𝘄𝗲𝘁𝗲𝗻𝗱𝗲 𝗱𝗮𝘁 𝗲𝗿 𝗱𝗮𝗮𝗿𝗱𝗼𝗼𝗿 𝗱𝗼𝗱𝗲𝗻 𝘇𝘂𝗹𝗹𝗲𝗻 𝘃𝗮𝗹𝗹𝗲𝗻, puur  om hun eigen winstmodel te beschermen, vind ik dat kwaadaardig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Okey I tried, maar zwaai het niet altijd af. GN verder 👍🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja als je genoegen neemt met basisschool redenatie. Helaas zo zit de wereld niet in elkaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U kunt dus géén bron vermelden, duidelijk. De waarde van uw mening is dus net zo groot als een drol, waarvan akte 👌\nGegroet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De waarde van uw mening is even groot als de waarde van een drol 👎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

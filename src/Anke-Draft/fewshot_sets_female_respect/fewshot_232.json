@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Helaas behoor ik niet tot die categorie mensen 😂 Zelfs na 2 jaar pfizer vaccins promoten heb ik geen stuiver extra mogen ontvangen 🥴😩 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "‘In uw eigen woonomgeving’ scoorde maar bij 21% van de respondenten JA. \n‘In uw achtertuin’ had vast nog een stuk lager gescoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe meer mensen er op aarde zijn hoe groter de vervuiling. Iedereen moet eten.Iedereen wil een smartphone etc etc...Om dat te faciliteren zullen we moeten putten uit de natuurlijke bronnen van de aarde...dat zal het evenwicht verder verstoren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik claim niks. Ik vraag naar bewijs. Als ik zou claimen dat de klimaatverandering niet mensgemaakt is m, DAN zou ik bewijs moeten leveren. Maar dat doe ik dus niet. Ik vraag louter bewijs. En dat is er niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In Margraten plakten ze tegels aan de wanden van de huiskamer. Die liep namelijk elk jaar onder. Soms 1 meter, soms 50 cm, soms 1,5 meter afhankelijk van de ligging van je huis. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat hebben we toch maar weer ffkes goed gedaan als mensheid hè?! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kende de man en zijn reputatie niet. Heb alleen dit interview gezien. Ik denk dat je zelf moet kijken om een oordeel te vellen. Vooral wat hij zei over de maatregelen leek mij plausibel. Dat hij een klimaatontkenner is, kwam in het interview niet zo naar boven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "denk niet dat een SP gemeente op mij zit te wachten ;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik vrees dat dat niet vanzelf gaat omdat er ook nog steeds mensen zijn die het saboteren omdat ze andere belangen dienen: zichzelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo was het vroeger, ten tijde dat mijn vader er een bedrijf had. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegenwoordig...\n\n2/3 van het volk: Oh nee, het klimaat!\nKlimaatexpert: EINDELIJK!\nVVD: Ja, dat varkentje gaan wij wassen! Niet lullen, maar poetsen!\nMedia: VVD weet van aanpakken!\nKlimaatexpert: Wat?\nGroene partijen: Huh?\nMedia: Groene partijen nemen geen verantwoordelijkheid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En jij kan dat objectief beoordelen? Heel bijzonder! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Over hypocrisie gesproken. #klimaatverandering ontkennen, maar wel gered willen worden 🙃👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Waarom doe je alsof dit een uitspraak van politieke partijen was ipv een rechter? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ook daarom zijn miljardairs nutteloos en moeten ze kapot belast worden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

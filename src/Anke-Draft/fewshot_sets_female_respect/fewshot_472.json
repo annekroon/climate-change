@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Precies stikt Vd kou hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus buiten het feit dat je precies in kaart hebt hoeveel kilometers er gevlogen gaan worden dat jaar (in totaal)...verplaats je ook kapitaal van de rijkere burger naar degene met minder geld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is uiteindelijk ook een detail in het gehele artikel. Zoals  daarover terecht zegt: bemoedigend! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik probeer m'n best te doen.\nEn ben vast de enige niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering kan de mens niet en nooit niet stoppen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het kappen van die bomen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welnee, er komen geen concessies. Er is nog 25 miljard die verdeeld moet worden. De balans tussen verhuizen, innoveren, schaalverkleining en uitkopen geeft voldoende mogelijkheid voor \"concessies\" voor boeren die nu lijken te denken dat hun leven op het spel staat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik hoop dat jij gelijk hebt maar ik vind dat we ons uiterste best moeten doen om de aarde nog leefbaar te houden voor volgende generaties. De nare effecten worden steeds erger. Ik hoop dat je verder 'durft' te kijken dan je eigen wensen en behoeften. Zo belangrijk zijn wij niet! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt en wat hebben we eraan als dat kleine percentage steeds groter word? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, sorry Baudet roept bergen onwaarheden.\nKortom, daar kan ik en inmiddels de helft van zijn kiezers niet veel mee.\nKortom, investeringen uitdrukken in een meerwaarde mbt klimaat en economie maakt een en ander kwantificeerbaar.\nDenk aan onze waterwerken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "studenten die het verschil niet kennen tussen GW en GWh raken niet tot bij mij trouwens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah ik neem aan dat jij je pensioen dan ook gaat weigeren? En al je gezondheidszorg zelf betaalt? En 60 uur per week werkt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat het allemaal wel mee valt en dat we de komende 100 jaar droge voeten houden. Lees het artikel maar eens goed en geniet van deze mooie dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tegen zoveel onbenul valt niet op te boksen🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Oke snap je punt.. de meeste zwarten . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De jouwe?\nInderdaad.\nZoals steeds. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

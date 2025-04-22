@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zeer verontrustend + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Uitdagingen is het goede woord, dus ook oplossingen, maar dan moet je wel verder willen kijken dan je neus lang is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het begint toch echt bij bedrijven. De tata steels, de shells, de rabobank ;) \nLaat die eerst maar hun faire deel aan belasting betalen of portfolio aanpassen.\n\nDaarnaast staat de verhandelbaarheid me tegen. Rijken kopen die af en gaan verder met hun leven, aanpassen doen ze niet + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die heb ik sinds een maand niet meer aan. Je weet, uit solidariteit. 😁 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je dan een bron voor mij? Sommige aannames gaan net zolang mee tot tegendeel bewezen wordt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou ik ook, wie weet al wat eerder. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat toch echt dat ze vluchten vanwege extreem weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Respect voor je opvatting heb ik altijd-zoals voor vrijwel elke opvatting. Maar het zou wel helpen als die niet deels gebaseerd is op feitelijke onjuistheden en wensdenken voortkomend uit een onwrikbare overtuiging. Zullen we het er op houden dat de rechter altijd gelijk heeft?😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Rivieren staan al droog in verschillende landen, onze rivieren binnen 2/3jaar ook, moordend want drinkwater is 1e levensnoodzaak. Gletsjers zijn bijna weg, vervoer over water dus ook. Blijft regen over om ons te redden, dat tekort is er nu ook al hier, gigatempo is noodzaakelijk! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee dat denk ik ook, maar het begint ook wel een heel serieus probleem te worden.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Denk ondanks dat niet dat ze in aanmerking komt voor Boer Zoekt Vrouw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "GEZEUR. Woordgebruik zegt genoeg. Na mij de zondvloed! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Knap hoor. Ik heb ook gewoon een academische studie afgerond. Dus ben prima in staat zelf na te denken en me geen ongefundeerde angsten te laten aanpraten. Klimaat is een verdienmodel geworden. #followthemoney + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jazeker wel. Wat snap je niet aan mijn uitleg? Nogmaals, je  duurzame energie wordt nu gebruikt voor de uitrol van een totalitaire agenda. Of dacht je dat die aanstaande klimaatlockdowns om het klimaat gingen? Really? Wauw. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blij dat je toegeeft aan propaganda mee te werken!!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat is de boodschap, je hebt moeite met slikken? Wat heeft dat nou weer met klimaatverandering te maken? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik negeer het niet. Zeg ook niet dat er niets moet….\nMaar direct deze toon….. Dat vind ik nou zo bijzonder….. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt uw informatie uit bronnen die u aanstaan, vrees ik. Nog een zonnige  dag! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Wetenschap dient ook kritisch bekeken te worden. Er is zeer veel manipulatie. Gaat het ook over weer manipulatie door de Navo (chemtrails, haarp) en wat de gevolgen hiervan zijn voor de planeet. Alles bekeken en berekend. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Onderstaande bron is volgens jou dus onzin? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt voor de snelle reactie. Geven we meteen door (meldingsnummer = MOR2343192) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Too high, too low? Why? Proof? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, maar die koeling duurt geen 4000 jaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ze hebben gelijk, zoutwater kwelt al in Noord-Holland… 😁😁ben niet voor niets vertrokken, 300 m boven NAP + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😩🤷‍♀️ nobody told me... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Shell uit 1991, in het eerste IPPC rapport van 1990 stond dat er niets meer te zien was dan natuurlijke variabiliteit. Jij  beweert dat het simpel is in je tweet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is een van de projecten waar ik het meest trots op ben. Ik hoop volgend jaar te beginnen met het samenstellen van een vervolg - want het onderwerp blijft helaas voorlopig actueel ... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want dat is het beeld wat ik mee krijg uit onderzoek, robuuste ecosystemen en misschien ook meer diverse agrosystemen zijn minder kwetsbaar voor extreem weer (droogte, hitte, teveel water). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan zal ik het heel simpel vragen....al jouw eigen geld al overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jij onbelast vliegen voor een paar duppies terwijl een grote klimaatcrisis eraan komt niet absurd vindt.... Dat is pas speciaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#klimaatGEK(TE) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Want jij stelt een oplossing met biomassacentrales voor !?\nOok goed !\nSucces ! 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nu doe je het al weer + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt gelijk boy en dat wat mijn menng betreft maak ik zelf wel uit knul . + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "De overstroming is een resultaat van iets dat natuurlijk kan gebeuren. Klimaat zal de frequentie ervan verhogen maar de gebeurtenis zelf had net zo goed kunnen gebeuren als er geen klimaatprobleem zou zijn. Daarom is het geen schoolvoorbeeld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat we er veel over kweppen waardoor we niets hoeven te doen. zie de boeren bv. Dat we dus kansloos zijn. Maar ook dat het veel sneller gaat dan we denken. 64 dagen hittegolf 😎😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmm. Maar in welke verhoudingen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We zijn een klein land met enorm veel vervuilende industrie en idioot veel vee. Onze haven in Rotterdam is 1 v/d grootste ter wereld. Nederland zou koploper moeten zijn. We bulken van het geld. Er gebeurt bijna niets op gebied v klimaat. Rutte ziet enkel economie als belangrijk! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vandaar die ijstijd voordat er koeien waren ........ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die was niet gericht naar u, hoor! Maar op de reacties op de tweet. Anders had ik u wel weer gequote tweet 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, dat is op zo veel verschillende manieren aangetoond dat het algemene kennis binnen de klimaatwetenschap is. Net zo als dat biologen nauwelijks discussieren of de evolutietheorie klopt of niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Daarover zijn we het eens.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er zijn ongetwijfeld ook mensen met stadstuinen met drie muren van de buren waar de temperatuur overdag +18 bereikt. Trouwens het feit dat er veel mezen bij jou in de tuin komen zegt genoeg. Zo doen ze ook in de winter: voedsel dichter bij de mens zoeken omdat het warmer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is ook niet bedoeld om te werven. Het is een simpele observatie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahahahaha ... noem anderen niet te snel \"simpel\" vriend dan blijf je heel. Je bent wat je zegt (of schrijft in dit geval). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik steek geen tijd in onzin. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent er bijna, correctie 4% van?\nNu nog kijken naar regeltje 2.\nConclusie? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja als je genoegen neemt met basisschool redenatie. Helaas zo zit de wereld niet in elkaar. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je bent nogal druk met mij, moet ik me gevleid voelen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Daar is Klaas (lobby) Martens weer. Zich kapot starend op kernenergie.\nTerwijl de business case voor kern energie gewoon niet goed is.\nDe prijs is te hoog of wind en zon te goedkoop.\nEn nee ik ben niet tegen maar realist.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

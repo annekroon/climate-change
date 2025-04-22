@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Op geen enkel moment heb ik iemand get of uitgedaagd voor een twitter fight.\nNiemand is verplicht mijn mening te lezen.\nIk zou dus ook niet weten waar die reactie vandaan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Doe ik ook zeker niet. Waar ik het over heb is een leraar in een breed spectrum van beta vakken die een reeks van 24 of zo lectures hierover geeft. Hij beschouwd inkomende en weglekkende energie.van de zon in en uit onze atmosfeer en zijn samenstelling. Hij is geen ontkenner. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is electoraal goud, als hun ideeën ook sociaal-economisch links zouden zijn. Maar vooralsnog zijn ze dat niet. Als ik ze bv. hoor pleiten voor hogere benzineprijzen (wat inderdaad de consumptie tempert), betekent dat dat alleen rijke patsers in SUV's CO2 mogen uitstoten... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In de jaren 80 voorspelden wetenschappers dat het ijs op de polen in 2000 verdwenen zou zijn. Je ziet het valt wel mee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vakantie en wereldwijde crisis zijn twee onderwerpen die ineens best dicht bij elkaar liggen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bij mij niet 🤷‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Niemand ontkent klimaat !! Wij ontkennen het voorspellend vermogen van IPCC klimaatmodellen en wij zeggen dat het weer, en dus op lange termijn het klimaat, wordt bepaald door een resem van parameters en niet door de CO2 concentratie in onze atmosfeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Grappig hé. China doet meer in een maand als de hele EU per jaar aan vergroenen. Maar uw baised #fabeltjesfuik info laat dat niet zien.\nU vergeet dat China de fabriek voor de wereld is. Ze bouwen kolen, kern, zo'n, wind omdat ze daarvoor elektra nodig hebben.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het gaat niet zozeer om het klimaat maar het ontkennen van het aandeel van de vee-industrie in de klimaatverandering die jij ontkent. Naast het feit dat boeren zelf de grootste oorzaak van de droogte in agrarische gebieden zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "In het artikel staat dus dat men het niet goed weet. Zou ook met wind en waterstromen te maken hebben. Zoals men zoveel niet goed weet. Maar men doet altijd alsof men het precies weet. \n\nDe 3 Klovendam heeft de tilt van de aarde bv. meetbaar veranderd. Komt door het stuwmeer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het netto effect van één van de antropogene invloeden. Nu nog van de rest en van de natuurlijke terugkoppelingen Joris. Kijk, het IPCC presenteert een ECS range van vele graden. Voor de laatste keer: welke is de juiste? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Echt? Gelooft hij niet meer un de Schepper dan....\nOngelooflijk + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gevolgen...\n\nHorende doof, ziende blind. Het klimaatdogma is in steen gebeiteld door (ver) blinde apostelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "kort door de bocht. Als alleen daden tellen valt er weinig te stemmen. Pvda heeft dr verantwoordelijkheid in t vorig kabinet genomen. verder terug in de tijd, PVV gedoogde alleen, dus irrelevant. Blijft over VVD, D66, CDA, PvdA, CU en de rest zit comfortabel in t oppositiebankje + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo is dat poes + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Correctie: het is ZICHZELF + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zijn ze wel  te links dan? :) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je het IPCC rapport gelezen hebt weet je dat die wetenschappers helemaal niets zeggen over klimaatalarm. Maar als ideologie en activisme hand in hand gaan wil je dat niet horen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

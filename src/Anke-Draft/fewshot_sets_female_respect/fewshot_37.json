@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Mooi. Ik ga eens kijken of mijn lokale bieb het boek heeft :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Natuurkundigen, economen en natuurliefhebbers.\nNee. Ze zijn te weinig rendabel, hebben een ongunstige ERoEI, hebben een te lage energiedichtheid, doen een te groot beroep op de grondstoffenvoorraad, zijn niet brandveilig, hakselen vogels, enz.\nGas alleen ter transitie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar wat Peter zegt is misschien duidelijker: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De zondvloed komt er niet weer volgens de Bijbel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heel erg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is helemaal niet wat ik aan 'oplossing' voorstel en wat jij progressieve mensen Timmermans, Samson, en Kaag, simpel als enig zaligmakend, in de schoenen schuift.  Hun voorstellen om de CO2 uitstoot te reduceren omvatten veel meer maatregelen dan jij eventjes hier twittert. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want dat is het beeld wat ik mee krijg uit onderzoek, robuuste ecosystemen en misschien ook meer diverse agrosystemen zijn minder kwetsbaar voor extreem weer (droogte, hitte, teveel water). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Omdat dat betekent dat iemand anders voor je gaat bepalen wat je wel of niet mag. Waarom zou iemand voor mij bepalen of ik 1 keer of 5 keer vlieg? De tickets betaal je zelf toch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Waar is uw bewijs van het tegendeel? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Goed nieuws voor de biomassa centrales... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik bespeur nog steeds geen (begin van een) oplossing. Gewoon maar niks doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Helemaal fijn pik. Voortaan lekker je mening voor je houden.\nLekker je broodje smeren en vergaan met je dag. Ciao cazzo di merda. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Blijkbaar snap je niet hoe wetenschap werkt of de definitie van wetenschap moet in de afgelopen 25 jaar gewijzigd zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "*Clue. Ik begrijp je volkomen hoor: jouw mening is dat vliegen goedkoop moet blijven zodat iedereen dat kan blijven doen. Ik ben van mening dat de destructie van onze planeet niet opweegt tegen deze luxe. En een veel te goedkope luxe dat wij bekopen met misgelopen belastingen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo was het vroeger, ten tijde dat mijn vader er een bedrijf had. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahah 🤣 Ja, alles negeren wat niet in het hersenspinsel past schijnt enorm te helpen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De Belgische uitgerangeerde natuurkundige die altijd detailplaatjes upload? Die de grote lijnen maar niet kan zien??🧐\n\nNee joh die had ik in één gesprekje op twitter onder de tafel gel*ld. Kon niet op tegen mijn kennis van #klimaat, #evolutie, #duurzaamheid en #milieu 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja maar JIJ gebruikt die gegevens als een argument. Dus vind jij dat die gegevens iets bewijzen of niet? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

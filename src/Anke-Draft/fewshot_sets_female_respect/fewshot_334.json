@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ja dat is wellicht het aller beste punt. Dit wisten we natuurlijk 50 jaar gelden en die gegevens liegen er niet om. Maar ja, hoe ga je minder mensen krijgen… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Voorheen was Enkhuizen ook meer een SGP/CU gemeente.. daar hoor je nu weinig meer van. Met het verdwijnen van de visserij verdween dit ook uit Enkhuizen. Bij de laatste Gemeenteraadsverkiezingen 5.9% van de stemmen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou ik ook doen, als ik jou was. Gaat over verstandige ondernemers die we eigenlijk wel kunnen vergelijken met de vijf wijze maagden 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En de kans is blijkbaar elk jaar kleiner en kleiner? Aangezien het nu al wel heel lang geleden is + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je lijkt mij een vriendelijke strijder. Net als ik ben. We verschillen van, tja ik noem het toch nog maar even mening maar op deze manier kunnen we er komen. Ik ken de boeken nog niet maar ik sta altijd open voor nieuwe inzichten. Bedankt voor de kennis. Succes met je strijd🥦🥊 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is uiteindelijk ook een detail in het gehele artikel. Zoals  daarover terecht zegt: bemoedigend! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook bedankt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat #klimaatverandering zou bijdragen aan menselijk leed (overstromingen, orkanen, klimaatvluchtelingen) wordt NIÉT beweerd door #klimaatsceptici maar juist door #klimaatalarmisten en #klimatologen\n\nOnze kennis over #klimaat zit nog boordevol gaten\n👇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met name boeren zijn zich hiervan terdege bewust, zij merken de praktijk aan den lijve, elke dag weer. Maar zijn daardoor ook erg flexibel, dus die voedselproductie blijft, maar wel anders. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook gebrek aan leiderschap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Want jij stelt een oplossing met biomassacentrales voor !?\nOok goed !\nSucces ! 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maakt niet uit Harry, ik mag je graag, maar op dit vlak ben je niet goed wijs, net zoals ik dat was( en nog steeds ben ) op veel terreinen. \n\nAl zijn we al te laat gezien de huidige cocktail/ a perfect storm gaat de mensheid reduceren tot dystopia  Maar tot dan, Proost!;-)) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Het is ongelooflijk duidelijk door naar de grafiek te kijken\"\nEn vervolgens met een alarmistisch, misleidend krantenartikel op de proppen komen dat kant nog wal raakt.\nHet is 3 dagen zeer warm geweest in het VK, ja. Is dat te wijten aan CO2? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zou beter zijn om de #VVD op te heffen:\n- ontbrekend moreel besef\n- integriteit is een vies woord\n- eigenrichting\n- liegen, bedriegen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Welja. Welnee. Welja. \n\nAlle teksten op de website van het IPCC en summaries die zij geven zijn alarmerend. Het gaat om de prognoses, de toekomst, de kantelpunten. 19 cm is nu. Het gaat over 2100, dan ziet de wereld er serieus anders uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jullie snappen er niks van. Een kerncentrale kan juist efficient door draaien, beter dan volatiele wind/zon waarbij op de achtergrond fossiel moet bijspringen. En bouw kerncentrale is nog nooit zo aantrekkelijk geweest door extreem lage rente. Enorm voordeel om nu te bouwen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "ik heb geen idee hoe je 3 meter in 2100 in een risico-model past...\n\n\nof hoe je adaptatie vertaald in bankiersjargon. \n\nWie weet houden we Frankfurt droog. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus toch niet de koeien ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, behanger las ik. Ook gevaarlijk 😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "[2/2] Kijken we naar de activiteit van onze zon, dan zien we dat deze momenteel naar een minimum aan het bewegen is en tegelijk neemt de temperatuur gestaag toe, dat volgt uit satellietmetingen. Conclusie: de zon speelt deze keer geen rol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Schiphol kan inderdaad niet zonder kerosine. De gehele luchtvaart niet trouwens. \n\nGoed punt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prima. Als je maar niet van mening bent dat de wetenschap ook een mening/standpunt is. Klimaatverandering is geen grap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zeker. En anders exporteren we dat spul naar Afrika. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "en het is idd veelomvattend en complex. Zelfs de klimaatveranderingsscenarios zijn niet eenduidig. Al blijven we t onacceptabel vinden als we Parijs niet halen, want 3° opwarming levert nog veel meer natuurschade op.\nEcht heel moeilijke dilemma's. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan moet je bomen planten, vooral geen extra mensen hier naartoe en steden zo klein mogelijk houden. Glazen flats verbieden. We kunnen zoveel zelf doen. Maar daar komt de rivier niet mee vol. We zullen dit hogedrukgebied even moeten afwachten. In de nacht hebben we prima temp nu. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Geen direct verband tussen individuele gebeurtenissen en klilaatopwarming. Wel tussen klimaatipwarming en extreem weer in het algemeen.\n\nZelfs in een artikel haakt u er uit wat u ideologisch gelooft.\n\nDe mens heeft daar een enorme invloed op door zijn enorme uitstoot. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "DENK JE ECHT??? ER WORDT MET WILLEKEUR GEKNOEID EN DUS VIND JE DE WAARHEID NIET TERUG. IK HEB ER 2 IN MIJN LEVEN MEEGEMAAKT. 1 TOEN IK NOG EEN PUPPIE WAS EN 1 EEN AANTAL JAAR GELEDEN. EN JIJ? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat bewijst de grafiek? Dat heb ik van jou nog steeds niet gehoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ah..check✅.. jij bent af!\n\nTweetje was correct wat de uiteindelijke productie van het geïnstalleerd vermogen wordt is niks over gezegd.\n\nSucces met cursusje  schrijven 👍\n\nPs..stuur je studenten niet door naar mij. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dream on + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Milancovitsch? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar je hoort wel bij een steeds kleinere minderheid Jaap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zodra u uw eerste wetenschappelijk onderbouwde tweet stuurt EN bewezen is dat dit nog nooit gebeurd is in Europa zal ik nog antwoorden.  Tot nu toe is het vooral toogpraat van u. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat begrijp je hier niet aan?\n\nDe Rijn zat alleen zo vol omdat de gletschers sneller smelten dan ze eigen \"horen\" te doen. Straks zijn ze op en staat er minder water in. Dan kun je lang en kort lullen maar zo ist nu eenmaal. Dat snap jij ook wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee helemaal niet je snapt er niets van + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

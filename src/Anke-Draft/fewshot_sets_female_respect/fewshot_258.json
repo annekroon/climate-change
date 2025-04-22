@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Link werkt niet bij mij, apparaat ondersteund wat u gestuurd heeft niet. Dan maar een foto ervan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Welnee, dat staat niet in het wetenschappelijke deel. Je praat ideologische activisten en politici na. De zeespiegel stijgt geleidelijk max 19 cm per eeuw en sinds 1880 is de gemiddelde temperatuur 1,5 grC gestegen. Alleen volgens modelprognoses stijgt de temperatuur sneller. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het één gaat ten koste van het andere. De door jou veronderstelde oogst op 'topniveau' gaat ten koste van de kwaliteit van de bodem, die uiteindelijk tot uitputting leidt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Of Floyd een crimineel was, is aan een rechter, niet aan jou. Etniciteit weglaten als het verder niets met het onderwerp te doen heeft, en er zijn maar weinig onderwerpen waar etniciteit een rol speelt, is juist objectief. Dus jouw mening blijft te allen tijde subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat gaat je niet lukken, de mensheid zal ten onder gaan aan zijn eigen succes. Op zichzelf is dat dan weer goed voor de aardbol en het klimaat ! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Alles is te vinden op de site van IPCC. Daar ook expert reviewers. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat we er veel over kweppen waardoor we niets hoeven te doen. zie de boeren bv. Dat we dus kansloos zijn. Maar ook dat het veel sneller gaat dan we denken. 64 dagen hittegolf 😎😞 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het klimaat verandert al 4 miljard jaar. Even snel als nu? Fitfor55 had 30 jaar geleden gelanceerd moeten zijn. De opwarming die we nu zien is het gevolg van onze uitstoot van toen. Hopelijk beseft u wat er nog gaat komen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook gebrek aan leiderschap. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "kort door de bocht. Als alleen daden tellen valt er weinig te stemmen. Pvda heeft dr verantwoordelijkheid in t vorig kabinet genomen. verder terug in de tijd, PVV gedoogde alleen, dus irrelevant. Blijft over VVD, D66, CDA, PvdA, CU en de rest zit comfortabel in t oppositiebankje + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alsjeblieft zeg ga nou niet de wijsneus uithangen en laat dit aan experts over dus rustig kijken van wat is hier nou gebeurt en hoe komt dat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je kunt eenvoudig uitrekenen dat het verbranden van biomassa meer dan tweemaal zoveel CO2 oplevert dan het verbranden van aardgas. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Stikstofuitstoot. Niet de CO2. Start eens met het lezen van mijn artikel. Dat helpt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als jij onbelast vliegen voor een paar duppies terwijl een grote klimaatcrisis eraan komt niet absurd vindt.... Dat is pas speciaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar zijn zij ook maagden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoe lang loop je al rond op deze aardbol? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "En je leest erg slecht, het gaat helemaal niet om Shell, het gaat om banken die palmolie plantages aan laten leggen. Veevoeder bedrijven die er verantwoordelijk voor zijn dat Braziliaans oerwoud wordt gekapt voor  soja + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

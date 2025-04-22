@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zeker, #au! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ontken ook niet dat het #klimaat verandert; dat veranderde al vele malen (bijv. fossielresten van tropische begroeiing onder het ijs op Antarctica)\nOok #klimaatverandering sinds 1880\nDe vraag is wel of \"opwarming\" door de méns wordt veroorzaakt\n#CO2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jawel ben heel goed mee.\nTemperatuur in regenwouden is constant. Geen opwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies dat .... zinloos en kansloos.\nMaar gelukkig heeft de NL regering bewezen dat ze een pandemietje wel uitstekend kunnen managen .... 😂\nNa ‘Dansen met Janssen’ de effectieve actie ‘Een graad voor het klimaat’ !? 🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eens. En dan 100% inzetten op echt cradle to Grave CO2 vrije alternatieven; geothermie, kern energie (binnen 10 jaar oplossing voor zeer kleine hh afval), thorium zoutsmelt etc. Betrouwbare energie die er altijd is zon/geen zo’n, wind/geen wind en die al onze biotopen spaart. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoe zou uw tweet klinken moest men deze #fitfor55 een jaar vroeger worden gelanceerd?\n\nDemir =&gt; nog geen minister\nregen =&gt; extreme droogte ...\n\n#justwondering\n#tijdsgeest\n\n30 jaar weer is klimaat\nKlimaat verandert al 4 miljard jaar + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mijn mening is dus dat de NOS juist tracht alles zo objectief mogelijk te brengen zonder zaken waar vooroordelen over bestaan te benoemen! Ook subjectief! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kan wel. Hij zal dan wel een deel moeten verkopen om de belasting te betalen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "(en ovrgs zal die aanwas ook geen constante zijn waar de neerslag locaal toe of afneemt oiv klimaatverandering) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gemeten sinds?\nIs dat voor of nadat het KNMI hittegolven geschrapt heeft? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zijn neefje!! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Tja, als je de wetenschappers niet wilt geloven… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zo eet je de rijken wel snel op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan indruk maken heb ik totaal geen behoefte. Houd je eens bij de feiten i.p.v. #bashen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bewijzen? Wie begint daar nu over? Ik geef mijn mening over Meeus op basis van zijn tweets. Op basis van gezond verstand en logisch redeneren.\nEn daar komt u binnen in dit draadje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🙄 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "2: Ik heb niet gezegd dat er persé opwek in natuur plaats moet vinden. Wel dat voorbarige protest van natuurorganisaties teken is dat zij prioriteiten verkeerd hebben. Door alleen te kijken naar korte termijn belang van bedreigde natuur zien ze niet de vloedgolf die er aan komt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hij vertelt dat er vaker overstromingen geweest zijn, maar dàt wisten we al. Overstromingen op kleinere schaal, zeker in het voorjaar komen wel vaker voor. Gaaaap. Het gaat om de oorzaak van die overstromingen. Daar heeft hij het niet over. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je je erin verdiept had wist je dat 2050 is berekend door wetenschappers. We gaan het niet eens worden. Ik ga iets leuks doen met m’n avond. Ciao! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Wetenschappelijk onderzoek doen en daar over regelmatig publiceren in bladen als nature en science. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Heb je gezien wat wij (  en ondergetekende) hebben ingebracht aan ipcc materiaal...? Heb je onze pleitstukken gelezen? Heb je het vonnis gelezen waarin staat op welke ipcc-stukken het gebaseerd is? Blijf je nou echt t vonnis contraproductief vinden? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen en het gat in de ozonlaag zijn zoals bekend sterk verminderd door streng milieubeleid. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwah....Al die velden met zonnepanelen en windturbines nemen een veelvoud ( zacht uitgedrukt) aan ruimte in beslag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou dan de tweets nog eens lezen 😉. Context is alles. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "75% van alles wat gekweekt wordt gaat dus naar vee.\nPersoonlijk watergebruik hoewel het belangrijk is, is eigenlijk verwaarloosbaar als mensen hun eetgewoonten niet aanpassen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat is inmiddels wettelijk ook al niet meer toegestaan in openbaar groen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is beschamend dat het zo moet. Maar als het moet dan moet het. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die regen is ondertussen basisch en de ozonlaag zit zo dicht dat zelfs CO2 niet meer kan ontsnappen.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zie geen verband tussen een epidemie en ontbossing of klimaatverandering + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Gee diesel, maar wel eentje die voor 3 huishoudens verbruikt.. \nMaar ik doe het raam een beetje open, zodat ik met mijn koele lucht het een beetje minder warm maak voor iedereen.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd, gewoon saaie ambtenarenpraat. Next. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Voor de duidelijkheid: jullie vinden het een goed idee om banken te subsidiëren via geldcreatie als ze investeren in projecten die onder de EU regels van 'groene projecten' vallen? (Regels die aangepast kunnen worden door politici.) \nWant dat is het voorstel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Denk je dat ik als marketeer niet overal een ad-blocker op heb? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is allemaal uitgekomen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Waar las u die eerste passage/beweringen ooit ergens van mijn hand? Mooi staaltje 'fake news' zo! 🤔 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Want jij stelt een oplossing met biomassacentrales voor !?\nOok goed !\nSucces ! 👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Toen dacht je ook al dat CO2 uit hout iets anders is dan CO2 uit steenkool. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Haha. Ik denk dat het eerder andersom is: de traditie om orkanen meisjesnamen te geven is omdat ze zo heftig zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

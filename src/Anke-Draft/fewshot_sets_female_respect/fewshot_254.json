@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Maar de vraag is: Heeft Myrthe's partij PvdA nog principes? \nFormeren zou toch wel een schoffering zijn van LodewijkA door de PvdA!\n&gt;&gt; + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat komen zij precies doen dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het klimaat verandert al 4 miljard jaar. Even snel als nu? Fitfor55 had 30 jaar geleden gelanceerd moeten zijn. De opwarming die we nu zien is het gevolg van onze uitstoot van toen. Hopelijk beseft u wat er nog gaat komen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Meer en zwaardere stormen door klimaatverandering? 'Dat weten we op z'n vroegst pas over 30 jaar' Fijne avond! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dus ook achtergestelden een kans te geven bij te trekken ipv vijanden van hen te maken met theoretische scherpslijperij waar de schrijver zelf oók niet aan kan voldoen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaat stilzetten kan niet eens. Dat zou heel slecht zijn voor de wereld. Ik denk dat er nu niet meer of ergere natuurverschijnselen zijn dan pakweg 5000 jr geleden. Alleen wordt nu elke windvlaag binnen minuten wereldwijd bekend èn opgeblazen tot mythische proporties. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hi Paul, dat is nou precies het ding. Het is een benzinestation. Net als dat een kolencentrale niet meer rechten heeft op het realiseren van windmolens zou een benzinestation ook niet meer rechten hebben op het realiseren van laadpalen. Iedereen = gelijk in verdelingsprocedure. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De opwarming van de Aarde verstoort natuurlijke processen, hierdoor kon ineens kou uit de Noordpool via ongebruikelijke windstromingen Europa bereiken en abnormale kou veroorzaken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het idee van een verhandelbaar CO2-rantsoen is naar mijn idee vooral om te illustreren naar welke draconische alternatieven je moet uitwijken als het kabinet blijft weigeren om een CO2-belasting in te voeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Eens. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vertel, als Nederland onderwater lig, en mensen dood gaan, hoe wil je met je centjes welke samenleving bij elkaar houden? Bovendien je zei al dat voor jou kunnen  mensen gewoon gelijk kreperen want iedereen ga een keer dood. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Jan Leen Kloosterman in 2019 over thorium.\nOver twintig jaar heb je wellicht een demonstratiereactor staan”. Als alles goed gaat, technisch en qua draagvlak, kan er volgens Kloosterman vóór 2050 een echte reactor staan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee alleen jezelf redden is voldoende. Dus alles overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het is interessant dat je het enerzijds afdoet als onzin en anderzijds vind dat vooral jij geen opofferingen hoeft te doen omdat je geen kinderen hebt. \nAls het echt onzin is hoeft niemand dat, natuurlijk. \n\n👋🏼👋🏼👋🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je zou Lucas maar als leraar hebben..,\n\nMijn mening is dit en dat slikt jij maar… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U bent dus bij deze wetenschapsontkenner. Wappie gaat me nog een beetje te ver. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Linkse mafkees. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Het is uiteindelijk ook een detail in het gehele artikel. Zoals  daarover terecht zegt: bemoedigend! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We kunnen beter nog even gas gebruiken. Bossen zijn fijn om in te wandelen en zonde om te verbranden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik weet dat het wetenschappelijke debat over de rol van een zwakkere meer meanderende straalstroom nog niet beslist is maar ik geloof er wel in. Zeker in de zomer. Je ziet toch vaak dat het weer tegenwoordig vaak lang in het zelfde patroon blijft hangen en bovendien extremer is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😅 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "bezoeken Hans. Daar komen de berichten in naar voor van klimaatsceptici die je niet in de MSM tegenkomt. Voor de duidelijkheid. Ik ben ervoor dat we het klimaat beschermen, eerder nog het milieu. Maar de gekte waarmee het verkocht wordt, vind ik abject. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een heel eenvoudige.\nEen absoluut record is statistisch iets heel anders dan de afwijking van wat je gemiddeld genomen kunt verwachten. Voor het eerste heb je maar één waarneming, voor het laatste elke dag elk jaar een waarneming.\nEén enkel record zegt niets over veranderingen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je kan hem niet belasten op de waarde van z'n aandelen natuurlijk... maar wel als ie ze verkoopt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wow! Dus oma bezoek deed je in je zwembroek? 😂 \n\nDank, ze had best veel pech en complicaties maar als t nu zonder verloopt kunnen we vanaf volgend weekend weer lekker aan haar activiteit-behoefte voldoen 😊 ze kan niet w88! 🐾 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Bedankt, kleine kans lijkt mij inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat zei Al Gore 20 jaar geleden ook al. Het probleem is alleen dat het niet uitkomt. Maar ik begrijp het wel. Voor de een is het een flinke kostenpost en voor de ander big business. \n\nMisschien moet ik ook iets gaan doen in de klimaathype. 🤔 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Oh en je bent een komma vergeten.👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "#KlimaatOntkenner. \n\nDemotiverend? Het klimaat gaat eraan man.. en jij kan niet eens luisteren naar wat #ALLE klimaat wetenschappers al 40 jaar roepen. De tijd is op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Over hypocrisie gesproken. #klimaatverandering ontkennen, maar wel gered willen worden 🙃👍 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als u met 2 vingers in de neus redeneert dan klopt het.  Echter de hoeveelheid water en de vertraagde luchtstromen komen overheen met het veranderende klimaat.  De afwijkingen zijn dermate dat het niet zou moeten voorkomen onder normale omstandigheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Idd. Maar niet het overheersende volk. Dat zijn de moslims.\nKleinkinderen = hoofddoek verplicht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat zie ik. Er zijn meerdere aspecten waaraan ik kan zien dat je educatie niet optimaal is. En daarmee gebruik ik een euphamisme. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Spuit 11 geeft modder... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "je hebt dus echt genoten? maar je luier stinkt wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Alle opofferingen? Waar heb je het in godsnaam over? Ik heb het niet eens over één opoffering gehad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

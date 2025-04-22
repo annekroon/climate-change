@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Fossiele brandstoffen verbranden is per definitie niet goed voor het milieu en het klimaat. Wat is er zo erg aan om hier mee te stoppen? Juist de petrochemische industrie is kostbaar voor mensen, terwijl energie letterlijk op te vangen is, iedere dag weer. Wat is hier op tegen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ER WORDEN ONS OOK VEEL DINGEN WIJSGEMAAKT DOOR ZG  WETENSCHAPPERS. DAAR WORD JE TOCH ZIEK VAN. ZELFS OP GOOGLE ZIJN VELE DINGEN IN CA 2020 AANGEPAST + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Misschien zou je nog een in een boekje over biologische samenwerking lezen,  maar heft niets met gender te doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En is volgens jou de relatie broeikasgas (met als voorbeeld co2) en opwarming direct, causaal bewezen? En weet je waar dat terug te vinden zou zijn? Je ziet nu correlatie altijd. Maar ik zou graag causale verband bewezen zien (of niet). Maar lijkt me nodig om gesprek te voeren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dag Frank,\nKernenergie lijkt aantrekkelijk, maar is geen geschikte oplossing voor dit probleem. Een kerncentrale bouwen kost minstens tien jaar en wordt alleen gebouwd als er veel subsidie aan wordt gegeven. Dit zou de overheid zoveel geld kosten dat we dan geen geld meer 1/3 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jouw telkens originele perceptie van de realiteit blijft intrigerend 🧐 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Makes sense. Heb je iets van stats ergens? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik kan toch maar moeilijk doorgronden wat ze juist van plan zijn. En wat ik er van begrijp kan ik op geen enkele manier betalen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt maar wij hebben hier te maken met Europese regelgeving en niet die van India. Een goed milieu begint bij jezelf. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik hoop dat jij gelijk hebt maar ik vind dat we ons uiterste best moeten doen om de aarde nog leefbaar te houden voor volgende generaties. De nare effecten worden steeds erger. Ik hoop dat je verder 'durft' te kijken dan je eigen wensen en behoeften. Zo belangrijk zijn wij niet! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben gebrevetteerd vlieger en dan zou ik niets van meteorologie weten? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben echt zo moe van die fascisten die overlast gevende windmolens willen doordrukken ten koste van het leefgenot. Opflikkeren met die turbines + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Okey I tried, maar zwaai het niet altijd af. GN verder 👍🏼 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "😮 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "*Clue. Ik begrijp je volkomen hoor: jouw mening is dat vliegen goedkoop moet blijven zodat iedereen dat kan blijven doen. Ik ben van mening dat de destructie van onze planeet niet opweegt tegen deze luxe. En een veel te goedkope luxe dat wij bekopen met misgelopen belastingen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Die zijn er om via metingen en datasets steeds acuratere voorspellingen te krijgen. Nu zien ze echter steeds meer onderschattingen van de modellen. Daar zeg je niets over huh + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De mens is pas  +/- 10.000 jaar vee gaan houden, dus dat lijkt me sterk. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Klopt inderdaad, soms vond ik dat best lastig, wanneer je oprecht en betrokken bent kan je hier zo boos om worden. Wanneer het allemaal niet werkt is ridiculiseren het beste antwoord. Gelukkig zit het verstand en de humor iig aan onze kant 😉😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "duidelijk jij, want je wil liever dat mensen dood gaan dan dat je geld verlies of iets anders gaat doen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

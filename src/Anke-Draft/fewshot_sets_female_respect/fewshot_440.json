@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "hmmmm... 'moties' is een wat al te groot containerbegrip, vrees ik, om dergelijke conclusies te trekken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En daar gaat het dus mis. We hebben én geen keus, én geen tijd meer als het om klimaat gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat proces van klimaatverandering, wat al 4,5 miljard gaande is, gaan we een halt toeroepen met politici die massa immigratie en het corona virus ook zo goed aangepakt hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zo 'dynamisch' zoals het nu is is het nog nooit geweest. En dat dit eraan zat te komen is al sinds vorige eeuw zichtbaar. De techniek was echter nog niet zo ver als nu dat we er ook daadwerkelijk iets aan kunnen doen. Irrigatie zal Afrika niet helpen. Zeewater is niet oneindig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik zal die stukjes straks bekijken, maar die meneer doet geen simpele aannames hoor. Het verhaal zit gedegen in elkaar met natuurkindige principes en berekeningen uitgelegd. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Spannend! 😎 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Olie is een natuurproduct: arsenicum ook. Lood. Kwik. Nauwelijks een argument :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Op de retweet van Hiemstra. Het gebrek van urgentie ontbreekt en als er dan oplossingen voorgedragen worden zijn die op basis van gepolder ipv keuzes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "De fatale zomerstorm van 1 augustus 1674 was en is ook nog steeds niet verklaarbaar op grond van het toenmalig heersende klimaat. Toch was die er en verwoestte half Utrecht en Holland. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Slechte zaak, is echt iets anders + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gelukkig neem je jezelf nog wel serieus. \nDat is het belangrijkste 😉. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik krijg het gevoel dat je me in de maling neemt en mijn tijd zit te voldoen met deze lijst. Ik vind vanalles, economen, health neutrition experts en psychiaters maar wtf hebben die nu met het klimaat te doen??! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik bespeur nog steeds geen (begin van een) oplossing. Gewoon maar niks doen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je zou Lucas maar als leraar hebben..,\n\nMijn mening is dit en dat slikt jij maar… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja, en? \nZou een warmer of een koudere omgeving gunstiger zijn voor leven? M.a.w. zou het kunnen dat CO2 de temperatuur volgt? Make an educated guess! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "jaa ik heb nodig das op punten met de kat en de krultang? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat moet ik begrijpen? een statistisch in de trend passend koude record en een statistisch irrelevante spike van 2 dagen geen indicatie van een opwarmende zuidpool is?\n\nJe weet dat de afkoeling van Oost Antarctica grotendeels door het omgekeerde broeikaseffect komt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is niet waar... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

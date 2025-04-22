@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Zucht. Je kan mensen die serieus klimaat onderzoek doen maar beter serieus nemen. Die hebben zinniger dingen te zeggen als mensen dingen roepen als 'Extreem weer is van alle tijden' 'De St Elisabethvloed was zeker ook vanwege klimaatverandering?'... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wait. Vicieuze cirkel zo. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb mijn winterjas nog niet eens aan gehad 🙈. Maar 13 graden is gehoorlijk warm voor deze tijd van het jaar. Wel ideaal weer om een lange wandeling te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij bent me net voor wat betreft de verwarming 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik claim niks. Ik vraag naar bewijs. Als ik zou claimen dat de klimaatverandering niet mensgemaakt is m, DAN zou ik bewijs moeten leveren. Maar dat doe ik dus niet. Ik vraag louter bewijs. En dat is er niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Toch is dat niet hetzelfde. Neem Al Gore: hij predikt het ene, maar brengt dat zelf niet in praktijk. Hij gebruikt 20x meer energie dan een gemiddeld gezin in de VS. \n\nMensen hebben van het klimaat een verdienmodel gemaakt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Crises hebben ook invloed op bijv. het MKB,vestigingsklimaat of op migratie.Dan moet je of je belastingen weer verhogen om dat te repareren of je zit met problemen.Tegengehouden transitie door oliemaatschappijen zorgt er voor dat gewone hardwerkende burgers het gelag betalen.2/2 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "“Dus, ga je nog op vakantie?” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is behoorlijk overtrokken, ik heb meer geloof hierin 👇 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwa, een klant (Copenhagen Atomics) is op schema om over 5 jaar de eerste commercieel verkrijgbare Thoriumreactor te produceren. Dit is hun verhaal in een notedop. Copy/stem/knip-en-plakwerk van ondergetekende. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Grieken zijn creatief met die dingen. Net zoals het nooit afbouwen van een huis, dat scheelt ook iets in de belasting hoorde ik. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Iemand met politieke ambities moet juist inclusief zijn, en niet uitsluiten. De gene die geld genoeg hebben hebben allang verduurzaamd, en een groep die hikt tegen de kosten aan, en een gedeelte kan het niet meer betalen en de rest kan het niet betalen + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat en waar zit het probleem! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Omdat je geen argumenten hebt, hol vat! Schaak en mat! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dat krijg je van die vrouwennamen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Waar las u die eerste passage/beweringen ooit ergens van mijn hand? Mooi staaltje 'fake news' zo! 🤔 🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "‘T staat zwart op wit ouwe reus. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kijk nu praat je over jezelf en als de de andere tweets na lees hoor ik een ambtenaar zonder emotie, dat jij het goed heb geregeld is super,  en help andere in je omgeving het zelfde te doe als dat mogelijk is, maar in heelveel huishoudens hebben ze al geld te kort, + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Pfff ga niet nog eens op al mijn oude berichten reageren. \n\nVerder als je alles onzin vind. Ik begrijp het. Jij leeft in Nederland en de rest maakt niets uit. \n\nDat er voedsel tekorten zijn, wat maakt het uit de iemand aan de andere kant van de wereld honger heeft. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dat is dan vrij ernstig. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Je vindt het klimaat belangrijk of je vindt het niet belangrijk en gaat akkoord met het met miljarden euro's subsidiëren van hele bossen aan CO2 de atmosfeer injagen.\n\nPluche heiligt niet alle middelen! Dat is niet naïef maar reëel zijn! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou zo klein is t kind niet meer. Oud genoeg om te weten dat dit niet aan mij ligt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij denkt aan de rijders. Die meteorologen (waartoe ik me vandaag ook maar even reken) denken aan het publiek. Dat gaat ook het ijs op. Je zou heel Friesland in isolatie moeten doen. En dan nog heb je er een miljoen... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad. Het verdien-model zit bij de ontkenners. Goed gezien. Gas,olie, auto industrie etc + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja leuk, maar dat is onlogisch en derhalve vreselijke nonsens. En dat argument over ‘aansluiten bij windmolen infra’ betekent dat er te snel infra voor windmolens )en zonnecellen) is gebouwd, weggegooid geld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Shit, heb net een duur gasfornuis gekocht, zit er geen gasaansluiting in mijn huis. Doen die dingen het ook op een blikje campinggaz? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Simon, bedankt voor het nemen van prik 5. We kunnen je dagelijks nu goed volgen op Google Earth. Je hart functioneert goed, voldoende zuurstof in je bloed. Je moet wel wat doen doen aan je cholestrol, die is veel te hoog en stop met roken !  :-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Obv metingen en locatiegegevens valt meer regen op minder plekken. Die minder plekken krijgen daarmee extremere hoeveelheden water te verduren, zoals Limburg nu, en delen Duitsland en België. De totale mm neerslag over heel NL niet altijd veel meer, lokaal wel veel meer impact. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nee, we vertrekken pas op de 28e...\nEerst het schip verder met zwart snijwerk afschilderen.\nNu niet zoveel meer.\nTijdens het varen is er inderdaad geen of heel weinig tijd om te twitteren. Ga wel foto's maken en posten...\n#Zeelandreis #Actief + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als jij onbelast vliegen voor een paar duppies terwijl een grote klimaatcrisis eraan komt niet absurd vindt.... Dat is pas speciaal. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 Ik ben geen VB’er maar begin er steeds meer sympathie voor te krijgen, maar deze hittegolven geen gevolg van klimaatverandering, maar gewoon van weerfenomenen 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt je duidelijk \nniet echt verdiept in de export + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nou. Om te weten dat klimaatverandering een ding is hoeven we Leo niet te hebben hoor. Het bewijs begon al aardig overweldigend te worden toen ik 15 jaar geleden Natuurkunde studeerde. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De planeet don’t care. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Reageren op jouw zinloze antwoorden is dat zeker! Succes met je verdere leven. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ik zie trouwens dat je het artikel over bosbranden niet gelezen hebt dus of dit allemaal zin heeft vraag ik me af als je niet wil leren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kletskoek + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk wel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik begrijp dat... maar ik vind papier altijd heerlijk (ouderwets) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Beste Willem, ik geloof niet meer in de opkoop van emissierechten. Op papier klinkt het leuk, maar uiteindelijk is een verdienmodel. Ik vind dat pervers getuige de huidige ernst van klimaatverandering en niet meer passen bij onze tijd. Ik zou bíjna zeggen \"neoliberaal\" 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "(en ovrgs zal die aanwas ook geen constante zijn waar de neerslag locaal toe of afneemt oiv klimaatverandering) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Makes sense. Heb je iets van stats ergens? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zie hier: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Maar de vraag is: Heeft Myrthe's partij PvdA nog principes? \nFormeren zou toch wel een schoffering zijn van LodewijkA door de PvdA!\n&gt;&gt; + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "4: Dat zelfs binnen  mensen vanuit deelbelangen of eigenbelang hun ogen sluiten voor de opgave waar we voor staan is voor mij de belangrijkste reden geweest dat ik het niet meer kon opbrengen om daar nog energie in te steken. Ik heb wel wat beters te doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Vroeger in mijn jeugd elk jaar als de geul en maas overliepen en dorpen langs de Maas (bv Margraten) tot 1,5 meter onder stonden. En dan op vakantie naar zuid Zwitserland op de camping die elk jaar na een week regen onderliep omdat het meer overstroomde. Inmiddels stukken beter + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Men riep hier jaren te schreeuwen over 'global warming' tot de strenge winters kwamen. Toen werd het ineens 'klimaatverandering'. Het mooie van dat laatste is, is het een warme dag, het komt door klimaatverandering. Is het een koude dag, het komt door klimaatverandering. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, Apart he- nu kunnen mensen zonder specialismen ook echt wel de juiste vragen stellen, maar Marlies Dekker heb ik daar heel weinig op kunnen betrappen;-) + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Kijk dat is het verschil tussen jou en mij: ik kan verschil maken tussen een domme opmerking en de persoon er achter. Ik vind whataboutism dom, ik zeg daarom \"het\" en niet \"jij\". Dat siert mij inderdaad. Wat je hierna ook antwoord interesseert me niks. Je mag het laatste woord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wederom een bevestiging dat je absoluut geen inhoud hebt en nooit weet waar je over praat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Neen. Het kleinste kind weet dat klimaatmodellen de radiatieve balans voorspellen, enkel en alleen dat. \n\nOok weet het kleinste kind dat het globale klimaat afhangt van die radiatieve balans. Hoeveel energie we ontvangen, hoeveel er naar de ruimte terug gaat. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als u met 2 vingers in de neus redeneert dan klopt het.  Echter de hoeveelheid water en de vertraagde luchtstromen komen overheen met het veranderende klimaat.  De afwijkingen zijn dermate dat het niet zou moeten voorkomen onder normale omstandigheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "meer een Tena men.. ben er al even en heb met hem zelf te maken gehad.. dus spaar mij je bull trol + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

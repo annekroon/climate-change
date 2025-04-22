@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Inderdaad, alles moet kritisch bekeken worden en allereerst de bron zelf. Vooral lezen in bronnen die ons op het eerste gezicht niet aanstaan dienen gelezen te worden voor de balans in inzichten. Eigenlijk zou iedereen die iets beweert de bijbehorende bronnen moeten vermelden.🌱 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hmmmm….misschien zag ze dingen die jullie niet zagen? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "WETENSCHAP EVOLUEERT WEL NATUURLIJK, MAAR BETROUWBARE BRONNEN (BV. REUTERS, APNEWS, NATURE, NASA, KNMI, EDA E.D.) GEVEN JE NIET DE ANGSTVERHALEN MAAR GEWOON FEITELIJKE RAPPORTAGE, MEESTE IS SAAI EN ZITTEN GEEN KWADE BEDOELINGEN ACHTER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb een lange rok aan, mag dat ook. Staat wel heel charmant met die geitenwollen sokken 😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het absorbeert sowieso niet de warmte. Het herverdeelt de warmte,zodat die langer in de atmosfeer blijft. Stuurt de warmte zeg maar terug. Las ik laatste bij zoektocht naar hoe het werkt. Dat vond ik wel logisch klinken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoi Geurt, heb ik ergens benoemd dat er nog onopgehelderde mechanismen zitten in het klimaat? Néé, het gaat hier louter om een belangrijk vastgesteld verband tussen klimaatverandering en zware regenval met alle gevolgen van dien. U weet dat dit verband wat door mij geponeerd[1/2] + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ge gaat steun krijgen van  .Deze klimaatverandering is niet wat de #klimatos voorspelden :) Wel een #ommekeer zoals er reeds miljoenen jaren plaatsvinden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik neem eenvoudig niet aan dat de toename van CO2 in de atmosfeer de desastreuse gevolgen zal hebben die eraan wordt toegeschreven. Recente metingen en waarnemingen spreken dit tegen. Samen met allerlei samenhangende belangen lijkt mij scepsis wel op z'n plaats. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zucht. Je kan mensen die serieus klimaat onderzoek doen maar beter serieus nemen. Die hebben zinniger dingen te zeggen als mensen dingen roepen als 'Extreem weer is van alle tijden' 'De St Elisabethvloed was zeker ook vanwege klimaatverandering?'... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel meer CO2 belasting wil je als burger zelfs betalen? Dan alles wat je bij anderen (bedrijven) neer legt komt terug in hogere prijzen plus extra btw inkomsten voor de staat. Daarnaast kan werkloosheid in Nederland stijgen als industrie wegtrekt.  Dus minder staatsinkomsten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik heb (bewust) geen kinderen!!!  Zo, dat kunnen niet veel mij nazeggen. Ik rook ook niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey Lode, de podcast duurt 18 minuten en brengt de nodige nuance. Is handiger dan de de 280 tekens van Twitter. Neem je eventjes wat tijd om te luisteren naar iemand die er duidelijk wel iets van kent? Groetjes. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee, ik roep niet zomaar wat. Dat je zelfs nu nog niet ziet welk spel er gespeeld wordt. Hoe kan een mens zo onwetend zijn? Volg haar eens, als je echt verdieping wilt + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hoeveel zetels hebben \"linkse\" partijen?\nWe ( Iraanse vluchtelingen in Nederland ) lachen\nhun ( lees nep-links) uit #woke #identiteitspolitiek\nPS: \nD66 = woke capitalism. Cultureel links, economisch rechts DUS RECHTS + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "wat is er onjuist? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "🤣🤣🤣 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dit is de klimaatverandering. En vrouwen kunnen altijd rokjes aan. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus u spreekt u eigen tegen met te zeggen dat zij weten wat er moet gebeuren en dus gelijk hebben. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Significant in je broekje. En tussen je oren. Verdiep je eens echt in de materie, en ontrafel de klimaathoax + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Vind ik is zonder t. Ga jij nou maar lekker naar school om je grammatica bij te spijkeren en maak je niet zo druk over dingen die “misschien” over 100 jaar gaan gebeuren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

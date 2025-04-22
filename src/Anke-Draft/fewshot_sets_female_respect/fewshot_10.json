@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Als je eens kijkt op de website van TerraPower:\n\n\n\nKun je lezen dat het een goede aanvulling is op wind en zonne-energie. Dus niet “of” maar “en”…\n\n“As more renewables are integrated into the grid, the demand for energy storage will continue to increase.” + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook de minder gepriviligeerde mensen zullen binnen 30 jaar een pak rijker zijn dan vandaag en beter gewapend tegen veranderende omstandigheden... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies de mantra van rechts. Ja, het kost geld, maar je hebt ook de plicht om mensen te helpen en ze niet per definitie weg te zetten als gelukszoekers. Er is geen eenvoudige oplossing voor dit probleem. Het is enorm complex, itt wat Wilders, Baudet, SGP, CDA en VVD beweren. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat ja. Er moet een verplichte vaccinatie komen tegen een tekort aan empathie. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Verhuizing voorkomt op geen enkele manier geldigheid vonnis. En afstoten van sites doet ook niet af aan effectiviteit. Heb je gelezen hoe grondig de rechtbank gehakt maakt van Machiel Mulders werk over ‘perfect substitution’ ?! Je bent aanmatigend in je oordeel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik volg heel wat klimaatwetenschappers op Twitter en het gaat slecht, heel slecht. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja, dat is op zo veel verschillende manieren aangetoond dat het algemene kennis binnen de klimaatwetenschap is. Net zo als dat biologen nauwelijks discussieren of de evolutietheorie klopt of niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Met gokken kunt u verliezen, ook al lijkt de buit al binnen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "En hier is mijn antwoord: + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wie wereldvernietiging laat doorgaan wel dan? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "weer een uit het verband gerukt antwoord als je in het nauw komt is ook weer een bekende reactie. Anderen verwijten naar anderen te wijzen terwijl je zelf naar een ander wijst. Wat heb jij er zelf aan gedaan dan? Boeren hebben de stikstofuitstoot alweer verlaagt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "U haalt er uit wat U ideologisch gelooft en vermeldt slechts 1 schimmige bron ‘dana’. Ik vertrouw op mijn boerenverstand en de mij in het onderwijs aangeleerde logica 🤷🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Je hebt blijkbaar alleen Ctrl-F \"Climate crisis\" door het doc gebladerd i.p.v. de inhoud ervan tot je te nemen. Het wordt gesteld dat klimaatverandering versneld, bij 2 graden nog verder zal versnellen, door CO2 uitstoot veroorzaakt wordt en de gevolgen ernstig zullen zijn. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja ja, vervelend he + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bullshit + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Och laat ik zeggen dat ik wel wat vaker met Sypje te maken heb gehad. Dat jij er nog in trapt zegt genoeg over jou IQ. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "en plots is een zak geld en volop mogelijkheden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Warmt het regenwoud op? \nHier om mijn woorden wat kracht bij te zetten. Hopelijk snap je het plaatje. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

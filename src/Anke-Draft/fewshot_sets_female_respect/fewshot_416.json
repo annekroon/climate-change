@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Dromen mag. Geld smijten in bodemloze putten zou niet mogen. \nÁls maatregelen al zouden helpen, tot hoever mag de rekening dan oplopen? Kosten/baten. Ik vind dit een normale en relevante vraag. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Moet ik nog terugkijken... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klimaatverandering komt in de er plaats door overconsumptie niet door overbevolking + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Die 350 meter hoor ik vaak deze week. Dat lijkt me voor een nieuw project inderdaad te kort bij. Waaruit blijkt dat er plannen zijn voor windturbines op 350 meter van een woonwijk? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als je boodschap de ene dag is ‘we sluiten maar 2GW kernenergie ten voordele van gascentrales’ moet je niet verwachten dat de dag erna je ‘deze overstroming is onze straf’ heel begeesterend werkt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Precies stikt Vd kou hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "\"In de loop van de tijd\"? Men heeft er dus geen haast mee. Wat zou een realistisch inflatiepercentage zijn als koopwoningen wel werden meegeteld? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "‘In uw eigen woonomgeving’ scoorde maar bij 21% van de respondenten JA. \n‘In uw achtertuin’ had vast nog een stuk lager gescoord. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Als hier de boel weer 'natuurlijk' moet, dan wordt het hier een groot onleefbaar zompig moeras. En zeebodem. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "We je feiten weten voor je uitspraken doet. 1: Ik heb niet gezegd dat er geen energie bezuinigd moet worden. Dat moet wel, ongeveer 50%. Maar dan nog is de opgave gigantisch en is er op zee geen ruimte voor opwek voor huishoudens, mkb-bedrijven en vervoer. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "😀😎Tsja die rekenen 't zo weg. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "\"Bewijs genoeg\" is geen bewijs. Hoe wil jij een groot bos onderhouden? Het is geen stadsparkje zoals de Veluwe. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ze moeten orkanen Hercules, Thor of Conan noemen. Daar red je levens mee. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Duidelijk, aha.. hoe dan?\nEn het 2e deel van uw reply snap ik niet zo helemaal. Of eigenlijk... helemaal niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hel en verdoemenis.    U klinkt als de man die ieder dorp vroeger had en die hel en verdoemenis predikte.   \n\nDe tijd is lang niet op. Leef niet zo in angst en zuurheid maar zorg dat je tijdens je feite reis die het leven is verantwoording ook weet te koppelen aan levensvreugde + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Alleen in modelprognoses waarbij geldt: “alleen wat je erin stopt komt eruit”.\nMaar als jij jezelf angst wil aanjagen: prima. Maar laat anderen daar buiten. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wegkijker. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Met doelredenatie kun je overal komen. Succes! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Boeiender dan uw achterhoede verhaaltje.\n\nDe honden blaffen, de karavaan trekt verder...\n\nNB: prima dat jeugdjournaal. Heel leerzaam. Vermoedelijk juist ook voor u.\n\nSucces.\n\nFijne avond. Daaag 🙋🏻‍♂️ + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dus dan doe je zelf ook maar niets. Wat een levensinstelling. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ook dat nog, maar 'on the bright sight' deze koude front dieren hebben wel handschoenen aan een een muts op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het eerste is echter wel volledig fantasie en uit de duim gezogen.\n\nOok de scientology noemt zich wetenschappelijk, maar het roepen en het zijn is echter een groot verschil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zon (warmte en stroom) wind, evt golf/getijden. Geothermisch is vaak te duur. Opslag in batterijen, waterstof alleen waar het de enige oplossing is. De potentie wordt nog lang niet uitgenut. Dunne film solar zal PV 5 keer goedkoper maken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja daarom is het ook niet nodig om dan op een warme dag die temperatuur als bewijs aan te voeren. Ik zag hem dat deze week zeker iets te stellig doen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een kleine speler? Meer dan 1/3e van atmosferisch CO2 is afkomstig van menselijk handelen.\n\nJe kan niet verwachten dat CO2 stijging evenredig is met tempstijging, er zijn immers andere processen als ENSO die een cyclische verandering in verdeling van energie op Aarde veroorzaken. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik ben ooit links begonnen en daarna opgeschoven, maar eerlijk gezegd zou ik het nu niet meer weten. In de huidige regering heb ik nul vertrouwen, geloof ik sinds corona niet meer in, wat een stelletje incapabele lieden daar! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dan heb je jezelf niet in de actie verdiept… + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Tja, klimaatwetenschappers en activisten *vragen al jaren continu aandacht voor de crisis, maar *krijgen vaak pas aandacht als er \"iets\" gebeurt. Maar als je serieuze info wil, dan zijn er zat goede bronnen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "ER WORDT NIET GEKNOEID ZE HEBBEN MEETRESULTATEN GEHARMONISEERD (BIJ HET KNMI) MAAR KLIMAATWETENSCHAP IS NIET AFHANKELIJK VAN HET KNMI ALLEEN MAAR WERELDWIJD ZIEN WE STIJGINGEN IN DE HOEVEELHEID EN DE DUUR VAN HITTEGOLVEN EN EXTREMER WEER. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Het is niet bewerkt, er niks mis met een schoon milieu maar dat is iets anders dan het klimaat + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Klopt. dan nog vergunning traject doorlopen in NL. bezwaren onderzoeken. Investeerders, Bouw duurt in NL altijd langer dan ingeschat.\nOf zijn we zo naïef dat we denken dat het in NL wel snel kan.. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Zure regen, ozongat, cojona, allemaal overleefd. Fuck klimaatfetisjisten. Fuck groene nonsense. Oh ja, na Pangea ook niks aan de hand. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Nee alleen jezelf redden is voldoende. Dus alles overgemaakt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je je erin verdiept had wist je dat 2050 is berekend door wetenschappers. We gaan het niet eens worden. Ik ga iets leuks doen met m’n avond. Ciao! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Aan je reactie te lezen bluf je hier gewoon want  ging over uitgelekte stukken van oliemaatschappijen zelf en voormalige communicatie-experts die zonder kennis van het onderwerp ingehuurd werden om twijfel te zaaien.\n\nKijk het programma gewoon eerst voordat je reageert.😉 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Bizar dat je wel dat soort krankzinnige complottheorie voor waar aanneemt zonder bewijs maar dat je dan weer niet kritisch kijkt naar alle anti-klimaatmaatregelen propaganda en desinformatie waar duidelijk veel financiële belangen meespelen. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uw grootheid is ongekend ongetwijfeld. Maar dat verandert de facts niet. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "beetje een paniekpinguin hoor, hij kan beter zwemmen dan hollen, dat weet 'ie toch? *smh* + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Ik ben ooit links begonnen en daarna opgeschoven, maar eerlijk gezegd zou ik het nu niet meer weten. In de huidige regering heb ik nul vertrouwen, geloof ik sinds corona niet meer in, wat een stelletje incapabele lieden daar! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Gewoon klompen erbij en je bent nog hip ook 😂😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook laatste zin, mogelijk kunt u meedenken aan een oplossing en dat bekend maken aan ieder die het horen wil. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Dat maak je al wel mee maar je ziet het niet... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Prima. Als je maar niet van mening bent dat de wetenschap ook een mening/standpunt is. Klimaatverandering is geen grap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Jij hebt de hele school weggegeven? 😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mmh, onze carport met dak van 28m² vult lekker 2 vaten van 1000 liter in 3 dagen tijd :) Oei, ...het dak van skipiste Landgraaf met 38000 m² heeft blijkbaar geen opvangvaten...Dus...loopt daar lekker een 2-3 miljoen liter water de omgeving in vandaag... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ja leuk, maar dat is onlogisch en derhalve vreselijke nonsens. En dat argument over ‘aansluiten bij windmolen infra’ betekent dat er te snel infra voor windmolens )en zonnecellen) is gebouwd, weggegooid geld. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Huh? Toch duidelijk denk ik dan + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zij hebben enkel een diploma van virologie. Kunnen enkel zeggen hoe een virus te bestrijden. Maar hoe je dat doet, speelt natuurlijk ook een rol. Je moet niet al onze vrijheden gaan afnemen. De maatregelen moeten niet erger worden dan het virus zelf, zoals nu wel het geval is. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Superkees snapt er weer geen ene hol van. Geen verassing overigens. Als rutte verkondigd dat er over 10 jaar geen kust meer is, maar wel daarna een dikke villa aan die zelfde kust koopt, dan is toch toch raar? Of snap jij dit ook weer niet zeker + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Als je dit op FB zet, wordt je 24-uur geband.... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "weer een uit het verband gerukt antwoord als je in het nauw komt is ook weer een bekende reactie. Anderen verwijten naar anderen te wijzen terwijl je zelf naar een ander wijst. Wat heb jij er zelf aan gedaan dan? Boeren hebben de stikstofuitstoot alweer verlaagt. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "De man is echt een aanfluiting. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Een vrije kwestie betekent gewoon dat het middels de Kamer erdoorheen wordt gedrukt, wat prima is hoor. Maar het is logisch dat de christelijke partijen zoiets proberen te voorkomen, zodat ze het dwarsbomen ervan kunnen presenteren aan hun achterban als een overwinning. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hahahahahaha ... noem anderen niet te snel \"simpel\" vriend dan blijf je heel. Je bent wat je zegt (of schrijft in dit geval). + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Maar Pol jij hebt toch een financieel belang bij de Co2 paniek met je olivijn zaakje? Jij wil het zeer waardevolle co2 (voedselgrondstof!) nota bene uit de lucht halen. Je zakken vullen door de kans op hongersnood te vergroten. Niet ethisch. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Persoon 3 = ontkenner v door de mens veroorzaakte klimaatopwarming. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Of hier + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "whaha denk je niet dat via twitter, je email, facebook, ip-adres, woonwijk, werkgever, auto etc er evengoed een profiel van je gemaakt kan worden...iedereen laat sporen na..na verloop van tijd is dat gewoon een profiel + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]

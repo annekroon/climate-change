@@ -1,0 +1,166 @@
+[
+  {
+    "role": "system",
+    "content": "You are a classification algorithm that has to differentiate between respectful and not respectful user comments in Dutch, where respectful is 1 and not respectful is 0. Answer with the correct class only. You must answer every time."
+  },
+  {
+    "role": "user",
+    "content": "Natuurlijk, het leidt tot wat economen noemen 'asset inflation'. Bubbels op aandelen- en vastgoedmarkten bvb. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Een deel van het Markermeer zijn de Marker Wadden (natuurgebied) geworden. Dat levert voor veel vogels en andere dieren een uitstekende broed- schuilplaats op.\nDat is ook niet in een weekje gerealiseerd. ;-)\nHetzelfde kan je doen met bomen denk ik in het resterende deel. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nooit meer?\nAfscheuren van Oostelijk Afrika langsheen de grote Rift?\nHet uitbarsten van de super Caldera onder Yellowstone?\nDe superuitbarsting van de Campi Flegrei?\nWat als de scheur van La Palma toch getriggerd wordt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ook dat nog, maar 'on the bright sight' deze koude front dieren hebben wel handschoenen aan een een muts op. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Mwa, een klant (Copenhagen Atomics) is op schema om over 5 jaar de eerste commercieel verkrijgbare Thoriumreactor te produceren. Dit is hun verhaal in een notedop. Copy/stem/knip-en-plakwerk van ondergetekende. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ah zelfs de knapste koppen op aarde kunnen dit niet meer fixen. Ze weten al 50 jaar dat er problemen aan komen. Het moet met de hele wereld samen en anders is alles kansloos mijns inziens🙃 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Ik neem zeker meer extreem weer waar. Ik werk bij een waterschap, en daar is het dagelijkse kost NL hierop aan te passen met hogere dijken, meer ruimte voor de rivieren, regenwater vasthouden voor droge tijden. Werk daar is anders dan 30jaar geleden. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Zou het kunnen zijn dat de meerderheid van Nederland het simpelweg niet eens is met de almaar doorgaande immigratie, het uitdijende EU apparaat en veel te dure klimaatplan? Rechts geeft net zo goed om het milieu, maar niet tegen iedere prijs. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Er staat niet dat het verkocht word als gevolg van klimaat verandering. Er staat dat er 26 mensen zijn gearresteerd en dat het niet tof is dat de temperatuur naar 42 graden stijgt en de luchtvochtigheid daalt. Maar als het vaker +40 word zal dat niet helpen inderdaad. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Nou volgens mij staat jouw oordeel hierboven al. Te kort door de bocht? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "1"
+  },
+  {
+    "role": "user",
+    "content": "Wat is je punt? + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "ook bij jou is er iets mis gegaan tijdens de geboorte + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Dan zijn we iig heul ver + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Ja dan smeken ze weer op greta als die weer in beeld komt dan gaat het gelijk stormen en gekke gerrit loopt net zo rood aan als zijn haarkleur 😂😂😂 + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Wat en waar zit het probleem! + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Uhm, ik heb geen overlijdensbericht ontvangen hoor + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Welnee. Welja. Welnee. Welja. \n\nAlle teksten op de website van het IPCC en summaries die zij geven zijn alarmerend. Het gaat om de prognoses, de toekomst, de kantelpunten. 19 cm is nu. Het gaat over 2100, dan ziet de wereld er serieus anders uit. + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "onder water. Het was voor 100% de regen en niets anders. Dat is bijna zeker alleen te verklaren door klimaatverandering en valt buiten het normale stramien van overstromingen door smelt water. Jij wil daar niet aan sleept er àlles bij om niet tot dezelfde conclusie te komen. Slap + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Kan je ook nog iets anders dan de man spelen ? Het handelsmerk van links....... + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  },
+  {
+    "role": "user",
+    "content": "Hey, als iemand een dansleraar kan vinden tussen deze lijst vol economen, psychiaters en neutrition experts (die allemaal een mening over het klimaat hebben) dan heb ik iig het gevoel dat er een jackpot gehaald is :D + categories: 1, 0"
+  },
+  {
+    "role": "assistant",
+    "content": "0"
+  }
+]
